@@ -1,0 +1,4 @@
+ALTER TABLE Instructor DROP CONSTRAINT In_pk CASCADE;
+ALTER TABLE Instructor ADD COLUMN SerialNo serial;
+ALTER TABLE Instructor ALTER COLUMN EmpNo DROP NOT NULL;
+ALTER TABLE Instructor ADD CONSTRAINT In_pk1 PRIMARY KEY (SerialNo, Title, Semester, Acad_Year);

@@ -1,0 +1,523 @@
+<?php
+session_start();
+?>
+<html>
+<body>
+<?php
+
+      if(isset($_SESSION['authorized']))
+      {
+	$con = mysql_connect("127.0.0.1","root","shitass");
+	if(!$con)
+	{
+		echo "Connection failed";
+	}
+	else
+	{
+	  mysql_select_db("DBProject",$con);
+	  $del = $_POST[todel];
+	  $lendel = count($del,0);
+	  for($i=0;$i<$lendel;$i++)
+	  {
+	    $pnr = $del[$i];
+	    $qry = "SELECT * FROM globalreservations WHERE pnrno=".$pnr;
+	    $res = mysql_query($qry,$con);
+	    $row = mysql_fetch_array($res);
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    if($row[pass3_name]!="")
+	    {
+	      $pass3flag=0;
+	      if($row[pass3_status]==0)//Confirmed
+	      {
+		$qry1 = "SELECT coachtype FROM ".$row[trainno]."c WHERE coachnum=".$row[pass3_coachnum];
+		$res1 = mysql_query($qry1);
+		$row1 = mysql_fetch_array($res1);
+		$qry2 = "SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\"";
+		$res2 = mysql_query($qry2);
+		$row2 = mysql_fetch_array($res2);
+		$qry3 = "SELECT waiting FROM ".$row[trainno]."_".$row[boardingdate]." WHERE coachno=".$row2[coachnum];
+		$res3 = mysql_query($qry3);
+		$row3 = mysql_fetch_array($res3);
+		
+		$wait = $row3[waiting];
+		
+		if($wait==0)
+		{
+		  $qry4 = "SELECT * FROM ".$row[trainno]."_".$row[boardingdate]." WHERE coachno=".$row[pass3_coachnum];
+		  $res4 = mysql_query($qry4);
+		  $row4 = mysql_fetch_array($res4);
+		  
+		  $newstr = substr($row4[cap_str],0,$row[pass3_berthnum])."e".substr($row4[cap_str],$row[pass3_berthnum]+1);
+		  
+		  $qry5 = "UPDATE ".$row[trainno]."_".$row[boardingdate]." SET available=available+1,cap_str=\"".$newstr."\" WHERE coachno=".$row[pass3_coachnum];
+		  mysql_query($qry5);
+		}
+		else
+		{
+		  //Decrement row2[waiting] by 1
+		  $qry6 = "UPDATE ".$row[trainno]."_".$row[boardingdate]." SET waiting=waiting-1 WHERE coachno=".$row2[coachnum];
+		  mysql_query($qry6);
+		  
+		    $qry7 = "SELECT * FROM globalreservations WHERE pnrno <>".$row[pnrno]." AND trainno=".$row[trainno]." AND boardingdate=".$row[boardingdate]." AND pass1_coachnum IN (SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\")";
+		    $res7 = mysql_query($qry7);
+		    while($row7 = mysql_fetch_array($res7))
+		    {
+		      if($row7[pass1_name]!="" && $row7[pass1_status]==1)
+		      {
+			if($row7[pass1_waitnum]!=1)
+			{
+			  $qry8 = "UPDATE globalreservations SET pass1_waitnum=pass1_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+			else if($pass3flag==0)
+			{
+			  $qry9 = "UPDATE globalreservations SET pass1_status=0,pass1_waitnum=0,pass1_coachnum=".$row[pass3_coachnum].",pass1_berthnum=".$row[pass3_berthnum];
+			  mysql_query($qry9);
+			  $pass3flag=1;
+			}
+		      }
+		      
+		      if($row7[pass2_name]!="" && $row7[pass2_status]==1)
+		      {
+			if($row7[pass2_waitnum]!=1)
+			{
+			  $qry8 = "UPDATE globalreservations SET pass2_waitnum=pass2_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+			else if($pass3flag==0)
+			{
+			  $qry9 = "UPDATE globalreservations SET pass2_status=0,pass2_waitnum=0,pass2_coachnum=".$row[pass3_coachnum].",pass2_berthnum=".$row[pass3_berthnum];
+			  mysql_query($qry9);
+			  $pass3flag=1;
+			}
+		      }
+		      
+		      if($row7[pass3_name]!="" && $row7[pass3_status]==1)
+		      {
+			if($row7[pass3_waitnum]!=1)
+			{
+			  $qry8 = "UPDATE globalreservations SET pass3_waitnum=pass3_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+			else if($pass3flag==0)
+			{
+			  $qry9 = "UPDATE globalreservations SET pass3_status=0,pass3_waitnum=0,pass3_coachnum=".$row[pass3_coachnum].",pass3_berthnum=".$row[pass3_berthnum];
+			  mysql_query($qry9);
+			  $pass3flag=1;
+			}
+		      }
+		    }
+		}
+	      }
+	      else
+	      {
+		
+		$qry1 = "SELECT coachtype FROM ".$row[trainno]."c WHERE coachnum=".$row[pass3_coachnum];
+		$res1 = mysql_query($qry1);
+		$row1 = mysql_fetch_array($res1);
+		$qry2 = "SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\"";
+		$res2 = mysql_query($qry2);
+		$row2 = mysql_fetch_array($res2);
+		$qry3 = "SELECT waiting FROM ".$row[trainno]."_".$row[boardingdate]." WHERE coachno=".$row2[coachnum];
+		$res3 = mysql_query($qry3);
+		$row3 = mysql_fetch_array($res3);
+		
+		$wait = $row3[waiting];
+		
+		$qry6 = "UPDATE ".$row[trainno]."_".$row[boardingdate]." SET waiting=waiting-1 WHERE coachno=".$row2[coachnum];
+		mysql_query($qry6);
+		
+		if($wait-1!=0)
+		{
+		  
+		  $qry7 = "SELECT * FROM globalreservations WHERE pnrno <>".$row[pnrno]." AND trainno=".$row[trainno]." AND boardingdate=".$row[boardingdate]." AND pass1_coachnum IN (SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\")";
+		  $res7 = mysql_query($qry7);
+		  
+		  while($row7 = mysql_fetch_array($res7))
+		    {
+		      if($row7[pass1_name]!="" && $row7[pass1_status]==1)
+		      {
+			if($row7[pass1_waitnum]>$row[pass3_waitnum])
+			{
+			  $qry8 = "UPDATE globalreservations SET pass1_waitnum=pass1_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+		      }
+		      
+		      if($row7[pass2_name]!="" && $row7[pass2_status]==1)
+		      {
+			if($row7[pass2_waitnum]>$row[pass3_waitnum])
+			{
+			  $qry8 = "UPDATE globalreservations SET pass2_waitnum=pass2_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+		      }
+		      
+		      if($row7[pass3_name]!="" && $row7[pass3_status]==1)
+		      {
+			if($row7[pass3_waitnum]>$row[pass3_waitnum])
+			{
+			  $qry8 = "UPDATE globalreservations SET pass3_waitnum=pass3_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+		      }
+		    }
+		  
+		}
+		
+	      }
+	    }
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+
+
+
+
+
+	    if($row[pass2_name]!="")
+	    {
+	      $pass2flag=0;
+	      if($row[pass2_status]==0)//Confirmed
+	      {
+		$qry1 = "SELECT coachtype FROM ".$row[trainno]."c WHERE coachnum=".$row[pass2_coachnum];
+		$res1 = mysql_query($qry1);
+		$row1 = mysql_fetch_array($res1);
+		$qry2 = "SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\"";
+		$res2 = mysql_query($qry2);
+		$row2 = mysql_fetch_array($res2);
+		$qry3 = "SELECT waiting FROM ".$row[trainno]."_".$row[boardingdate]." WHERE coachno=".$row2[coachnum];
+		$res3 = mysql_query($qry3);
+		$row3 = mysql_fetch_array($res3);
+		
+		$wait = $row3[waiting];
+		
+		if($wait==0)
+		{
+		  $qry4 = "SELECT * FROM ".$row[trainno]."_".$row[boardingdate]." WHERE coachno=".$row[pass2_coachnum];
+		  $res4 = mysql_query($qry4);
+		  $row4 = mysql_fetch_array($res4);
+		  
+		  $newstr = substr($row4[cap_str],0,$row[pass2_berthnum])."e".substr($row4[cap_str],$row[pass2_berthnum]+1);
+		  
+		  $qry5 = "UPDATE ".$row[trainno]."_".$row[boardingdate]." SET available=available+1,cap_str=\"".$newstr."\" WHERE coachno=".$row[pass2_coachnum];
+		  mysql_query($qry5);
+		}
+		else
+		{
+		  //Decrement row2[waiting] by 1
+		  $qry6 = "UPDATE ".$row[trainno]."_".$row[boardingdate]." SET waiting=waiting-1 WHERE coachno=".$row2[coachnum];
+		  mysql_query($qry6);
+		  
+		    $qry7 = "SELECT * FROM globalreservations WHERE pnrno <>".$row[pnrno]." AND trainno=".$row[trainno]." AND boardingdate=".$row[boardingdate]." AND pass1_coachnum IN (SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\")";
+		    $res7 = mysql_query($qry7);
+		    while($row7 = mysql_fetch_array($res7))
+		    {
+		      if($row7[pass1_name]!="" && $row7[pass1_status]==1)
+		      {
+			if($row7[pass1_waitnum]!=1)
+			{
+			  $qry8 = "UPDATE globalreservations SET pass1_waitnum=pass1_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+			else if($pass2flag==0)
+			{
+			  $qry9 = "UPDATE globalreservations SET pass1_status=0,pass1_waitnum=0,pass1_coachnum=".$row[pass2_coachnum].",pass1_berthnum=".$row[pass2_berthnum];
+			  mysql_query($qry9);
+			  $pass2flag=1;
+			}
+		      }
+		      
+		      if($row7[pass2_name]!="" && $row7[pass2_status]==1)
+		      {
+			if($row7[pass2_waitnum]!=1)
+			{
+			  $qry8 = "UPDATE globalreservations SET pass2_waitnum=pass2_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+			else if($pass2flag==0)
+			{
+			  $qry9 = "UPDATE globalreservations SET pass2_status=0,pass2_waitnum=0,pass2_coachnum=".$row[pass2_coachnum].",pass2_berthnum=".$row[pass2_berthnum];
+			  mysql_query($qry9);
+			  $pass2flag=1;
+			}
+		      }
+		      
+		      if($row7[pass3_name]!="" && $row7[pass3_status]==1)
+		      {
+			if($row7[pass3_waitnum]!=1)
+			{
+			  $qry8 = "UPDATE globalreservations SET pass3_waitnum=pass3_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+			else if($pass2flag==0)
+			{
+			  $qry9 = "UPDATE globalreservations SET pass3_status=0,pass3_waitnum=0,pass3_coachnum=".$row[pass2_coachnum].",pass3_berthnum=".$row[pass2_berthnum];
+			  mysql_query($qry9);
+			  $pass2flag=1;
+			}
+		      }
+		    }
+		}
+	      }
+	      else
+	      {
+		
+		$qry1 = "SELECT coachtype FROM ".$row[trainno]."c WHERE coachnum=".$row[pass2_coachnum];
+		$res1 = mysql_query($qry1);
+		$row1 = mysql_fetch_array($res1);
+		$qry2 = "SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\"";
+		$res2 = mysql_query($qry2);
+		$row2 = mysql_fetch_array($res2);
+		$qry3 = "SELECT waiting FROM ".$row[trainno]."_".$row[boardingdate]." WHERE coachno=".$row2[coachnum];
+		$res3 = mysql_query($qry3);
+		$row3 = mysql_fetch_array($res3);
+		
+		$wait = $row3[waiting];
+		
+		$qry6 = "UPDATE ".$row[trainno]."_".$row[boardingdate]." SET waiting=waiting-1 WHERE coachno=".$row2[coachnum];
+		mysql_query($qry6);
+		
+		if($wait-1!=0)
+		{
+		  
+		  $qry7 = "SELECT * FROM globalreservations WHERE pnrno <>".$row[pnrno]." AND trainno=".$row[trainno]." AND boardingdate=".$row[boardingdate]." AND pass1_coachnum IN (SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\")";
+		  $res7 = mysql_query($qry7);
+		  
+		  while($row7 = mysql_fetch_array($res7))
+		    {
+		      if($row7[pass1_name]!="" && $row7[pass1_status]==1)
+		      {
+			if($row7[pass1_waitnum]>$row[pass2_waitnum])
+			{
+			  $qry8 = "UPDATE globalreservations SET pass1_waitnum=pass1_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+		      }
+		      
+		      if($row7[pass2_name]!="" && $row7[pass2_status]==1)
+		      {
+			if($row7[pass2_waitnum]>$row[pass2_waitnum])
+			{
+			  $qry8 = "UPDATE globalreservations SET pass2_waitnum=pass2_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+		      }
+		      
+		      if($row7[pass3_name]!="" && $row7[pass3_status]==1)
+		      {
+			if($row7[pass3_waitnum]>$row[pass2_waitnum])
+			{
+			  $qry8 = "UPDATE globalreservations SET pass3_waitnum=pass3_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+		      }
+		    }
+		  
+		}
+		
+	      }
+	    }
+
+
+
+
+
+
+
+
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    if($row[pass1_name]!="")
+	    {
+	      $pass1flag=0;
+	      if($row[pass1_status]==0)//Confirmed
+	      {
+		$qry1 = "SELECT coachtype FROM ".$row[trainno]."c WHERE coachnum=".$row[pass1_coachnum];
+		$res1 = mysql_query($qry1);
+		$row1 = mysql_fetch_array($res1);
+		$qry2 = "SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\"";
+		$res2 = mysql_query($qry2);
+		$row2 = mysql_fetch_array($res2);
+		$qry3 = "SELECT waiting FROM ".$row[trainno]."_".$row[boardingdate]." WHERE coachno=".$row2[coachnum];
+		$res3 = mysql_query($qry3);
+		$row3 = mysql_fetch_array($res3);
+		
+		$wait = $row3[waiting];
+		
+		if($wait==0)
+		{
+		  $qry4 = "SELECT * FROM ".$row[trainno]."_".$row[boardingdate]." WHERE coachno=".$row[pass1_coachnum];
+		  $res4 = mysql_query($qry4);
+		  $row4 = mysql_fetch_array($res4);
+		  
+		  $newstr = substr($row4[cap_str],0,$row[pass1_berthnum])."e".substr($row4[cap_str],$row[pass1_berthnum]+1);
+		  
+		  $qry5 = "UPDATE ".$row[trainno]."_".$row[boardingdate]." SET available=available+1,cap_str=\"".$newstr."\" WHERE coachno=".$row[pass1_coachnum];
+		  mysql_query($qry5);
+		}
+		else
+		{
+		  //Decrement row2[waiting] by 1
+		  $qry6 = "UPDATE ".$row[trainno]."_".$row[boardingdate]." SET waiting=waiting-1 WHERE coachno=".$row2[coachnum];
+		  mysql_query($qry6);
+		  
+		    $qry7 = "SELECT * FROM globalreservations WHERE pnrno <>".$row[pnrno]." AND trainno=".$row[trainno]." AND boardingdate=".$row[boardingdate]." AND pass1_coachnum IN (SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\")";
+		    $res7 = mysql_query($qry7);
+		    while($row7 = mysql_fetch_array($res7))
+		    {
+		      if($row7[pass1_name]!="" && $row7[pass1_status]==1)
+		      {
+			if($row7[pass1_waitnum]!=1)
+			{
+			  $qry8 = "UPDATE globalreservations SET pass1_waitnum=pass1_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+			else if($pass1flag==0)
+			{
+			  $qry9 = "UPDATE globalreservations SET pass1_status=0,pass1_waitnum=0,pass1_coachnum=".$row[pass1_coachnum].",pass1_berthnum=".$row[pass1_berthnum];
+			  mysql_query($qry9);
+			  $pass1flag=1;
+			}
+		      }
+		      
+		      if($row7[pass2_name]!="" && $row7[pass2_status]==1)
+		      {
+			if($row7[pass2_waitnum]!=1)
+			{
+			  $qry8 = "UPDATE globalreservations SET pass2_waitnum=pass2_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+			else if($pass1flag==0)
+			{
+			  $qry9 = "UPDATE globalreservations SET pass2_status=0,pass2_waitnum=0,pass2_coachnum=".$row[pass1_coachnum].",pass2_berthnum=".$row[pass1_berthnum];
+			  mysql_query($qry9);
+			  $pass1flag=1;
+			}
+		      }
+		      
+		      if($row7[pass3_name]!="" && $row7[pass3_status]==1)
+		      {
+			if($row7[pass3_waitnum]!=1)
+			{
+			  $qry8 = "UPDATE globalreservations SET pass3_waitnum=pass3_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+			else if($pass1flag==0)
+			{
+			  $qry9 = "UPDATE globalreservations SET pass3_status=0,pass3_waitnum=0,pass3_coachnum=".$row[pass1_coachnum].",pass3_berthnum=".$row[pass1_berthnum];
+			  mysql_query($qry9);
+			  $pass1flag=1;
+			}
+		      }
+		    }
+		}
+	      }
+	      else
+	      {
+		
+		$qry1 = "SELECT coachtype FROM ".$row[trainno]."c WHERE coachnum=".$row[pass1_coachnum];
+		$res1 = mysql_query($qry1);
+		$row1 = mysql_fetch_array($res1);
+		$qry2 = "SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\"";
+		$res2 = mysql_query($qry2);
+		$row2 = mysql_fetch_array($res2);
+		$qry3 = "SELECT waiting FROM ".$row[trainno]."_".$row[boardingdate]." WHERE coachno=".$row2[coachnum];
+		$res3 = mysql_query($qry3);
+		$row3 = mysql_fetch_array($res3);
+		
+		$wait = $row3[waiting];
+		
+		$qry6 = "UPDATE ".$row[trainno]."_".$row[boardingdate]." SET waiting=waiting-1 WHERE coachno=".$row2[coachnum];
+		mysql_query($qry6);
+		
+		if($wait-1!=0)
+		{
+		  
+		  $qry7 = "SELECT * FROM globalreservations WHERE pnrno <>".$row[pnrno]." AND trainno=".$row[trainno]." AND boardingdate=".$row[boardingdate]." AND pass1_coachnum IN (SELECT coachnum FROM ".$row[trainno]."c WHERE coachtype=\"".$row1[coachtype]."\")";
+		  echo "$qry7";
+		  $res7 = mysql_query($qry7);
+		  
+		  while($row7 = mysql_fetch_array($res7))
+		    {
+		      if($row7[pass1_name]!="" && $row7[pass1_status]==1)
+		      {
+			if($row7[pass1_waitnum]>$row[pass1_waitnum])
+			{
+			  $qry8 = "UPDATE globalreservations SET pass1_waitnum=pass1_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+		      }
+		      
+		      if($row7[pass2_name]!="" && $row7[pass2_status]==1)
+		      {
+			if($row7[pass2_waitnum]>$row[pass1_waitnum])
+			{
+			  $qry8 = "UPDATE globalreservations SET pass2_waitnum=pass2_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+		      }
+		      
+		      if($row7[pass3_name]!="" && $row7[pass3_status]==1)
+		      {
+			if($row7[pass3_waitnum]>$row[pass1_waitnum])
+			{
+			  $qry8 = "UPDATE globalreservations SET pass3_waitnum=pass3_waitnum-1 WHERE pnrno=".$row7[pnrno];
+			  mysql_query($qry8);
+			}
+		      }
+		    }
+		  
+		}
+		
+	      }
+	    }
+
+
+
+
+
+	    
+
+
+
+
+
+
+	    $qry = "DELETE FROM globalreservations WHERE pnrno=".$pnr;
+	    mysql_query($qry);
+	  }
+	}
+      }
+      else
+      {
+	echo "You Are Not Authorized To access this page";
+      }
+
+?>
+</body>
+</html>

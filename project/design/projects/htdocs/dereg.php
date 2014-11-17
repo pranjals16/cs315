@@ -1,0 +1,34 @@
+<?php
+session_start();
+?>
+<html>
+<body>
+<?php
+
+      if(isset($_SESSION['authorized']))
+      {
+	$con = mysql_connect("127.0.0.1","root","shitass");
+	if(!$con)
+	{
+		echo "Connection failed";
+	}
+	else
+	{
+	  mysql_select_db("DBProject",$con);
+// 	  $qry = "DELETE FROM globalreservations WHERE pnrno IN (SELECT pnrno FROM ".$_SESSION[user].")";
+// 	  mysql_query($qry,$con);
+	  $qry2 = "DELETE FROM authentication WHERE user=\"".$_SESSION[user]."\"";
+	  mysql_query($qry2,$con);
+	  $qry3 = "DROP TABLE ".$_SESSION[user];
+	  mysql_query($qry3,$con);
+	}
+	echo "<a href=\"index.html\">Click Here To Go Back Home</a>"
+      }
+      else
+      {
+	echo "You Are Not Authorized To access this page";
+      }
+
+?>
+</body>
+</html>

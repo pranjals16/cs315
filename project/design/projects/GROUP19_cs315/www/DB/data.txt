@@ -1,0 +1,1580 @@
+Advanced Centre for Materials Science (ACMS) |HEAD|Professor|-|Sangal, S|Head & P, ACMS 205|7459|8473
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Office|ACMS 204|7740| 
+Advanced Centre for Materials Science (ACMS) |Fax|-|-|Fax| |259 (392) 7459
+Advanced Centre for Materials Science (ACMS) |Faculty|CSO|-|Gupta, Sanjay|CSO, sg, ACMS 201|7830|3E+06
+Advanced Centre for Materials Science (ACMS) |Faculty|CSO|-|Rao, KV|CSO, kvrao, ACMS 203, 664|7045|8390, 2590384
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Bhatnagar, Rakesh|TO(SG), rakeshb, ACMS 105, 467|6031|8443
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Agnihotri, A|STA(SG), avikal, ACMS 112A, City|7842|2E+06
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Barthwal, SC|STA(SG), scb, ACMS 112, 320|7842|8674, 2598674
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Singh, RP|STA, rpsingh, ACMS 106|7842|3E+06
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Krishna Ram|TA, ramkris, ACMS 104|7878|2E+06
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Karthikeyan, S|TA, skarthik, ACMS 112, 2004|7842|8004
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Pal, Dev Dutt|TA, ddpal, VI Lab, 248|7814|8524
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Pal, Sushanta|TA, pals, ACMS 102, 236|7879|8467
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Shivkumar, M|TA, rmuthu, ACMS 105, 2017|6031|8017
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Singh, US|TA, ussingh, ACMS 101|7780|3E+06
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Jaikishan|JT, jai, ACMS 103, 134|7624|5134
+Advanced Centre for Materials Science (ACMS) |Staff|-|-|Sharma, RS|SLA, ramsewak, ACMS 106,City|7842|3E+06
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Electrical Characterization|ACMS 110B|7802| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Electron Microscopy|ACMS 106/112|7842| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Electronics Shop|ACMS 110A|7814| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Furnace Room|ACMS 113|7879| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Instrumentation SG|ACMS 201|7830| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Machine shop|ACMS 103|7624| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Magnetics ACMS|ACMS 105|6031| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Materials Processing|ACMS 102|7879| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Materials Testing|ACMS 104|7878| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Stores|ACMS 209|7815| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Virtual Instrumentation|ACMS 108, 110A|7814| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|X Ray|ACMS 101|7780| 
+Advanced Centre for Materials Science (ACMS) |Section|-|-|Optical Char KVR|ACMS 110A|7802| 
+Accounts|Staff|Deputy Registrar|-|Misra, AK|DR, akmisra, FB-103, 424|7382|8738
+Accounts|Staff|-|-|Sarangi, J|Supdt, jsarangi, FB 103, 277|7786|8571
+Accounts|Staff|-|-|Gupta, Sujay Kr.|Supdt., sujay, FB 105A, City|7606| 
+Accounts|Staff|-|-|Gupta, VK|UDC, vkgupta, 169|7381|5169
+Accounts|Staff|-|-|Asha|UDC(SG), FB 103, 2057|7004|8057
+Accounts|Staff|-|-|Kureel, DS|UDC(SG), FB 103|7706|9E+09
+Accounts|Staff|-|-|Pandey, AC|UDC, acpandey, FB 103|7280|9E+09
+Accounts|Staff|-|-|Behal, Sanjay|UDC, FB 102, 221|7381| 
+Accounts|Staff|-|-|Chauhan, RP|UDC, FB 103, 232|7381|8781
+Accounts|Staff|-|-|Churasiya, Kanchan|UDC, FB 103, 221|7381|8412
+Accounts|Staff|-|-|Kumar, Vijay|Acctt., kvijay, FB 103|7721|9E+09
+Accounts|Staff|-|-|Dixit, VK|Acctt, vkdixit, FB 102, City|7061|1E+10
+Accounts|Staff|-|-|Srivastava, Manoj|DP, manojs, FB 103|7208|9E+08
+Accounts|Staff|-|-|Kumar, Rajneesh|LDC, 103|7004|5103
+Accounts|Staff|-|-|Awasthi, Amit|LDC, FB 103, City|7208|2E+06
+Accounts|Staff|-|-|Singh, Sandhya|LDC, FB 106|7004|9E+09
+Accounts|Section|-|-|Schols. / Asst.ship|,,FB 103|7208| 
+Accounts|Section|-|-|Student contg.|,,FB 103|7004| 
+Accounts|Section|-|-|Contingent bill|,,FB 103|7004| 
+Accounts|Section|-|-|Store-purchase bills|,,FB 103|7004| 
+Accounts|Section|-|-|Import/ Advances|,,FB 103|7004| 
+Accounts|Section|-|-|Direct-purchase bills|,,FB 103|7786| 
+Accounts|Section|-|-|Officers salary|,,FB 103|7280| 
+Accounts|Section|-|-|Staff salary|,,FB 103|7004| 
+Accounts|Section|-|-|TA/LTC/OT/Hon.|,,FB 103|7280| 
+Accounts|Section|-|-|IWD accounts|,,FB 105|7721| 
+Accounts|Section|-|-|Bank reconciliation|,,FB 103|7606| 
+Accounts|Section|-|-|Cash/receipt|,,FB 106|7281| 
+Accounts|Section|-|-|Fund/Pension/Medical|,,FB 102|7381| 
+Accounts|Section|-|-|Security Guard|,,FB 106|7479| 
+Administration|Staff|-|-|Sachan RK |(Admin), DR, sachan, FB 204, 4002|7620|8280
+Administration|Staff|-|-|Kumar Manoj|(Admin), Suptd, manojkmr, FB 211, City|7738|
+Administration|Staff|-|-|Das Prosanta |(Admin), Suptd, pdas, FB 212|7776|8407
+Administration|Staff|-|-|Rajendra Kumar|(Admin), Jr. Suptd, rknigam, FB 212, City|7776|
+Administration|Staff|-|-|Ram Murti |(Admin), Jr. Suptd, murti, FB 212, 143 Type 1|7776|5143
+Administration|Staff|-|-|Kushwaha RK|(Admin), Jr. Assistant, rkkush, FB 212, 115 , Type 1|7776|5115
+Administration|Staff|-|-|Binu S |(Admin), Jr. Assistant,binus, FB 211, 197 Type 1|7738|5197
+Administration|Staff|-|-|Tej Prakash Sharma|(Admin), Jr. Assistant,tej, FB 211, 195B Type 1B|7738|5295
+Administration|Staff|-|-|Anand Kishor Singh|(Admin), Jr. Assistant,anandks, FB 211City|7738|
+Hindi Cell |Staff|-|-|Singh VP |(Admin), H. Offr, vedps, FB-222, 223 |7392, 7364 |8554
+Hindi Cell |Staff|-|-|Tripathi SP|(Admin), Supdt, satyap, FB 222|7122|9E+09
+Hindi Cell |Staff|-|-|Prasad Jagdish |(Admin), TA (Trans.), jagdish, FB 222, 2030|7122|8030
+Hindi Cell |Staff|-|-|Deshmukh, Bharat B|(Admin), TA (Trans.), bbhushan, FB 222, 1056|7122|5056
+Aerospace Engineering|Head|Head|-|Kamle, Sudhir|Head & P, kamle, Prop. Lab.|7561| 
+Aerospace Engineering|Section|-|-|Office|AE 03|7626| 
+Aerospace Engineering|Fax|-|-|Fax|259 (392) 7561| | 
+Aerospace Engineering|Section|-|-|Office-Air Strip|Air Strip|7807| 
+Aerospace Engineering|Faculty|-|-|Kamle, Sudhir|P, kamle, AE Str.Lab, 4007|76,897,853|8619
+Aerospace Engineering|Faculty|-|-|Ghosh, Kunal|P, kunal, AE 15, 620|7072|8681
+Aerospace Engineering|Faculty|-|-|Mittal Sanjay|P, smittal, AE Lab, 635|7906, 6603|8702, 2591132
+Aerospace Engineering|Faculty|-|-|Nair Manoj T|Vis. Fac., mnair, AE|6188|8179
+Aerospace Engineering|Faculty|-|-|Poddar Kamal|P, kamal, AELab, NWTF, 669|7293, 7843|8723
+Aerospace Engineering|Faculty|-|-|Rathakrishnan, E|P, erath, HSA Lab, 459|7847|8522
+Aerospace Engineering|Faculty|-|-|Sengupta TK|P, tksen, AE 2/HPC Lab, 416|7945, 7253|8482
+Aerospace Engineering|Faculty|-|-|Sullerey RK|P, suller, Prop. Lab., 4060|7863|8350, 2591016
+Aerospace Engineering|Faculty|-|-|Venkatesan C|P, cven, AE 08, 441|7284|8466
+Aerospace Engineering|Faculty|-|-|Yadav D|P, dy, AE 18, 469|7951|8369
+Aerospace Engineering|Faculty|-|-|Upadhyay CS|ASP, shekhar, AE 13, 4080|7936|8745
+Aerospace Engineering|Faculty|-|-|Das Debopam|AP, das, AE Lab, 370|72,276,163|8578
+Aerospace Engineering|Faculty|-|-|Kushari A|AP, akushari, AE Prop. Lab, 403|7126|8536
+Aerospace Engineering|Faculty|-|-|Mahesh S|AP, smahesh, NL1-202, 372|6087|8812
+Aerospace Engineering|Faculty|-|-|Ghosh  AK|P, akg, AE 16, 449|7716|8221
+Aerospace Engineering|Faculty|-|-|Mishra DP|ASP, mishra, AE 10, 4008|7125,6086(L)|8695
+Aerospace Engineering|Faculty|-|-|Tewari Ashish|P, ashtew, AE 12, 4075|7868|8499
+Aerospace Engineering|Faculty|-|-|Hablani Hari B|Vis. Fac., hablani, AE17, VFA- A7|7515|8198 
+Aerospace Engineering|Faculty|-|-|Mohite P.M.|Vis. Fac, mohite, HSL, 462|6024|8200
+Aerospace Engineering|Faculty|-|-|Eshpuniyani B|AP, brijesheAE11|7062| 
+Aerospace Engineering|Acadstaff|-|-|Gupta Alok|RE, alokg, HSA Lab|7050|9935710233
+Aerospace Engineering|Acadstaff|-|-|Misra Ajay|RE, majay, Airstrip, 3066|6036|8319
+Aerospace Engineering|Acadstaff|-|-|Mathur Vipul|AME & QCM, vipulm, Flight Lab, 373|7729|8225, 9450133935
+Aerospace Engineering|Staff|-|-|Mohan, K|TO(SG), mohan, AE Lab, 202|7812|8698
+Aerospace Engineering|Staff|-|-|Srivastava Ajay|Jr. Supdt, aksriv, AE03|7626| 
+Aerospace Engineering|Staff|-|-|Gupta SK|Jr. Supdt, shrvan, AE03, 1025|7626|5025
+Aerospace Engineering|Staff|-|-|Barua P|Jr. Supdt, pronabh, AE03|7626| 
+Aerospace Engineering|Staff|-|-|Mishra A.K.|Sr. Tech Supdt, AE W/s|7831| 
+Aerospace Engineering|Staff|-|-|Prasad B|Sr. Tech Supdt, Struc. Lab|7853|9450157186
+Aerospace Engineering|Staff|-|-|Ramanuj, K|Sr. Tech Supdt, ramanuj, Prop Lab, 2032|7851|8279
+Aerospace Engineering|Staff|-|-|Singh, Shishu Pal|Sr. Tech Supdt, spals, 1087, |7992|5087
+Aerospace Engineering|Section|-|-|Sunder, Rajan R|Jr, Tech Supdt, AE W/S, 186 B|7812|5286
+Aerospace Engineering|Section|-|-|Bharti, Suresh Babu|Jr. Tech Supdt, AE W/s, 193 B|6191|5293
+Aerospace Engineering|Section|-|-|Tewari U.S|Jr. Tech Supdt, ustiwari, AE W/s|6191| 
+Aerospace Engineering|Section|-|-|Aerodynamics Lab|AE Lab|7812| 
+Aerospace Engineering|Section|-|-|Aeromodeling Lab|AE Airstrip|7908| 
+Aerospace Engineering|Section|-|-|Aero WorkShop|W/S|7831| 
+Aerospace Engineering|Section|-|-|Airstrip|R&D cell, Flight Lab|7443| 
+Aerospace Engineering|Section|-|-|Air Craft Stru. Lab|AE Lab|7853| 
+Aerospace Engineering|Section|-|-|Air Strip|Quality Control Cell, Flight Lab.|7729| 
+Aerospace Engineering|Section|-|-|Gliding Center|Flight Lab|7804, 2590589| 
+Internal Audit Section |Head|-|-|Kumar, KG Arvind|AO, kga, FB 102, 4092|7389|8595
+Internal Audit Section |Section|-|-|Office|FB 102|7279| 
+Internal Audit Section |Staff|-|-|Gonade, AP|Supdt, anilp, FB 101, 274|7739|8539
+Internal Audit Section |Staff|-|-|Dadwal, V K|UDC(SG), 2088|7279|8088
+Internal Audit Section |Staff|-|-|Singh, V K|UDC(SG), FB 102, City|7279|2572318
+Internal Audit Section |Staff|-|-|Ram Murty|UDC, 143|7279|5143
+Alumni Association|Staff|-|-|Rath B, Secretary|(Alumni-), P, brath, |4403|
+Alumni Association|Staff|-|-|Khandekar, Sameer (Treasurer)|(Alumni-), AP, samkhan, SL-109, 352|7038|8762
+Alumni Association|Section|-|-|Office |(Alumni-), alumni, Outreach Building|4403, 4406, 4407|
+Alumni Association|Staff|-|-|Lt. Col. R.P.S. Multani (Retd), (Admin Head) |(Alumni-), rpsm, Outreach 209, 504 (UF)|4406|
+Alumni Association|Staff|-|-|Varma Nidhi (Manager) |(Alumni-), nidhivc, Outreach 206, M-1 SBRA|4403|5521
+Alumni Association|Staff|-|-|Hari Karan Dwivedi (Webmaster)|(Alumni-), alumni, Outreach 207, city |4403, 4407|9795772804
+Alumni Association|Staff|-|-|Lalitha (Astt. System Manager)|(Alumni-), alumni, Outreach 207|4407|9450263043
+Alumni Association|Staff|-|-|Indu Sharma (Accountant)|(Alumni-), alumni, Outreach 207, city|4407|
+Biological Sciences and Bio Engineering|Head|-|-|Sinha, Pradip|Head & P, pradips, BSBE, 4051|4009|8523
+Biological Sciences and Bio Engineering|Section|-|-|Office|I Floor|4011| 
+Biological Sciences and Bio Engineering|Fax|-|-|Fax| |259 (392) 4010| 
+Biological Sciences and Bio Engineering|Faculty|-|-|Sinha, Pradip|P, pradips, Lab 9, 4051|4027,4019,4016 8523| 
+Biological Sciences and Bio Engineering|Faculty|-|-|Prakash Balaji|AP, bprakash,Lab 2 BSBE, 3073|4024|8803
+Biological Sciences and Bio Engineering|Faculty|-|-|Ganesh, S|AP, sganesh, Lab 5, 340|4040, 4041|8590
+Biological Sciences and Bio Engineering|Faculty|-|-|Katti, Dhirendra S|ASP, dsk, Lab 16, 385|4028, 4029|8774
+Biological Sciences and Bio Engineering|Faculty|-|-|Kumar, Ashok|ASP, ashokkum, Lab 15, 4065|4051, 4052|8258
+Biological Sciences and Bio Engineering|Faculty|-|-|Pal, Anupam|AP, apal, Lab 3, 306|4066, 4058|8639
+Biological Sciences and Bio Engineering|Faculty|-|-|Sankararamakrishnan, R|AP, rsankar, Lab 7, 323|4014, 4025|8461
+Biological Sciences and Bio Engineering|Faculty|-|-|Subramaniam, K|AP, subbu, Lab 14, 339|4043, 4044|8583
+Biological Sciences and Bio Engineering|Staff|-|-|George, Sherly|SPA, sherly, Lab 9, U - 2 SBRA|4027|5602
+Biological Sciences and Bio Engineering|Faculty|-|-|Amitabha Bandyopadhyaya|AP, Lab. No. 13, abndopa, New SBRA X-11|4055|5644
+Biological Sciences and Bio Engineering|Faculty|-|-|Jonaki Sen|AP,  Lab. No.13, jonaki, 395|4054|8262
+Biological Sciences and Bio Engineering|Staff|-|-|Mishra, RP|Supdt, rpmisra, Office, 234|4010|8692
+Biological Sciences and Bio Engineering|Staff|-|-|Mishra, Arati|Sr.Res.Sc, arti, Lab 8, 4051|4018, 4019|8523
+Biological Sciences and Bio Engineering|Faculty|-|-|Sur, Sanjiv|VF, Lab 10|4049|9935693308
+Biological Sciences and Bio Engineering|Staff|-|-|Subramaniam, Jamuna|Sr.Res.Sc, jamuna, Lab 4, 339|4042, 4045|8583
+Biological Sciences and Bio Engineering|Staff|-|-|Srivastava, Rohit|LDC, rsriv, Office|4011|2770356
+Biological Sciences and Bio Engineering|Section|-|-|Animal Cell|SL 301|6082| 
+Biological Sciences and Bio Engineering|Section|-|-|Cent Inst. Room|Gnd. Floor|4047| 
+Biological Sciences and Bio Engineering|Section|-|-|Facility Lab. I Floor|Central Computing, I floor|4020| 
+Biological Sciences and Bio Engineering|Section|-|-|Cent Inst. Room II Floor|II Floor|4048| 
+Biological Sciences and Bio Engineering|Section|-|-|Lab 1|Gnd Floor|4046| 
+Biological Sciences and Bio Engineering|Section|-|-|AFM Lab|Gnd Floor|4062| 
+Biological Sciences and Bio Engineering|Section|-|-|U G Lab (GF)|Gnd Floor|4065| 
+Biological Sciences and Bio Engineering|Section|-|-|Reception|Entrance|4026| 
+Centre for Development of Technical Education (CDTE) /QIP/Continuing Educatin |Head|-|-|Thareja, RK|Head & P, thareja, WL 230, 629|7893|8306
+Centre for Development of Technical Education (CDTE) /QIP/Continuing Educatin |Section|-|-|Office|WL 231|7795| 
+Centre for Development of Technical Education (CDTE) /QIP/Continuing Educatin |Fax|-|-|Fax| |259 (392) 7893| 
+Centre for Development of Technical Education (CDTE) /QIP/Continuing Educatin |Staff|-|-|Singh, Anil K|Jr.Supdt, WL 231, 153|7795|5153
+Centre for Development of Technical Education (CDTE) /QIP/Continuing Educatin |Staff|-|-|Rathinakumar, K|Steno, WL 231, 101|7795|5101
+Central Workshop|Staff|-|-|Srivastava VK| | |
+Central Workshop|Section|-|-|Machine Shop|(CWS), Cent W/s,|7238|
+Central Workshop|Section|-|-|Precision Shop|(CWS), Cent W/s,|7238|
+Central Workshop|Section|-|-|M/c Shop Supervisor|(CWS), Cent W/s,|7758|
+Central Workshop|Section|-|-|Main Tool Stores||7758|
+Central Workshop|Staff|-|-|Chandrika Prasad|(CWS), Mech., Cent W/s,, 127 T-1|7758|5127
+Central Workshop|Staff|-|-|Shivnath Paul|(CWS), Mech., Cent W/s,. 271 IB|7758|5271
+Central Workshop|Staff|-|-|Ajay Tukaram Giri|(CWS), Mech., Cent W/s 191 IB|7758|5291
+Central Workshop|Staff|-|-|Mazumdar AR|(CWS), Mech., ashimram, 2038|7758|8038
+Central Workshop|Staff|-|-|Manni Lal|(CWS), Mech., Cent W/s 265 IB|7758|5265
+Community Centres|Section|-|-|Office|(Com. Cent ), Auditorium|7099|
+Community Centres|Section|-|-|Hall, Lobby|(Com. Cent ), Auditorium|7100|
+Community Centres|Section|-|-|Projector Room|(Com. Cent ), Auditorium|7551|
+Community Centres|Staff|-|-|Yadav Singhasan|(Com. Cent ), Asstt, Com. Hall, 249|7099|8387
+Community Centres|Section|-|-|Com. Centre Type -1|(Com. Cent ), CC I, Type I|7051|
+Community Centres|Section|-|-|Com. Centre Type -2|(Com. Cent ), CC II, Type II|7799|
+Counselling |Head|-|-|Ghosh A. K.|Head,AE-16,akg@iitk.ac.in,head_cs@iitk.ac.in|7716|8221
+Counselling |Section|-|-|Office|FB 281 / 279,counsel@iitk.ac.in|7784, 7165| 
+Counselling |Staff|-|-|Chakroborty Sharmista|Counsellor,FB 281/279,sharmist@iitk.ac.in|7784, 7165|8430
+Counselling |Staff|-|-|Banerjee, BK|UDC(SG), bkban, FB 271A|7292|2261027
+Counselling |Staff|-|-|PG Coordinator| |4515| 
+Counselling |Staff|-|-|UG Coordinator| |7011| 
+Counselling |Staff|-|-|UG Coordinator| |7379| 
+Counselling |Staff|-|-|Asst.Coordinator(PG)| |4525| 
+Counselling |Staff|-|-|Asst.Coordinator(PG)| |7012| 
+Counselling |Staff|-|-|Asst.Coordinator(UG)|Girls Hostel I|4306| 
+Centre for Mechatronics|Faculty|-|-|Sen, Susmit|Head & SRE, sens, NL 312|7995, 7442| 
+Centre for Mechatronics|Section|-|-|Office| |7995| 
+Centre for Mechatronics|Fax|-|-|Fax| |259 (392) 7995| 
+Centre for Mechatronics|Faculty|-|-|Dasgupta, Bhaskar|ASP, dasgupta, FB 389, NL 312, 395|7095, 7914|8706
+Centre for Mechatronics|Faculty|-|-|Dutta, Ashish|AP, adutta, NL 312, FB 338, 3042|7562|8710
+Centre for Mechatronics|Faculty|-|-|Ghosh, A|P, amitabha, NL 115xtn, 428|7010|8510
+Centre for Mechatronics|Faculty|-|-|Hatwal, H|P, hhatwal, NL 103, 612|7068|8384, 2591394
+Centre for Mechatronics|Staff|-|-|Karnick, Madhuri|SPE, madhuri, NL 312|7995|2592233
+Centre for Mechatronics|Staff|-|-|Kulkarni, Anjali|SRE, anjalik, NL 312, 644|7995|8687
+Centre for Mechatronics|Faculty|-|-|Mallik, A K|P, akmallik, NL 103, 630|7098|8770
+Centre for Mechatronics|Faculty|-|-|Mukerjee, Amitabha|P, amit, NL 312,CSE 201, 616|7489|8532
+Chemical Engineering |Head|-|-|Deo, Goutam|Head & P, goutam, FB 464/FB 486, 474|7406, 7363|8787
+Chemical Engineering |Section|-|-|Office |FB 462 |7629| 
+Chemical Engineering |Fax|-|-|Fax| |2590104| 
+Chemical Engineering |Faculty|-|-|Apte, Pankaj A|AP, papte, FB454, 346|7457|8606
+Chemical Engineering |Faculty|-|-|Bhattacharya, PK|P, pkbhatta, FB 468, 4077|7093, 7817|8237
+Chemical Engineering |Staff|-|-|Chauhan, PS|IE, psc, FB 465, 3037|7194|8521
+Chemical Engineering |Faculty|-|-|Chhabra, Raj P|P, chhabra, NL 105, 427|7393, 7607|8916
+Chemical Engineering |Faculty|-|-|Deo, Goutam|P, goutam, FB 486/CL201B, 474|7363, 7881|8787
+Chemical Engineering |Faculty|-|-|Ghatak, Animangsu|AP, aghatak, NL II 104, 3058|7146, 6045|8668
+Chemical Engineering |Faculty|-|-|Garg, Sanjeev|AP, sgarg, NL II 301, 3002|7736, 7860|8376
+Chemical Engineering |Faculty|-|-|Gupta, JP|P, jpg, NL II 203, 428|7175|8505
+Chemical Engineering |Faculty|-|-|Gupta, Santosh K|P, skgupta, NL II 302, 419|7031, 7127|8722
+Chemical Engineering |Staff|-|-|Gupta, TR|JS, FB-462, City|7629|2319987
+Chemical Engineering |Faculty|-|-|Joshi, Yogesh M|AP, joshi, SL114, 326|7993, 6065|8365
+Chemical Engineering |Faculty|-|-|Kaistha, Nitin|ASP, nkaistha, FB 457, 390|7513, 7432|8362
+Chemical Engineering |Faculty|-|-|Khanna, Ashok|P, akhanna, NL II 306, 443|7117, 7852, 7533|8596
+Chemical Engineering |Faculty|-|-|Kumar, Anil|P, anilk, NL-II 304, 649|7195, 7811, 7767|8526, 2591819
+Chemical Engineering |Staff|-|-|Kumar, Binod|JT, binodk, NL-305, City|7811| 
+Chemical Engineering |Staff|-|-|Kumar Vijay|Jr. Tech., vijkum, NL-II 101, 164B|7883|5264
+Chemical Engineering |Faculty|-|-|Kunzru, D|P, dkunzru, NL II 305, 433|7193, 7811|8780, 2590636
+Chemical Engineering |Staff|-|-|Kureel, SK|JS, kumarsk, FB-462, 1013|7887|5013
+Chemical Engineering |Staff|-|-|Mishra, RA|JTS, ramishra, NL II 105, 2002|7607|8002
+Chemical Engineering |Faculty|-|-|Pala, Raj Ganesh|AP, rpala, FB-453|6143| 
+Chemical Engineering |Faculty|-|-|Panda, Siddhartha|ASP, spanda, SL-114, 3015|6146|8459 
+Chemical Engineering |Staff|-|-|Pandey, CK|JTS, NL II 104, City|6045|2548166
+Chemical Engineering |Staff|-|-|Rawat, Saroj|JT,  skrawat, NL-II 103, 139|7861|5139
+Chemical Engineering |Faculty|-|-|Shankar, V|ASP, vshankar, NL II 205, 319|7377, 7827|8633
+Chemical Engineering |Staff|-|-|Sharma, JP|JS, jayanti, FB-461, City|7629| 
+Chemical Engineering |Staff|-|-|Sharma, RM|L. Attdt, FB 462, 165 B|7629|5265
+Chemical Engineering |Faculty|-|-|Singh, Jayant K|AP, FB 485, 3070|6141|8263
+Chemical Engineering |Faculty|-|-|Sharma, Ashutosh|P, ashutos, NL-II 106, 497|7026, 6239, 7138|8504
+Chemical Engineering |Staff|-|-|Ubale, R|JTS, ubale , NL-II 202, 278|6155|8643
+Chemical Engineering |Staff|-|-|Vader, KK|JTS, kkvader,SL-114, 144|7873|7883
+Chemical Engineering |Faculty|-|-|Verma, Nishith|P, nishith, FB 452, CL201D, 631|7704|8270
+Chemical Engineering |Staff|-|-|Vishwakarma, Ravindra|JT, rkvish , NL-II 103, 108|7861|5108
+Chemical Engineering |Staff|-|-|Yadav, RK|JTS, rkyadav  NL-II-UOL, City|7883|2826188
+Chemical Engineering |Staff|-|-|Yadav, RP|LA, SL-114, 1029|7873|5029
+Chemical Engineering |Staff|-|-|Yash Pal|S, yashpal, FB-460, City|7629|2770724
+Chemical Engineering |Staff|-|-|Deva, Dinesh  |Res Scientist,ddeva, 207B NL II, 393|7183, 7030|8431
+Chemical Engineering |Staff|-|-|Prabhat Dwivedi|Res Scit, prabhatd, Nanoscience Centre,|6262, 7030|8358
+Chemical Engineering |Section|-|-|AFM Lab|NL-II 207 B|7138| 
+Chemical Engineering |Section|-|-|Catalyst Rxn. Engg|NL II 306|7682| 
+Chemical Engineering |Section|-|-|Complex Fluid Dynamics Group|NL II 205 |7827| 
+Chemical Engineering |Section|-|-||||
+Chemical Engineering |Section|-|-|CFD Group Lab|NL II 106|7886| 
+Chemical Engineering |Section|-|-|Colloid Intrf Engg.-I|NL II 106; NL II 206 A|7026, 7030| 
+Chemical Engineering |Section|-|-|Colloid Intrf Engg-II|NL II 206 B|7030| 
+Chemical Engineering |Section|-|-|Complex Fluid Lab|SL 114|7993| 
+Chemical Engineering |Section|-|-|Kulish Lab|L II 202 A|6096| 
+Chemical Engineering |Section|-|-|Environmental Engg.|CL201D|7704| 
+Chemical Engineering |Section|-|-|Heat Mass Transfer|CL 202A|7432| 
+Chemical Engineering |Section|-|-|Heat Tr & Safety|NL II 203|7175| 
+Chemical Engineering |Section|-|-|Membrane Sep. - I|NL II 107|7817| 
+Chemical Engineering |Section|-|-|Membrane Proc Dev|NL II 102|6196| 
+Chemical Engineering |Section|-|-|Molecular Sim|NL 201|6141, 7136| 
+Chemical Engineering |Section|-|-|Particle & Fluid Lab|NL II 105|7393, 7607| 
+Chemical Engineering |Section|-|-|Petroleum Engg.|NL II-305, 307|7811| 
+Chemical Engineering |Section|-|-|Polymers|NL II 303,304|7811, 7767| 
+Chemical Engineering |Section|-|-|Polymers Rxn. Cntrl|NL 307|7117, 7852| 
+Chemical Engineering |Section|-|-|Polymers Rxn. Engg|NLX 302|7031| 
+Chemical Engineering |Section|-|-|Process Design Sim|NL II P P|7837| 
+Chemical Engineering |Section|-|-|Process Design Sim|NL II, 201 A, B|7513, 7136| 
+Chemical Engineering |Section|-|-|Rheology Lab|NL II, 207|6059| 
+Chemical Engineering |Section|-|-|Soft Matter Lab|NL II, 104|6045| 
+Chemical Engineering |Section|-|-|Stores|NL II|7887| 
+Chemical Engineering |Section|-|-|Unit Operation Lab|NL II 101|7883| 
+Chemical Engineering |Section|-|-|Visiting Prof|FB 454|7091| 
+Chemical Engineering |Section|-|-|Work Shop|NL II|7861| 
+Chemistry|Faculty|Head|-|Chandrasekhar V|Head & P, vc, FB 433|7436| 
+Chemistry|Section|-|-|Office |FB 431 |7637| 
+Chemistry|Fax|-|-|Fax | |259 (392) 7436| 
+Chemistry|Faculty|-|-|Anantharaman, G |AP, CL 204D, garaman, 386 |7517, 7356|8568
+Chemistry|Faculty|-|-|Bharadwaj, PK |P, Pkb, SL 206, 409 |7034, 7340|8324
+Chemistry|Faculty|-|-|Bera, JK |ASP, jbera, CL 205 B, 202 B, 384 |7336, 7558|8450
+Chemistry|Faculty|-|-|Bhavsar, Arun |SO, bhavsar, SL 102, SBRA X-3|7981|5636
+Chemistry|Faculty|-|-|Chandra, Amalendu |P, amalen, SL 206, 203, 205A,  627 | 7241,7976|8446
+Chemistry|Faculty|-|-|Chandrasekhar, V |P, vc, CL 202 D, 647 |7259, 7617|8549
+Chemistry|Faculty|-|-|Chandrashekar, TK |P, tkc, CL 203 B |7282, 7426|-
+Chemistry|Faculty|-|-|Gajbhiye, NS |P, nsg, SL 214 A,B,C, 618 |7080, 7423|8427
+Chemistry|Faculty|-|-|Ghorai, MK |ASP, mkghorai,  SL208 C, 344 |7518, 7539|8802
+Chemistry|Faculty|-|-|Goswami, D |ASP, dgoswami, SL 216, 646 |6101, 7187, 7554|8264
+Chemistry|Faculty|-|-|Gupta, BD |P, bdg, CL 206C & D, 457 |7046, 6817,  7730|8338
+Chemistry|Faculty|-|-|Gupta, Bhaya P |P, pinaki, CL 201E,  4057 |7372|8337, 2591158
+Chemistry|Faculty|-|-|Gurunath, R |ASP, gurunath, CL 203E, 471 |7417, 6039, 7104|8417
+Chemistry|Faculty|-|-|Khan, Faiz Ahmed |P, faiz, SL 207, 451 |7864, 7394|8640
+Chemistry|Faculty|-|-|Manogaran, S |P, sm, SL 206, 434 |7303, 7340, 7700|8550
+Chemistry|Faculty|-|-|Manoharan, Sundar S |P, ssundar, SL 209, 4006 |7425, 6043|8775
+Chemistry|Faculty|-|-|Moorthy, Narasimha J |P, moorthy, CL 204 A, 460 |7438.7772|8527
+Chemistry|Faculty|-|-|Mukherjee, RN |P, rnm, SL 208 A & D, 435 |7437, 7708|8547
+Chemistry|Faculty|-|-|Rao, MLN |ASP, maddali, , CL 204 E, 418 |7532, 7163|8758
+Chemistry|Faculty|-|-|Rath, SP |AP, sprath,  CL 205C, 303 |7251, 6069|8261
+Chemistry|Faculty|-|-|Ranganathan, Madhav|AP, madhavr, FB 424, 390|6037|8670
+Chemistry|Faculty|-|-|Sarkar, S |P, abya, SL 213, 656 |7265, 6409, 7386|8623, 2591211
+Chemistry|Faculty|-|-|Sathyamurthy, N |P, nsath, SL 301 & 305  |7367, 7390|-
+Chemistry|Faculty|-|-|Singh, Vinod K |P, vinodks, CL 205A, 206B, 4056 |7291, 7774|8429
+Chemistry|Faculty|-|-|||7421|
+Chemistry|Faculty|-|-|Srihari, K |ASP, srihari, FB 435/SL 304, 4067 |7043, 7469|8721
+Chemistry|Faculty|-|-|Vankar, YD |P, vankar, CL 205 E,D, 410 |7492, 7169|8493, 2590021
+Chemistry|Faculty|-|-|Verma, Sandeep |P, sverma, CL 206 E, 625 |7643, 7962|8786
+Chemistry|Faculty|-|-|Yadav, VK |P, vijendra, CL 202C, 203A, 651 |7439, 7939, 6237|8544
+Chemistry|Staff|-|-|Khanna, M K |Sr.Tech.Supdt., mkkhanna,CL 107B, City |7366|2202381
+Chemistry|Staff|-|-|Pathak, Sudha |Supdt., FB 431, 229 |7637|8422, 2591385
+Chemistry|Staff|-|-|Kadigachalam, P |Jr. Tech. Supdt., CL 107D,   102 |7373|5102
+Chemistry|Staff|-|-|Lokesh Malage|Jr. Tech. Supdt.,  CL 107D,  146|7373|5146
+Chemistry|Staff|-|-|Prakash, Buddha |Tech. Supdt., buddhap, CL 101E, 2101  |6041, 7366|8751
+Chemistry|Staff|-|-|Karmankar, Gautam |Jr Tech. Supdt. , gautamk, CL 101 E, 282 |6041|8489
+Chemistry|Staff|-|-|Gupta, Krishna Mohan |Jr Techn. CL 106B,  155,  |7639|5155
+Chemistry|Staff|-|-|Raja Babu|Jr. Techn. CL 107 B, 170B |6057|5270
+Chemistry|Staff|-|-|Mehta, DP |Jr. Supdt., dpmehta, FB 430, 161 |7410|5161
+Chemistry|Staff|-|-|Misra, US |Jr.Supdt., FB 431, City |7637|2542842
+Chemistry|Staff|-|-|Singh Veena|Jr Tech. Supdt., veenasg, CL 107C, M-4|7680|5524, 2590002
+Chemistry|Staff|-|-|Rajesh Kumar|Jr. Techn. 429 FB, 179B|6028|5279
+Chemistry|Staff|-|-|Kamlesh Thapliyal|Jr. Techn. 108B SL, 198|7573|5198
+Chemistry|Section|-|-|I Yr. UG & MSc Inorg. Chm |CL101 A-E |6041| 
+Chemistry|Section|-|-|M.Sc. Organic Chm. Lab |CL107B |7366| 
+Chemistry|Section|-|-|M.Sc. Phy. Chm. Lab |CL 101E|6041| 
+Chemistry|Section|-|-|EPR Facility |CL107C |7680| 
+Chemistry|Section|-|-|Analytical Lab |CL106A |7160| 
+Chemistry|Section|-|-|NMR Facility (80MHz) |SL 102 |7981| 
+Chemistry|Section|-|-|NMR Facility (400MHz) |CL 106B |7639| 
+Chemistry|Section|-|-|NMR 500 MHz|CL 107B|6057| 
+Chemistry|Section|-|-|CHM. Stores |FB 431 |7410| 
+Chemistry|Section|-|-|CHM. Workshop |CL 101  |7422| 
+Chemistry|Section|-|-|Electrical Workshop |FB 429 |6028|
+Civil Engineering|Head|-|-|Dikshit, Onkar|Head & P, onkar, FB 312|7582|8542
+Civil Engineering|Section|-|-|Office|FB 313|7631| 
+Civil Engineering|Fax|-|-|Fax| |259 (392) 7395| 
+Civil Engineering|Staff|-|-|Bajpai, KK|SSO, kunwar, WS II, 361|7859|8392
+Civil Engineering|Faculty|-|-|Basudhar, PK|P, pkbd, FB 335, 4087|7029|8744, 8533
+Civil Engineering|Faculty|-|-|Bose, Purnendu|P, pbose, WLE 304, 432|7403|8480, 2591265
+Civil Engineering|Faculty|-|-|Chakrabarti, SK|P, chakra, WS II, 511|7173|8374
+Civil Engineering|Faculty|-|-|Chakraborty, Partha|P, partha, WLE 303D, 4091|7037|8430, 2591308
+Civil Engineering|Faculty|-|-|Chandra, Sarvesh|P, sarv, FB 319, 462|7667|8200, 2590083
+Civil Engineering|Faculty|-|-|Das, Animesh|ASP, adas, FB 337, 378|7477|8416
+Civil Engineering|Faculty|-|-|Datta, Bithin|P, bithin, FB 316, 621|7027|8537
+Civil Engineering|Faculty|-|-|Dikshit, Onkar|P, onkar, WLE 303A, 603|7937|8542
+Civil Engineering|Faculty|-|-|Guha, Saumyen|ASP, sguha, FB 305, 4063|7917|8795
+Civil Engineering|Faculty|-|-|Gupta, VK|P, vinaykg, WS II, 619|7118|8425, 2591828
+Civil Engineering|Faculty|-|-|Prasant, Amit|AP, aprashan, FB 304, 504|6054|8394
+Civil Engineering|Faculty|-|-|Jain, Ashu|ASP, ashujain, FB 307, 3069|7411|8718
+Civil Engineering|Faculty|-|-|Jain, Sudhir K|P, skjain, WLE 112A, 4053|7867 , 7794|8367, 2590583
+Civil Engineering|Faculty|-|-|Kumar, Ashwini|P, ashwini, WLE 112B, 450|7756|8366, 2590701
+Civil Engineering|Faculty|-|-|Lohani, Bharat|ASP, blohani, WLE 113, 519 GF|7413|8719
+Civil Engineering|Faculty|-|-|Malik, Javed N|ASP, javed, FB 317, 3057|7723|8534
+Civil Engineering|Faculty|-|-|Misra, Sudhir|P, sud, WLE 303 C, 4095|7346|8287, 2592746
+Civil Engineering|Faculty|-|-|Mohapatra, Pranab Kumar|ASP, Pranab, FB 336, 3013|7044|8371
+Civil Engineering|Faculty|-|-|Murty, CVR|P, cvrm, WLE 303E, 3036|7267, 7247|8636
+Civil Engineering|Faculty|-|-|Patra, NR|AP, nrpatra, FB 308, 304|7623|8226
+Civil Engineering|Faculty|-|-|Rai, Durgesh C|ASP, dcrai, WS II, 3016|7717, 6042|8236
+Civil Engineering|Section|-|-|Structural Engg.|Lab Office|7741| 
+Civil Engineering|Faculty|-|-|Sharma, Mukesh|P, mukesh, WLE 304, 4058|77,597,998|8231, 2591297
+Civil Engineering|Faculty|-|-|Singh, Ramesh P|P, ramesh, WLE 202, 425|7295|8201, 2590098
+Civil Engineering|Faculty|-|-|Sinha, Rajiv|P, rsinha, WLE 303B, 495|7317|8218, 2591201
+Civil Engineering|Faculty|-|-|Srivastava, Rajesh|P, rajeshs, FB 311, 452|7755|8252, 2591347
+Civil Engineering|Faculty|-|-|Tare, Vinod|P, vinod, WL 116, 645|7792|8617, 2590820
+Civil Engineering|Faculty|-|-|Tripathi, SN|ASP, snt, FB 306, 381|7845, 7274|8806
+Civil Engineering|Faculty|-|-|Gupta, Tarun|AP, tarun, FB 310, 3022|7128|8704
+Civil Engineering|Staff|-|-|Kumar, Manoj|Mech, WS II, 189 B|7478|5289
+Civil Engineering|Section|-|-|Structural Engg.|Lab Office|7711| 
+Civil Engineering|Staff|-|-|Srivastava, AK|STA, WLE 102, 226|7724|8725
+Civil Engineering|Staff|-|-|Gupta, P K|TA, 286|7711|8468
+Civil Engineering|Staff|-|-|Kumar, M Girish|TA, girishk, , WL 202, 2034|7731|8034
+Civil Engineering|Staff|-|-|Jaggannadham, P|TA, WS II, 2020|7765|8217
+Civil Engineering|Staff|-|-|Kumar, Sanjiv|TA, 117|7765|5117
+Civil Engineering|Staff|-|-|Mishra, SN|TA, snmisra, WL 116, 2006|7791|8006
+Civil Engineering|Staff|-|-|Pugazhenthi, A|TA, 112|7478|5112
+Civil Engineering|Staff|-|-|Singh, Hari|LA, 181 1B|7791|5281
+Civil Engineering|Staff|-|-|Maskawade, Subhash|LA, 194 1B|7731|5294
+Civil Engineering|Staff|-|-|Urkude, D B|Mech., 130 A|7711|5330
+Civil Engineering|Section|-|-|Convenor|FB 318, DPGC|6255| 
+Civil Engineering|Section|-|-|PG Room|WLE 201D|7365| 
+Civil Engineering|Section|-|-|Aerosol Lab|CC 220|7274| 
+Civil Engineering|Section|-|-|Earthquake Engg Lab|WLE 112 A|7866| 
+Civil Engineering|Section|-|-|Engineering Geology Lab|WLE 202|7731| 
+Civil Engineering|Section|-|-|Environmental Engg. Lab.|WL 115|7735, 7791| 
+Civil Engineering|Section|-|-|Environmental Engg. Lab|WL 116|7792, 7184| 
+Civil Engineering|Section|-|-|Geoinformatics Lab.|WLE 115|7722, 7504| 
+Civil Engineering|Section|-|-|Geotechnical Engg Lab|WLE 101/103|7516| 
+Civil Engineering|Section|-|-|Geotech Engg. Lab|WLE 102|7724| 
+Civil Engineering|Section|-|-|Varun Lab|Lab|7837| 
+Civil Engineering|Section|-|-|Hydrolink Lab|Lab|7765| 
+Computer Centre |Head|-|-|Gupta, Phalguni|Head & P, pg, CC 105|7252| 
+Computer Centre |Section|-|-|Office|CC 101|7651| 
+Computer Centre |Fax|-|-|Fax| |2590413| 
+Computer Centre |Staff|-|-|Ahmed, Khaleeq|CE-I, khaleeq, FB 251, 380|7352|8346
+Computer Centre |Staff|-|-|Alam, Aftab|Sr.CE, aftab, CC 104 A, 357|7447|8598
+Computer Centre |Staff|-|-|Arya, YDS|Pr.CE, yd, CC108 A, 3053|7446|8759
+Computer Centre |Staff|-|-|Dayal, VN|Opr, vish, CC 101, 3026|7239|8658
+Computer Centre |Staff|-|-|Pandey, Brajesh|Sr.CE, brajesh, CC 104 B, 328|7431|8348
+Computer Centre |Staff|-|-|Parihar, HPS|CE, hps, CC 102, 308|7008|8242
+Computer Centre |Staff|-|-|Roberts, Nirmal|Pr. CE, nirmal, CC 108, 412|7751|8588
+Computer Centre |Staff|-|-|Hira, Saikat|CE, saikat, CC 104 B, M-2 SBRA|7796|5522
+Computer Centre |Staff|-|-|Singh, KS|Pr.CE, kss, CC 106, 3049|7899|8519, 2591365
+Computer Centre |Staff|-|-|Singh, Navpreet|Pr.CE, Engg, navi, CC 113 A, 359|7371|8347
+Computer Centre |Staff|-|-|Tewari, R|OM, rt, CC 107, 658|7796|8551
+Computer Centre |Staff|-|-|Tiwari, Gopesh|CE-I, gopesh, CC 108B, 3029|7603, 6406|8352
+Computer Centre |Staff|-|-|Kumar, Anjanee|TA, anj, CC 108, 294|7371|8403
+Computer Centre |Staff|-|-|Srivastava, CB|TA, bhan, CC 111|7828|2212683
+Computer Centre |Section|-|-|Reception|CC|7896| 
+Computer Centre |Section|-|-|Conference room|CC 102|7008| 
+Computer Centre |Section|-|-|Console room|CC Lab|7530| 
+Computer Centre |Section|-|-|ERNET lab|CC 113|6643| 
+Computer Centre |Section|-|-|Help desk|CC 101|7239| 
+Computer Centre |Section|-|-|Old Linux Lab |CC|6109| 
+Computer Centre |Section|-|-|Natural language process|CC-201|6605, 6604| 
+Computer Centre |Section|-|-|Server room|CC Lab|7605| 
+Computer Centre |Section|-|-|Virtual reality lab.|CC 217|6641| 
+Computer Science and Engineering|Head|-|-|Agrawal, Manindra|Head & P, manindra, CSE 107|7586| 
+Computer Science and Engineering|Section|-|-|Office|CSE 105|7638| 
+Computer Science and Engineering|Fax|-|-|Fax| |2590725, 259 (392) 7586| 
+Computer Science and Engineering|Faculty|-|-|Agrawal, Manindra|P, manindra, CSE 225, 622|7338|8363
+Computer Science and Engineering|Faculty|-|-|Agarwal, Sanjeev K|P, ska, CSE 202, 661|7614|8460
+Computer Science and Engineering|Faculty|-|-|Bhaskaran, Raman|AP, braman, CSE 212, 3071|7588|8801
+Computer Science and Engineering|Faculty|-|-|Bhattacharya, Arnab|AP, arnabb, CSE 319, 3056|7650|8799
+Computer Science and Engineering|Faculty|-|-|Biswas, Somenath|P, sb, CSE 218, 659|7574|8714
+Computer Science and Engineering|Faculty|-|-|Chaudhuri, Mainak|AP, mainakc, CSE 211, 3064|7890|8582
+Computer Science and Engineering|Faculty|-|-|Dhande, SG|P, sgd, CSE 302, Dir. Bungalow|7520|8333, 2590034
+Computer Science and Engineering|Faculty|-|-|Ganguly, Sumit|P, sganguly, CSE 313, 325|7597|8716
+Computer Science and Engineering|Faculty|-|-|Ghosh, RK|P, rkg, CSE 219, 404|7645|8773
+Computer Science and Engineering|Faculty|-|-|Gupta, Deepak|ASP, deepak, CSE 319, 666|7650|8622
+Computer Science and Engineering|Faculty|-|-|Gupta, Phalguni|P, pg, CSE 220, 417|7647, 6663|8763
+Computer Science and Engineering|Faculty|-|-|Jain, Ajai|P, ajain, CSE 203, 650|7642|8557, 2591976
+Computer Science and Engineering|Faculty|-|-|Jalote, Pankaj|P, jalote, CSE 312, 640|7619|8501
+Computer Science and Engineering|Faculty|-|-|Karnick, H|P, hk, CSE 318, 637|7601|8545
+Computer Science and Engineering|Faculty|-|-|Mehta, Shashank K|P, skmehta, CSE 223, 472|7829|8418
+Computer Science and Engineering|Faculty|-|-|Moona, Rajat|P, moona, CSE 320, 475|7652|8481,
+Computer Science and Engineering|Faculty|-|-|Mukerjee, Amitabha|P, amit, CSE 201, 616|7489|8532
+Computer Science and Engineering|Faculty|-|-|Prabhkar, TV|P, tvp, CSE 317, 665|7618|8556, 2590985
+Computer Science and Engineering|Faculty|-|-|Sanghi, Dheeraj|P, dheeraj, CSE 207, 641|7077|8627
+Computer Science and Engineering|Faculty|-|-|Saxena, Sanjeev|P, ssax, CSE 226, 508|7611|8439
+Computer Science and Engineering|Faculty|-|-|Seth, Anil|ASP, seth, CSE 204, 604|7231|8724
+Computer Science and Engineering|Staff|-|-|Shukla, BM|PCE, bms, CSE 217, 349|7646|8474, 2591065
+Computer Science and Engineering|Faculty|-|-|Sinha, RMK|P, rmk, CSE 221, 4054|7174|8254, 2591650
+Computer Science and Engineering|Staff|-|-|Tiwari, Rajesh P|Sr. Tech. Supdt., rpt, CSE 216, 2042|7234|8042
+Computer Science and Engineering|Staff|-|-|Mishra, RS|UDC, rsm, CSE 105, 1062|7638|5062
+Computer Science and Engineering|Staff|-|-|Yadav, Santosh|LDC, santosh, 137|7638|5337
+Computer Science and Engineering|Section|-|-|Chair Professor Room|CSE 205|7576| 
+Computer Science and Engineering|Section|-|-|Reception|CSE|7696| 
+Computer Science and Engineering|Section|-|-|Computer Sc.Lab Staff|CSE 217|7234| 
+Computer Science and Engineering|Section|-|-|Computer Lab-I|CSE 111|7653| 
+Computer Science and Engineering|Section|-|-|Computer Lab-III|CSE 309|7653| 
+Computer Science and Engineering|Section|-|-|ISRO - STC Lab. CC 219 6638| | | 
+Computer Science and Engineering|Section|-|-|Ph D/RA Lab|CSE 106|7579| 
+Computer Science and Engineering|Section|-|-|Ph.D/RA Lab|CSE 213|7123| 
+Computer Science and Engineering|Section|-|-|Server Room|CSE 208|7585| 
+Computer Science and Engineering|Section|-|-|M.Tech. Students' Lab V|CSE 316|7599| 
+Computer Science and Engineering|Section|-|-|Visiting Faculty Room|CSE 206|7975| 
+Computer Science and Engineering|Section|-|-|CSE Library|CSE 110|7589| 
+Computer Science and Engineering|Section|-|-|Computer Lab - II|CSE 214|7590| 
+Computer Science and Engineering|Section|-|-|Hardware Lab|CSE 222|7591| 
+Computer Science and Engineering|Section|-|-|M. Tech Students Lab - I|CSE 301|7592| 
+Computer Science and Engineering|Section|-|-|RA Room|CSE 108|7581| 
+Computer Science and Engineering|Section|-|-|RA Room|CSE 109|7583| 
+Computer Science and Engineering|Section|-|-|M. Tech Students Lab - IV|CSE 308|7595| 
+Computer Science and Engineering|Section|-|-|Faculty Lounge|CSE 209|7596| 
+Computer Science and Engineering|Section|-|-|M.Tech Stud. Lab - II|CSE 304|7593| 
+Computer Science and Engineering|Section|-|-|M.Tech Stud. Lab -III|CSE 305|7594| 
+Dean of Academic Affairs |Dean|-|-|Mittal Sanjay|DOAA, smittal, FB 277, 635|7674, 7906|8702
+Dean of Academic Affairs |SPGC|-|-|Gupta V K|Chair SPGC, P, vinaykg, WS II|7118, 7952|8425
+Dean of Academic Affairs |SUGC|-|-|Ghoshdastidar P S|Chair SUGC, P, psg, FB 358|7019, 7954|8543
+Dean of Academic Affairs |Staff|AR||Naik A K|AR, aknaik, FB 276, 393|7288|8649
+Dean of Academic Affairs |Section|-|-|Office-PG |FB 276|7199, 6120| 
+Dean of Academic Affairs |Fax|-|-|Fax| |2590534| 
+Dean of Academic Affairs |Staff|-|-|Mishra, DC|DP, deepcm, FB 276, City|7020| 
+Dean of Academic Affairs |Staff|-|-|Srivastava, DK|Jr. Supdt, dksriv, FB 276, 2019|7199|8298
+Dean of Academic Affairs |Staff|-|-|Srivastava, VK|Jr. Supdt, vijai, FB 276, City|7199|2301199
+Dean of Academic Affairs |Staff|-|-|Yadav, Mukesh Singh|Jr. Supdt, msyadav, FB 276, 2035|6120|8735
+Dean of Academic Affairs |Staff|-|-|Islam, K Nurul|Supdt., knurul, FB 276, 278|6120|8321
+Dean of Academic Affairs |Staff|-|-|Sahoo, HH|Jr. Supdt, hsahoo, FB 276, city|7199| 
+Dean of Academic Affairs |Staff|-|-|Meera Kumari|Jr. Supdt, mkumari, FB 276, 201|7199|8313
+Dean of Academic Affairs |Staff|-|-|Dey, Kingshuk|Jr. Assistant, kdey, FB 276, city|7199|5160
+Dean of Academic Affairs |Section|-|-|Office-UG |FB 154|7235, 7669, 6121|7235
+Dean of Academic Affairs |Staff|-|-|Johari, A K|Jr. Supdt, FB 154, 251|7199|8014
+Dean of Academic Affairs |Staff|-|-|Biswas, S|TA, sukumar, FB 154, 298|7669|8086
+Dean of Academic Affairs |Staff|-|-|Sarkar, Ashish|Jr. Supdt, ashiss, FB 154, 1058|7669|5058
+Dean of Academic Affairs |Staff|-|-|Verma, GP|Technician,gpverma, FB 154, City|7669| 
+Dean of Academic Affairs |Staff|-|-|Agnihotri, AK|Jr. Supdt.,akagni, FB 154, City|7669| 
+Dean of Academic Affairs |Staff|-|-|Tewari, KK|Jr. Supdt.,kktewari, FB 154, City|7669| 
+Dean of Academic Affairs |Staff|-|-|Saini, PK|Supdt., psaini, FB 154, 254|7235|8575
+Dean of Faculty Affairs |Dean|-|-|Deo, Brahma|P, bdeo, FB 261|7414, 7256|8790
+Dean of Faculty Affairs |Section|-|-|Office|FB 262|7204| 
+Dean of Faculty Affairs |Fax|-|-|Fax| |259 (392) 6046| 
+Dean of Faculty Affairs |Staff|AR||Sharif|AR, sharif, FB 260, 3025|6192|8647
+Dean of Faculty Affairs |Staff|-|-|Raghunath, S|Supdt, rnath, FB 262, City|7783|2770524
+Dean of Faculty Affairs |Staff|-|-|Dhar, PR|Sr. Steno, prdhar, FB 262, City|7204|2402882
+Dean of Faculty Affairs |Staff|-|-|Singh, CM|UDC(SG), FB 262, City|7204|2618817
+Dean Resource, Planning and Generation | |-|-|Dean Resource, Planning and Generation | | 
+Dean Resource, Planning and Generation |Dean|-|-|Aggarwal Sanjeev K|Dean, P, ska@iitk.ac.in , drpg@iitk.ac.in , FB 270, 661|7834|8460
+Dean Resource, Planning and Generation |Staff|AR||Mohammad Shakeel|AR, shakeel@iitk.ac.in , arrpg@iitk.ac.in , FB 254, 369|7289|8361, 9838534279
+Dean Resource, Planning and Generation |Staff|-|-|Bhaskar Bapat|Sr. Asstt. , bbapat@iitk.ac.in , FB 270, 170 Type-1|7635|5170
+Dean Resource, Planning and Generation |Staff|-|-|Naik Madhuri|Jr. Asstt., madhurin@iitk.ac.in , FB 270, 69A Type-1|7542|5369
+Dean Resource, Planning and Generation |Staff|-|-|Lohani Babita|Senior Project Associate, babita@iitk.ac.in , FB 264, Type V - 519 GF|7326|8719
+Dean Resource, Planning and Generation |Staff|-|-|Srivastava Mahesh|Senior Project Associate, maheshks@iitk.ac.in , FB 264, 259 Nankari|7326|2770324, 9415535904
+Dean Resource, Planning and Generation |Staff|-|-|Dixit Vajpai Anamika|Senior Project Associate, advajpai@iitk.ac.in , FB 264, W9 SBRA|7326| 
+Dean Resource, Planning and Generation |Staff|-|-|Tewari Subhash|Project Associate, stewari@iitk.ac.in , FB 270, RA Hostel-138|7542|4201
+Dean Resource, Planning and Generation |Staff|-|-|Raut Santosh|Project Associate, sraut@iitk.ac.in , FB 270,H.No. 1043 Type-I|7542| 
+Dean Resource, Planning and Generation |Staff|-|-|Singh Anamika|Project Associate, anasingh@iitk.ac.in , FB 270, 250 New RA|7542| 
+Dean Resource, Planning and Generation |Staff|-|-|Saini Avinash|Attendant, FB 270, Off Campus|7542| 
+Dean Resource, Planning and Generation |Staff|-|-|Tiwari Shiv Shankar|Attendant, FB 270, 231 Type 1B|7542|5231
+Dean of Student's Affairs |Dean|-|-|Chakroborty, Partha|P, partha, WLE 303D, 4091|7203|8593
+Dean of Student's Affairs |Section|-|-|Office|FB 273|7292| 
+Dean of Student's Affairs |Fax|-|-|Fax|2590062| | 
+Dean of Student's Affairs |Staff|AR||Singh, VP|AR, vedps, FB-222, 364|6802/7249|8554
+Dean of Student's Affairs |Staff|-|-|Pant, BP|Supdt, bpant, FB 271A, 223|7292|8389
+Dean of Student's Affairs |Staff|-|-|Dixit, VK|Jr. Supdt, vimal, FB 273, 275|7224|8732
+Dean of Student's Affairs |Staff|-|-|Joshi, NC|Jr.Supdt, ncjoshi, FB 273, 2026|7224|8026
+Dean of Student's Affairs |Staff|-|-|Banerjee, BK|Sr. Asst, FB 274, City|7292|2261027
+Dean of Student's Affairs |Staff|-|-|Meera Gupta|Sr.Asst., meerag,FB 274,1069|7292|5069
+Dean of Student's Affairs |Staff|-|-|Shah, OP|Sr.Asst, opshah, FB 273, City|7224|2217345
+Dean of Student's Affairs |Staff|-|-|Mohd Haroon|Jr.Asst.mdhm,FB272,city|7224| 
+Dean of Student's Affairs |Staff|-|-|Dwivedi, Vineet|Jr.Asst, vdwiv, FB 274, 1065|7292|5065
+Dean of Student's Affairs |Staff|-|-|Amita Devi|Jr.Asst,amita,FB274,194B|7292|5297
+Dean of Student's Affairs |Section|-|-|Schols./Stud. Gym|FB 273|7292| 
+Dean of Student's Affairs |Section|-|-|Hall Management|FB 273|7224| 
+Dean of Student's Affairs |Section|-|-|Scholarships Office|DOSA, FB 271A|7292| 
+Dean of Student's Affairs |Section|-|-|Reservation Counter|IIT Main Gate|7555| 
+Dean of Student's Affairs |Section|-|-|President Student Gym|Hall Of Res.I/C215|7225| 
+Dean of Student's Affairs |Section|-|-|General Sec Cultural|Hall Of Res.I/F108|7018| 
+Dean of Student's Affairs |Section|-|-|Gen Secy, Films|Hall Of Res.I/D204|4296| 
+Dean of Student's Affairs |Section|-|-|Gen Secretary S & T|Hall Of Res.I/C111|4807| 
+Dean of Student's Affairs |Section|-|-|General Sec Games|Hall Of Res.IV/F107|7013| 
+Directorate|Faculty|Director|-|Director: Dhande SG |(DO-), DIR, director/sgd, FB 216, Dir Bunglow|7220,  2590763|8333,       2590200
+Directorate|Section|-|-|Office-DIR|(DO-), FB 215,|7283, 7333|
+Directorate|Fax|-|-|Fax No.|(DO-), FB 217,|2590260|2597180
+Directorate|Staff|-|-|Satya Murty KV|(DO-), Asst.Reg , kvsatya , FB-217, 3049|7258|8303 : 9415132208
+Directorate|Faculty|Deputy Director|Deputy Director: Kripa Shanker |(Direct-) DD, ks , FB 219, 463|7242,  2590771|8755,       2590773
+Directorate|Section|-|-|Office-DD|(DO-), FB 220,|7760|
+Directorate|Staff|-|-|Srivastava Manoj K|(DO-), Asst., mksriv , FB 220, 1056|7760|5056
+Directorate|Staff|-|-|Ravi Shukla|(DO-), rsshukla|7333|5199, 9838824642
+Design Programme |Head|-|-|Dhande, SG|Head & P, Samtel 303|6617|8333
+Design Programme |Section|-|-|Office|Samtel 302|7509| 
+Design Programme |Fax|-|-|Fax| |259 (392) 6617| 
+Design Programme |Faculty|-|-|Bhattacharya, Bishakh|AP, bishakh, NL- I 211, 3054|7824|8304
+Design Programme |Staff|-|-|Chatterjee, A|SRE, achat, NL- I 101, 3018|7170|8331
+Design Programme |Faculty|-|-|Dhande, SG|P, sgd, FB 302, Dir. Bungalow|7509, 7220|8333
+Design Programme |Faculty|-|-|Kumar, Prashant|P, prkumar, NL-1 216, 494|7048|8268
+Design Programme |Staff|-|-|Kulkarni, Anjali|RE, anjalik, NL- I 312, 604|7995|8687
+Design Programme |Staff|-|-|Raghuram, V|SRE, vraghu, NL- I 115B, 371|7434|8581, 2591323
+Design Programme |Faculty|-|-|Ray, Amit|E Fellow, aray, FB 603, 153, 480|7145, 6617|8455
+Design Programme |Faculty|-|-|Roy, Satyaki|AP, satyaki, FB 153, 310|4060, 6617|8715
+Design Programme |Staff|-|-|Sen, Susmit|SRE, sens, NL- I 312, 3039|7442|8742
+Design Programme |Staff|-|-|Soundarapandian, KK|RE, kpandian, SL 109 RAC, M-2 SBRA|7359|5522
+Design Programme |Section|-|-|Den Lamda|Samtel 312|6615| 
+Design Programme |Section|-|-|Den Sigma|Samtel 306|6614| 
+Design Programme |Section|-|-|Rendezvous|Samtel 305|6613| 
+Design Programme |Section|-|-|Studio|Samtel 304|6612| 
+Design Programme |Section|-|-|Interaction Turf|Samtel 309|-| 
+Research Development and Industrial Consultancy|Dean|-|-|Muralidhar K.|P, kmurli, FB 255, 436|7578, 7182|8421
+Research Development and Industrial Consultancy|Staff|DR|Pandey Subhash|DR, subhash, FB 258, 611|7385|8203, 9935586464
+Research Development and Industrial Consultancy|Staff|AR|Mohammad Shakeel|AR, shakeel , FB 254, 369|7289|8361, 9838534279
+Research Development and Industrial Consultancy|Staff|-|-|Mall Nitin|Pr.Asstt., nkmall, FB257, City|6051|9450143246
+Research Development and Industrial Consultancy|Fax|-|-|Fax| |2590134| 
+Research Development and Industrial Consultancy|Staff|-|-|Srivastava Dileep |Jr.Supdt., dsriv. FB268, 230|7178|8216
+Research Development and Industrial Consultancy|Staff|-|-|Gupta Amit|Sr.Pr.Asstt., amitg, FB258, 1090|7178|5090
+Research Development and Industrial Consultancy|Staff|-|-|Bansal Priyanka|Pr.Assoc., priyab, FB268, RAHostel|7178|9919082506
+Research Development and Industrial Consultancy|Staff|-|-|Phalke Pradeep|Jr.Supdt.pphalke, FB268, 1022|7178|5022
+Research Development and Industrial Consultancy|Staff|-|-|Mishra Amit|Pr.Asstt., mamit, FB268, City|7178|2552685
+Research Development and Industrial Consultancy|Staff|-|-|Joshi Manisha|Sr.Pr.Asstt., manishaj, FB 268, 2026|7178|8026
+Research Development and Industrial Consultancy|Staff|-|-|Bhadauria Raju|Jr.Supdt., , FB266, City|7343| 
+Research Development and Industrial Consultancy|Staff|-|-|Kumar Virendra|Sr.Pr.Assoc., virend, FB 266, Nankari|7343|2770108
+Research Development and Industrial Consultancy|Staff|-|-|Bhatia Anil K.|Jr.Supdt., anilb, A/c Section, City|7281|9450326515
+Research Development and Industrial Consultancy|Staff|-|-|Tewari Rajesh K.|Sr.Asstt., rktewari, FB266, City|7120|9450155049
+Research Development and Industrial Consultancy|Staff|-|-|Chauhan Mahesh Singh|Sr.Pr.Assoc., mchauhan, FB266, Nankari|7120|2770854
+Research Development and Industrial Consultancy|Staff|-|-|Gupta Surendra|Sr.Asstt., scgupta, FB266, 177|7120|5177
+Research Development and Industrial Consultancy|Staff|-|-|Gaur R.N.|Sr.Asstt., rngaur, FB268, O-3 SBRA|7678|5543
+Research Development and Industrial Consultancy|Staff|-|-|Tewari Sharda|Sr.Asstt., sharda, FB268, City|7678|2571484
+Research Development and Industrial Consultancy|Staff|-|-|Pradhan Sharabh|Pr.Assoc., sharabh, FB268, City|7678|5615
+Research Development and Industrial Consultancy|Staff|-|-|Jaiswal Pradeep|Pr.Assoc., pradeepj, FB266, City|7374|9889948168
+Research Development and Industrial Consultancy|Staff|-|-|Tripathi Poonam|Pr.Assoc., poonamt, FB266, City|7343|9415189878
+Research Development and Industrial Consultancy|Staff|-|-|Joshi Avanti|Sr.Pr.Assoc., avanti, FB266, 326|7343|8365
+Eclassroom|Staff|-|-|Nigam Gaurav|Project Associate, nigamg@iitk.ac.in, L-14 & L-15, City|4906, 4907|
+Estate Office|Faculty|-|-|CEMMC: Chairman: K Muralidhar|(ME), P, kmurli, NL 301, 436|7182, 7414|8421
+Estate Office|Faculty|-|-|HAC-I: Chairman: Deo, Brahma|(MME), P, bdeo, FB 418, 461|7256, 7141|8790
+Estate Office|Faculty|-|-|HAC-II: Chairman: Aggarwal, Sanjeev K|(CSE), P, ska, CSE 202, 661|7614|8460
+Estate Office|Section|-|-|Office|(EO), Est. Off., FB 101E,|7327|
+Estate Office|Staff|-|-|Dohare, RR|(EO) Supdt, rrdohare, FB 101D, 2078|7166|8078
+Estate Office|Staff|-|-|Singh, VK|(EO), Jr Supdt, FB 101E|7327|
+Estate Office|Staff|-|-|Mister|(EO), Sr Asstt, Mister, FB 101E|7327|
+Estate Office|Staff|-|-|Jaiswal, Sanjay|(EO), Jr Asstt, sanjayj, FB 101E|7327|5173
+Electrical Engineering |Head|-|-|Chaturvedi, AK|Head & P,akc, ACES 217|7454, 7613|8378 
+Electrical Engineering |Section|-|-|Office|ACES 215, 216|7409, 7164| 
+Electrical Engineering |Fax|-|-|Fax| |2590063| 
+Electrical Engineering |Staff|-|-|Anand, RS|PRE, rsanand, WL 120, 337|7102, 7832|8772, 2591580
+Electrical Engineering |Faculty|-|-|Bansal, RK|P, rkb, ACES 202, 423|7075|8675, 2591431
+Electrical Engineering |Faculty|-|-|Banerjee, Adrish|AP, adrish, ACES-305 A, 336|7991|8667
+Electrical Engineering |Faculty|-|-|Behera, Laxmidhar|ASP, lbehera, WL 212 A, 322|7198|8318
+Electrical Engineering |Faculty|-|-|Biswas, Animesh|P, abiswas, ACES 226, 4089|7319, 7137|8767
+Electrical Engineering |Faculty|-|-|Chabra, Neeru|SRE, neeru, ACES 306, 427|7230|8916
+Electrical Engineering |Faculty|-|-|Chaturvedi, AK|P, akc, ACES 201 B, 4055|7613|8378
+Electrical Engineering |Faculty|-|-|Das, SP|P, spdas, WL 111A, 657|7106|8599
+Electrical Engineering |Faculty|-|-|Das, Utpal|P, utpal, ACES 228, 401|7150, 7360|8628
+Electrical Engineering |Faculty|-|-|Dutta, Aloke|P, aloke, WL 126, 606|7661|8452
+Electrical Engineering |Faculty|-|-|Gupta, Nandini|AP, ngupta, ACES 103A, 3055|7511|8511
+Electrical Engineering |Faculty|-|-|Gupta, Sumana|P, sumana, ACES 205C, 4057|7310|8337, 2591158
+Electrical Engineering |Faculty|-|-|Harish, AR|ASP, arh, ACES 225, 3032|7569|8538
+Electrical Engineering |Faculty|-|-|Hegde, Rajesh M|AP, rhegde, MiPS Lab-ACES 203/203A, 309|6248, 6677|8693
+Electrical Engineering |Faculty|-|-|Iyer, S Sundar Kumar|ASP, sskiyer, WL-120, 332|7820|8616
+Electrical Engineering |Faculty|-|-|John, Joseph|P, jjohn, ACES 324, 448|7088, 7733|8488, 2592803
+Electrical Engineering |Faculty|-|-|Joshi, A|P, ajoshi, WL 110A, 3051|7233|8342
+Electrical Engineering |Faculty|-|-|Kalra, PK|P, kalra, ACES 107A, 639|7810, 7032|8785
+Electrical Engineering |Faculty|-|-|Kar, S|EP, skar, WL 215A, 501|7876, 2590907|8204, 2590473
+Electrical Engineering |Faculty|-|-|Mazhari, B|P, baquer, WL123, 453|7924|8528
+Electrical Engineering |Faculty|-|-|Santanu K. Mishra|AP, santanum, ACES101B, 312|6249|8332
+Electrical Engineering |Faculty|-|-|Potluri, Ramprasad|AP, potluri, WL217A, 327|6093|8837
+Electrical Engineering |Faculty|-|-|Qureshi, S|P, qureshi, WL211, 442| 7133, 7339|8691
+Electrical Engineering |Faculty|-|-|Rawat, JS|Supdt, jsrawat, ACES 216, 2092|7409|8492
+Electrical Engineering |Faculty|-|-|Sachidananda, M|P, sachi, ACES 224, 430|7131|8531
+Electrical Engineering |Faculty|-|-|Saxena, Vishal|PRE, vs, ACES 326, 4071|7473, 7840|8569, 2590920
+Electrical Engineering |Faculty|-|-|Sensharma, PS|AP, sensarma, ACES 103A, 318|7076|8612
+Electrical Engineering |Faculty|-|-|Sharma, Govind|P, govind, ACES 205A, 634|7922|8370
+Electrical Engineering |Faculty|-|-|Singh, SN|P, snsingh, ACES 105B, 4076|7009, 7152|8509
+Electrical Engineering |Faculty|-|-|Singh, YN|ASP, ynsingh, ACES 301B, 4073|7944|8796
+Electrical Engineering |Faculty|-|-|Sinha, RMK|P, rmk, CC 218, 4054|7174|8254
+Electrical Engineering |Faculty|-|-|Sircar, Pradip|P, sircar, ACES 302, 505|7063|8213
+Electrical Engineering |Faculty|-|-|Srivastava, SC|P, scs, ACES 105B, 614|7625, 7299|8257, 2591259
+Electrical Engineering |Faculty|-|-|Umesh, S|P, sumesh, ACES 207A, 420|7855|8690
+Electrical Engineering |Faculty|-|-|Vasudevan, Kasturi|ASP, vasu, ACES 303B, 315|7109|8364
+Electrical Engineering |Staff|-|-|Venkatesh, KS|ASP, venkats, ACES 204D, 3021|7468|8354
+Electrical Engineering |Staff|-|-|Whiteford, JJ|IE, white,ACES305B, 3001|7649, 6193|8382
+Electrical Engineering |Staff|-|-|Khan, M N|Jr. Supdt, mnkhan, WLE 217|7833| 
+Electrical Engineering |Staff|-|-|Kanaujia, Manohar|Jr.Tech., kanaujia, WL 212, 63 A|7848|5363
+Electrical Engineering |Staff|-|-|Tyagi, SP|STA, styagi WLE 313, 289|7857|8299, 2591329
+Electrical Engineering |Staff|-|-|Deo, Kapil|STA, kapild, WLE 212, N'kari|7840|2770081
+Electrical Engineering |Staff|-|-|Devi, Charan|STA, devic, WL 216, N'kari|7856|9450156499
+Electrical Engineering |Staff|-|-|Bajpai, AP|JTS, apbajpai,WLE 211, City|7821, 7250|2510432
+Electrical Engineering |Staff|-|-|Khan, I A|TA, WL 112, 2037|7849|8037
+Electrical Engineering |Staff|-|-|Singh, Lekhraj|TA, lsingh, WL 114, 1038|7850|5038
+Electrical Engineering |Staff|-|-|Shukla, Kaushal Kishore|TA, kkishore, WL 216|7856|2408039
+Electrical Engineering |Staff|-|-|Kole, SK|TA, skkole, ACES 125, 2012|7628|8487
+Electrical Engineering |Staff|-|-|Mazumdar, U|TA, uday, WL 213, 273|7854|8597
+Electrical Engineering |Staff|-|-|Raju|TA, rajuv, ACES 308, 2011|7054|8393
+Electrical Engineering |Staff|-|-|Sharma, Uma Shanker|TA, 280, ACES225|7036|8765
+Electrical Engineering |Staff|-|-|Shanker, Ravi|Jr. Tech., 128| |5128
+Electrical Engineering |Staff|-|-|Srivastava, Ajay|Sr. Asst.,ajaiks, R-5 SBRA|7164|5575
+Electrical Engineering |Section|-|-|Antenna Lab|ACES 223|6073| 
+Electrical Engineering |Section|-|-|ACES Library|ACES 414|7090| 
+Electrical Engineering |Section|-|-|ACES Workshop|ACES 116|7882| 
+Electrical Engineering |Section|-|-|Basic Electronics|WL 216, 217|7856| 
+Electrical Engineering |Section|-|-|MiPS Lab|ACES 203|6677| 
+Electrical Engineering |Section|-|-|Communication Networks|ACES 301|7841| 
+Electrical Engineering |Section|-|-|Control Systems|WL 213|7854| 
+Electrical Engineering |Section|-|-|D S P Application Lab.|ACES 113|7557| 
+Electrical Engineering |Section|-|-|Digital Signal Processing |ACES 205|7025| 
+Electrical Engineering |Section|-|-|Distribn. Automation Lab.|ACES 105|7874| 
+Electrical Engineering |Section|-|-|Computer Vision Lab|ACES 325|7058| 
+Electrical Engineering |Section|-|-|Electrical Science|WLE 313|7857| 
+Electrical Engineering |Section|-|-|Electronic Circuits|WL 212|7848| 
+Electrical Engineering |Section|-|-|Elect. Equip. Maint.|WLE 215|7821| 
+Electrical Engineering |Section|-|-|Equipment Calibration Lab|WLE 211|7250| 
+Electrical Engineering |Section|-|-|EMEC|WL 112|7849| 
+Electrical Engineering |Section|-|-|ERNET Lab|ACES 305|7570| 
+Electrical Engineering |Section|-|-|Ernet-Gateway|ACES 307|7005| 
+Electrical Engineering |Section|-|-|ETS|ACES 401|7070| 
+Electrical Engineering |Section|-|-|Fibre Optics Lab|ACES 323|7733| 
+Electrical Engineering |Section|-|-|Fibre Optics|ACES 327, Instrumentation Lab|6154| 
+Electrical Engineering |Section|-|-|High Voltage Lab|WL 114|7850| 
+Electrical Engineering |Section|-|-|IDFC Lab|CC 218|7699| 
+Electrical Engineering |Section|-|-|Image Processing|ACES 115 7116| 
+Electrical Engineering |Section|-|-|Internet Training Lab|ACES 305|7768, 7773| 
+Electrical Engineering |Section|-|-|RFID Lab|ACES 114|7136| 
+Electrical Engineering |Section|-|-|Microproc. & Microcontrol.|WL 212|7840| 
+Electrical Engineering |Section|-|-|Microwave Lab|ACES 225|7036| 
+Electrical Engineering |Section|-|-|Microwave Circuit Lab|ACES 227|7319| 
+Electrical Engineering |Section|-|-|Mobile Commn. Lab|ACES 201|7897| 
+Electrical Engineering |Section|-|-|Nanoelectronics Lab|WL 215|7876| 
+Electrical Engineering |Section|-|-|Nano Technology|ACES 129|6084| 
+Electrical Engineering |Section|-|-|NAMPET Lab|WL 110B|7822| 
+Electrical Engineering |Section|-|-|Optical Signal Processing|ACES 329|7733| 
+Electrical Engineering |Section|-|-|Optical Signal Lab|ACES 329|6153| 
+Electrical Engineering |Section|-|-|Opto Electronics|ACES 123|73,606,084| 
+Electrical Engineering |Section|-|-|Static Control Lab                                           |WL 111|7183| 
+Electrical Engineering |Section|-|-|Power Electronics|WLE 311|6131| 
+Electrical Engineering |Section|-|-|Power System Control|ACES 101|7801| 
+Electrical Engineering |Section|-|-|Power System Sim. Lab|ACES 105|7299| 
+Electrical Engineering |Section|-|-|Printed Circuits|ACES 125|7628| 
+Electrical Engineering |Section|-|-|Semiconductor Devices|WL 127-129|7832| 
+Electrical Engineering |Section|-|-|Semiconductor Lab|WL 132|7339| 
+Electrical Engineering |Section|-|-|Speech Proc. Lab.|ACES 207|7846| 
+Electrical Engineering |Section|-|-|Static Power Control|WL 111|7183| 
+Electrical Engineering |Section|-|-|Stores-EE|WLE 216|7833| 
+Electrical Engineering |Section|-|-|Telematics|ACES 303|7572| 
+Electrical Engineering |Section|-|-|VLSI/EDA Lab|WL 211|7675| 
+Electrical Engineering |Section|-|-|VLSI Server Room|WL211A  |6193| 
+Ernet Lab |Staff|-|-|Singh Navpreet |(CC-) Sr.CE, navi, CC 113A, 359|7371|8347
+Ernet Lab |Section|-|-|Office|(CC-) CC 113A |6643| 
+FEAT Laboratory|Faculty|-|-|NS Gajbhiye|(FEAT), (CHM), P, nsg, SL 214 ABC, 424|7423, 7080|8209, 2591172
+FEAT Laboratory||-|-||||
+FEAT Laboratory|Section|-|-|FEAT Laboratory|(FEAT), SL 302,|7844|
+FEAT Laboratory|Fax|-|-|FAX|(FEAT)|7844|
+FEAT Laboratory|Staff|-|-|Vankar Padma|(FEAT), psv, SL 302, 410|7844|8493, 2590021
+FEAT Laboratory|Staff|-|-|Nalini S|(FEAT), nalini, SL 302, 323|7844|8461
+FEAT Laboratory|Staff|-|-|Sanghi Rashmi|(FEAT), rsanghi, SL 302, 641|7844|8627
+GATE /JMET/JAM|Faculty|-|-|S K Choudhury|Chairman, chrgate, FB 151, 4097|7470, 7270|8406
+GATE /JMET/JAM|Faculty|-|-|Rajesh Srivastava|Vice Chairman, vchrgate, FB 151, 452|7470, 7755|8252
+GATE /JMET/JAM|Staff|-|-|Dadwal V K|Senior Supdt., vkdadwal, FB 151, 2088|7412, 7304|8088
+GATE /JMET/JAM|Staff|-|-|Amit Awasthi|Junior Assistant, amitaw, FB 151|7412, 7304|9335082690
+GATE /JMET/JAM|Section|-|-|Office|FB 151|7412, 7304| 
+GATE /JMET/JAM|Fax|-|-|Fax| |2590932| 
+Glass Blowing|Faculty|-|-|Bhardwaj PK - Convenor:|(CNM), P, pkb, SL 206, 409|7034|8324
+Glass Blowing|Staff|-|-|Sairam B (Incharge)|TA/SG, bsairam, SL 112, 284,|7296|8469
+Glass Blowing|Section|-|-|Office:|SL 112, Glass Blowing|7296|
+Glass Blowing|Staff|-|-|Bhaskaran MJ| STA, marga, , 244|7296|8448
+Glass Blowing|Staff|-|-|Sethuraman K| TA, ksethu, SL 112, 2016|7296|8380
+Health Centre|Staff|-|-|Kumar Nirmal |(HC-CMO), nk, HC 20, 444 |7787, 2590391 |8689
+Health Centre|Section|-|-|Office |(HC-), HC|7404|
+Health Centre|Section|-|-|Reception Outdoor |(HC-), HC|7777, 7666 |
+Health Centre|Section|-|-|Nursing Station, Indoor |(HC-), HC|7222|
+Health Centre|Staff|-|-|Batra Meera |HC 3, 429 |7748|8603, 2591516 
+Health Centre|Staff|-|-|Goel KC | HC 2, 485 |7752|8239, 2591540 
+Health Centre|Staff|-|-|Jais RK | HC 19, 311 |6015|8483
+Health Centre|Staff|-|-|Misra OP | opmisra, HC 4, 481 |7763|8296
+Health Centre|Staff|-|-|Rajan A | HC, 284 |7222|8572, 2591230 
+Health Centre|Staff|-|-|Robert N | HC, 2042 |7222|8438
+Health Centre|Staff|-|-|Sharma I |Arya Nagar |7789|2292717
+Health Centre|Staff|-|-|Sinha A | as, HC 19, 343 |7305|8317, 2590654 
+Health Centre|Staff|-|-|Sinha J | jaba, HC 16, 343 |7764|8317, 2590654 
+Health Centre|Staff|-|-|Tripathi VP |HC 18, |7785|2285385
+Health Centre|Section|-|-|Doctors Rest Room |(HC-), HC |7888|
+Health Centre|Staff|-|-|Gupta NP | UDC, npg, HC, Nkari |7404|2770851
+Health Centre|Section|-|-|Hospital Store | HC |6017|
+Health Centre|Staff|-|-|Anand PD |Asst., , HC, city |7162|
+Health Centre|Section|-|-|Pathology & Bio. Lab|(HC-), HC |6018|
+Health Centre|Section|-|-|Pharmacy |HC-), HC |6016|
+Health Centre|Section|-|-|Indoor Wards Room Nos. 1 to 13 |HC-), HC |6001 to 6013 |
+Health Centre|Section|-|-|Dressing Room|(HC-), HC |6014|
+Health Centre|Section|-|-|Dispensary|(HC-), HC |6016|
+Health Centre|Section|-|-|Conference Room |(HC-), HC |6021|
+Health Centre|Section|-|-|Isolation Room 1 & 2 |(HC-), HC |6019, 6020 |
+Humanities and Social Sciences |Faculty|-|-|Neelakantan, G|Head & P, FB 615|7510| 
+Humanities and Social Sciences |Section|-|-|Office|FB 613|7632| 
+Humanities and Social Sciences |Fax|-|-|Fax| |259 (392) 7510| 
+Humanities and Social Sciences |Faculty|-|-|Boruah, BH|P, boruah, FB 602, 4098|7931|8428
+Humanities and Social Sciences |Faculty|-|-|Saxena,  KK|P, kks, FB 605, 4061|7129|8229
+Humanities and Social Sciences |Faculty|-|-|Bhusan, Braj|AP, brajb, FB 654, 331|7024|8281
+Humanities and Social Sciences |Faculty|-|-|Chandran, Mini|AP, minic, FB 604, 3035|7191|8255
+Humanities and Social Sciences |Faculty|-|-|Dixit, Shikha|P, shikha, FB 610, 3027|7157|8613
+Humanities and Social Sciences |Faculty|-|-|Jha, Munmun|ASP, mjha, FB 655, 465|7615|8684
+Humanities and Social Sciences |Faculty|-|-|Krishnan, L|P, lk, FB 626, 4068|7287|8357, 2590598
+Humanities and Social Sciences |Faculty|-|-|Kumar, Ravi Priya|Visiting Faculty, FB 673, X-4 SBRA|7750|5637
+Humanities and Social Sciences |Faculty|-|-|Kumar, Rajesh|AP, FB 603|6136| 
+Humanities and Social Sciences |Faculty|-|-|Madan, Amman|AP, amman, FB 625, 3053|7073|8351
+Humanities and Social Sciences |Faculty|-|-|Mathur, Suchitra|ASP, suchitra, FB 606, 3008|7836|8234
+Humanities and Social Sciences |Faculty|-|-|Neelakantan, G|P, gn, FB672, 4072|7872|8635
+Humanities and Social Sciences |Faculty|-|-|Patnaik, BK|P, binay, FB 670, 502|7925|8322
+Humanities and Social Sciences |Faculty|-|-|Patil, Koumudi|Lect, kppatil, Fine art lab, 366|7616|8642
+Humanities and Social Sciences |Faculty|-|-|Prasad, PM|AP, pmprasad , FB 608, 3046|7693|8355
+Humanities and Social Sciences |Faculty|-|-|Raina, AM|P, achla, FB 674, 626|7894|8388
+Humanities and Social Sciences |Faculty|-|-|Rao, TVS Ramamohan|E Fellow, rmrao, FB 624, 635|7069|8206
+Humanities and Social Sciences |Faculty|-|-|Rath, Binayak|P, brath, FB 651, 405|7155|8305
+Humanities and Social Sciences |Faculty|-|-|Ravichandran, T|ASP, trc, FB 652, 3004|7871|8456
+Humanities and Social Sciences |Faculty|-|-|Ray, A|E Fellow, aray, FB 603,153, 480|7145|8455
+Humanities and Social Sciences |Faculty|-|-|Rao, Srinivasa|VF, srao, FB 601, VFA-8|7064|8199
+Humanities and Social Sciences |Faculty|-|-|Roy, Satyaki|AP, satyaki, FB 608, 310|4060, 6617|8715
+Humanities and Social Sciences |Faculty|-|-|SahaBhattacharya, Sarani|AP, sarani, FB 601, 3056|7064|8799
+Humanities and Social Sciences |Faculty|-|-|Sarma, AV Ravishankar|AP, FB 671|6137|5638
+Humanities and Social Sciences |Faculty|-|-|Sharma, AK|P, arunk, FB 609, 422|7946|8336
+Humanities and Social Sciences |Faculty|-|-|Singh, Sanjay Kumar|AP, sanjay, FB 607, 312|7501|8332
+Humanities and Social Sciences |Faculty|-|-|Sinha, AK|P, aks, FB, 622, 667|7186|8686, 2590462
+Humanities and Social Sciences |Faculty|-|-|Sinha, S|P, suraji, FB 623, 3059|7268|8517
+Humanities and Social Sciences |Faculty|-|-|Sahu, Vineet|VF, vineet, WL-304B, X-12 New SBRA|7633|5645
+Humanities and Social Sciences |Staff|-|-|Jai Prakash|TA, 2100|7670|8764
+Humanities and Social Sciences |Staff|-|-|Prasad S|SLA,, 162, WL 301|7630|5162
+Humanities and Social Sciences |Staff|-|-|Yadav, Awadesh Kumar|LA, akyadav, WL312, 249 B|7644|5249
+Humanities and Social Sciences |Section|-|-|Fine Arts Lab|FB 153|7670| 
+Humanities and Social Sciences |Section|-|-|Language Laboratory|WL 304|7630| 
+Humanities and Social Sciences |Section|-|-|PC Room-HSS|FB 616|7330| 
+Humanities and Social Sciences |Section|-|-|Psychology Lab|WL 312|7644| 
+Hall Office I |Section|-|-|Office| |7311| 
+Hall Office I |Section|-|-|Corridor| |7111| 
+Hall Office I |Section|-|-|Warden| |7451| 
+Hall Office I |Staff|-|-|Gupta, JP|Jr Supdt, jpgupta 1090|7311|5090
+Hall Office I |Section|-|-|Mess Manager| | | 
+Hall Office I |Section|-|-|Student President|C-206|7543| 
+Hall Office I |Section|-|-|Security Gate|Sec. Gate|4091| 
+Hall Office II |Section|-|-|Office| |7312| 
+Hall Office II |Section|-|-|Corridor| |7112| 
+Hall Office II |Section|-|-|Warden| |7452| 
+Hall Office II |Staff|-|-|Bajpai LS|Jr. Supdt, lsbajpai, 276|7312|8665
+Hall Office II |Section|-|-||||
+Hall Office II |Section|-|-||||
+Hall Office II |Section|-|-|Mess Manager| |7028| 
+Hall Office II |Section|-|-|Security Gate|Sec. Gate|4092| 
+Hall Office III |Section|-|-|Office| |7313| 
+Hall Office III |Section|-|-|Corridor| |7113| 
+Hall Office III |Section|-|-|Warden| |7453| 
+Hall Office III |Staff|-|-|Garg RK|J.Supdt, rkgarg, Nankari|7453, 7313|2770058
+Hall Office III |Section|-|-|Mess Manager| |7207| 
+Hall Office III |Section|-|-|Security Gate|Sec. Gate|4093| 
+Hall Office IV|Section|-|-|Office| |7314| 
+Hall Office IV|Section|-|-|Corridor| |7114| 
+Hall Office IV|Section|-|-|Warden| |7705| 
+Hall Office IV|Section|-|-|Mehrotra, Anil|Sr.Asst, mehrotra,City|7314|2570443
+Hall Office IV|Section|-|-|Mess Manager| |7534| 
+Hall Office IV|Section|-|-|Security Gate| |4094| 
+Hall Office V |Section|-|-|Office| |7315| 
+Hall Office V |Section|-|-|Corridor| |7115| 
+Hall Office V |Section|-|-|Warden| |7455| 
+Hall Office V |Staff|-|-|Dixit DP|Sr Asst, 1000|7315|5000
+Hall Office V |Section|-|-|Mess Manager| |7535| 
+Hall Office V |Section|-|-|Security Gate| |4095| 
+Hall Office GH-II |Section|-|-|Office| |7110| 
+Hall Office GH-II |Section|-|-|Corridor| |7055| 
+Hall Office GH-II |Staff|-|-|Khullar, SK|Jr Supdt City|7110| 
+Hall Office GH-II |Section|-|-|Security Gate| |4096| 
+Hall Office VII |Section|-|-|Office| |4517| 
+Hall Office VII |Section|-|-|Corridor| |4508, 4507| 
+Hall Office VII |Staff|-|-|Sonkar, G D|Jr Supdt, gds, 2090|4517|8212
+Hall Office VII |Section|-|-|Security Gate| |4097| 
+Hall Office VIII|Section|-|-|Office| |4805| 
+Hall Office VIII|Section|-|-|Corridor| |4803| 
+Hall Office VIII|Section|-|-|Gupta NP|Sr.Asst, npg, 449 Nankari|4805|2770851
+Hall Office VIII|Section|-|-|Mess Manager| |4802| 
+Hall Office VIII|Section|-|-|Security Gate|Sec. Gate|4098| 
+Hall Office IX|Section|-|-|Office| |4505| 
+Hall Office IX|Section|-|-|Corridor| |4503| 
+Hall Office IX|Section|-|-|Gupta VK|Jr. Supdt, vkgupta, 169|4504|5169
+Hall Office IX|Section|-|-|Mess Manager| |4502| 
+Hall Office IX|Section|-|-|Security Gate|Sec. Gate|4099| 
+Hall Office GH-I |Section|-|-|Office| |4357| 
+Hall Office GH-I |Section|-|-|Corridor| |4316, 4388| 
+Hall Office GH-I |Staff|-|-|Tripathi, R K|Jr. Supdt, N kari|4357| 
+Hall Office GH-I |Section|-|-|Mess Manager| |4304| 
+Hall Office GH-I |Section|-|-|Security Gate|Sec. Gate|4300| 
+RA Hostel |Staff|-|-|Umesh, S|sumesh, EE, 420|7855|8690
+RA Hostel |Section|-|-|RA-I| |7078| 
+RA Hostel |Section|-|-|RA-II| |4201| 
+SBRA |Section|-|-|Warden office SBRA|B-1 SBRA|5411| 
+SBRA |Section|-|-|Convenor, SBRA|L-2 SBRA| |5512
+SBRA |Section|-|-|Block A|||5401 to 5406
+SBRA |Section|-|-|Block B|||5411 to 5416
+SBRA |Section|-|-|Block C|||5421 to 5426
+SBRA |Section|-|-|Block D|||5431 to 5436
+SBRA |Section|-|-|Block E|||5441 to 5446
+SBRA |Section|-|-|Block F|||5451 to 5456
+SBRA |Section|-|-|Block G|||5461 to 5466
+SBRA |Section|-|-|Block H|||5471 to 5476
+SBRA |Section|-|-|Block I|||5481 to 5486
+SBRA |Section|-|-|Block J|||5491 to 5496
+SBRA |Section|-|-|Block K|||5501 to 5506
+SBRA |Section|-|-|Block L|||5511 to 5516
+SBRA |Section|-|-|Block M|||5521 to 5526
+SBRA |Section|-|-|Block N|||5531 to 5536
+SBRA |Section|-|-|Block O|||5541 to 5546
+SBRA |Section|-|-|Block P|||5551 to 5556
+SBRA |Section|-|-|Block Q|||5561 to 5566
+SBRA |Section|-|-|Block R|||5571 to 5576
+SBRA |Section|-|-|Block S|||5581 to 5586
+SBRA |Section|-|-|Block T|||5591 to 5596
+SBRA |Section|-|-|Block U|||5601 to 5611
+SBRA |Section|-|-|Block V|||5611 to 5616
+SBRA |Section|-|-|Block W|||5621 to 5632
+SBRA |Section|-|-|Block X|||5634 to 5645
+Information Cell|Faculty|-|-|Aggarwal Sanjeev K |P, ska, CSE 202, 661 |7614|8460
+Information Cell|Staff|-|-|Shukla Ravi |Mechanic, DD Off. 199|7760|8707
+Information Cell|Staff|-|-|Agnihotri Sandhya |Senior Project Associate, sandhya, FB 264 DRPG Office, Off. Campus (English Website) |7326|9839226635
+Information Cell|Staff|-|-|Singh Sunita |Project Associate, sunitas, 202 CC Bldg, Off. Campus (Hindi Website) |7889|2580839
+Information Cell|Staff|-|-|Tiwari Shiv Shankar |Attendant, DRPG Office, 231 Type 1B|7542|8813
+Information Cell|Staff|-|-|Goswami Sonaly |sonaly, 202 CC Bldg/Room No. 203 Outreach Building|4411| 
+ID Cell |-|-|-|Pandit SM |Opr, smp, CC Building Basement (Old Telephone Exchnge), 3005 |7300|8410
+Institute Works Department|Staff|-|-|Garg, Rajeev |Officer Incharge, rajg, IWD CO, 3009|7604|8677
+Institute Works Department|Section|-|-|Central Office||7714|
+Institute Works Department|Fax|-|-|Fax||259 (392) 7525|
+Institute Works Department|Staff|-|-|Ram Swaroop|Jr. Supdt, rswaroop, 2097|7714|8241
+Institute Works Department|Staff|-|-|Shah, Ashok|Proj. Tech., City|6176|
+Institute Works Department|Section|-|-|Division-I    Civil|Office||7695
+Institute Works Department|Staff|-|-|Garg, Rajeev |Exe. En., rajg, 3009|7604|8677
+Institute Works Department|Staff|-|-|Gautam, T|AE, tarung, City |7108|
+Institute Works Department|Staff|-|-|Singh, RP|AE, ramps, 235|7021|8243
+Institute Works Department|Staff|-|-|Chauhan, V P S|SPA, vpsingh, 250|7121|8733
+Institute Works Department|Staff|-|-|Venkatesan, E|JE, evenkat, 212|7121|8778
+Institute Works Department|Staff|-|-|Gupta, Rajesh Kr.|JE, rajeshg, 216|6175|8659
+Institute Works Department|Staff|-|-|Singh, Virendra|JE, virendra, 240|7071|8458
+Institute Works Department|Staff|-|-|Bhatia, SK|Sr. Asst., skbhatia, City|7695|
+Institute Works Department|Section|-|-|Division-II   Civil|Office|7695|
+Institute Works Department|Staff|-|-|Verma, RK|Ex. En. rakeshkv, 382|7248|8327
+Institute Works Department|Staff|-|-|Ram Lal Ram|AE, rlram, 293|7369|8244
+Institute Works Department|Staff|-|-|Srivastava, Sudhir|JE, sudhirk, City|7715 |
+Institute Works Department|Staff|-|-|Kumar, Sanjay|JE, sanjaykc|7418|9935322297
+Institute Works Department|Staff|-|-|Joshi, R L|Jr.Assit, rljoshi, 1019|6609 |5019
+Institute Works Department|Section|-|-|Electrical Sub.Division|CO Office|7416|
+Institute Works Department|Staff|-|-|Singh, Raghvendra |AE, singhr, SS-I, 213|7401|8396
+Institute Works Department|Staff|-|-|Kumar, Vijay  |AE, vkumar, SS-II, 264 |7221|8248
+Institute Works Department|Staff|-|-|Dixit, R N |JE, rndixit, City|7318|2571145
+Institute Works Department|Staff|-|-|Singh, Jitendra|JE, singhj, City |7286|
+Institute Works Department|Staff|-|-|Saxena, R K|JE, saxenark, 1004|7097 |5004
+Institute Works Department|Section|-|-|Store | LHC|4061|
+Institute Works Department|Section|-|-|Central Air-Conditioning|||
+Institute Works Department|Staff|-|-|Senapati, S|SPA, srikant, CAP, 1020|7322   |5020
+Institute Works Department|Staff|-|-|Gurdial |JE, gurdial, CAP, 244|7322 |8448
+Institute Works Department|Staff|-|-|Rawat, K S   |Sr. Mech., CC B’ment, 2029|7424|8016
+Institute Works Department|Staff|-|-|Singh, M K |Sr. Mech., CC B’ment, 269|7424  |8701
+Institute Works Department|Staff|-|-|Jayant, K C|Mech, CC B’ment|7424|5011
+Institute Works Department|Section|-|-|Plant Room |ACMS |7803|
+Institute Works Department|Section|-|-|Plant Room  | CC Basement|7424|
+Institute Works Department|Section|-|-|Domestic Air- Conditioning|||
+Institute Works Department|Staff|-|-|Pandey, S B|JE, sbpandey, CAP, City|7097 |
+Institute Works Department|Section|-|-|Workshop||7761|
+Institute Works Department|Section|-|-|Electrical Maintenance|||
+Institute Works Department|Section|-|-|Emergency |33kV SBRA|7181, 7481|
+Institute Works Department|Section|-|-|Complaint Pole Light|SS-1|7124|
+Institute Works Department|Section|-|-|Complaint   Electrical|Academic Area, LHC|7318|
+Institute Works Department|Section|-|-|Generator House|Near Nursery|7273|
+Institute Works Department|Section|-|-|SS NO 1|SS 1, Sec. X ing |7286, 7124  |
+Institute Works Department|Section|-|-|SS NO 2|SS 2, VH Xing  |7221|
+Institute Works Department|Section|-|-|SS NO 3|SS 3, Type III Xing|7440|
+Institute Works Department|Section|-|-|SS NO 4|SS 4, Opp. Nursery|7441|
+Institute Works Department|Section|-|-|SS NO 6|SS 6, Type II Xing|7550|
+Institute Works Department|Section|-|-|Civil Complaint|Hostels|7418, 7688 |
+Institute Works Department|Section|-|-|Civil Complaint |Academic area|7071, 7370  |
+Institute Works Department|Section|-|-|Civil Complaint |Residence North Side |6174, 7521, 7021  |
+Institute Works Department|Section|-|-|Civil Complaint|Residence South Side|7715, 7369, 7550 |
+Institute Works Department|Section|-|-|Civil Complaint|Old Tube well for Type III / VI |7521|
+Institute Works Department|Section|-|-|Civil Complaint |Type II / IV |7550|
+Institute Works Department|Section|-|-|Civil Maintenance||7370|
+Institute Works Department|Section|-|-|Sanitation||7718|
+Institute Works Department|Staff|-|-|Kharwar, Manish K|SI, kharwar, Sec.Xing, 142|7718|5142
+Institute Works Department|Section|-|-|Garbage|beside MWMC Office|6068|
+Institute Works Department|Section|-|-|IWD Store |Central Office|7657|
+Institute Works Department|Section|-|-|Furniture Workshop|Central Office|7757|
+Institute Works Department|Section|-|-|Water Supply |Water Supply|7713|
+Industrial and Management Engineering |Faculty|-|-|Sharma, NK |Head & P, FB 329, nksharma|7553| 
+Industrial and Management Engineering |Section|-|-|Office |FB 333 |7376| 
+Industrial and Management Engineering |Fax|-|-|Fax | |259 (392) 7553 | 
+Industrial and Management Engineering |Faculty|-|-|Bansal, Veena |ASP, veena, Lab-103, 423 |7743|8675, 2591431 
+Industrial and Management Engineering |Faculty|-|-|Chatterjee, Jayanta |P, jayanta, FB 322, 4079 |7858|8475, 3817857 
+Industrial and Management Engineering |Faculty|-|-|Kripa Shanker |P, ks, FB 328, 463 |7683|8755
+Industrial and Management Engineering |Faculty|-|-|Mehta, Peeyush |AP, pmehta, Lab-102, 3074 |6647|8541
+Industrial and Management Engineering |Faculty|-|-|Mittal, AK |P, mittal, FB 329, 610 |7345|8345, 2590840 
+Industrial and Management Engineering |Faculty|-|-|Phani, BV |AP, bvphani, CC 206, 3062 |6606, 6646 |8657
+Industrial and Management Engineering |Faculty|-|-|Sarkar, Runa |AP, runa, CC 205, 3065 |6608|8654
+Industrial and Management Engineering |Faculty|-|-|Sharma, NK |P, nksharma, FB 325, 303 |7622|8259, 2591737 
+Industrial and Management Engineering |Faculty|-|-|Sharma, RRK |P, rrks, FB 326, 643 |7172|8631
+Industrial and Management Engineering |Faculty|-|-|Sengupta, RN |AP, raghus, CC207, 3020 |6607|8274
+Industrial and Management Engineering |Faculty|-|-|Singh, Anoop |AP, anoops, FB 324, 3050 |7679|8453
+Industrial and Management Engineering |Faculty|-|-|Sinha, Arun P |P, asinha, FB 323, 638 |7782|8265
+Industrial and Management Engineering |Faculty|-|-|Swami, Sanjeev |ASP, sswami, Lab101, 3010 |7460|8445
+Industrial and Management Engineering |Faculty|-|-|Varman, Rahul |P, rahulv, FB 327, 3047 |7970|8753
+Industrial and Management Engineering |Faculty|-|-|Varman, Rohit |AP, rohitv, FB 325, 3061 |7430|8479
+Industrial and Management Engineering |Staff|-|-|Prasad, Chandrika |TA, cprasad, FB 333, 2022 |7101|8022
+Industrial and Management Engineering |Staff|-|-|Satsangi, Radha Saran |Jr.Asst, rsaran, FB 333, 1030|7376|5030
+Industrial and Management Engineering |Staff|-|-|Joyci, Boaz |Sr.Sten, jboaz, FB 333, City |7376|2304195
+Industrial and Management Engineering |Section|-|-|IME Lab |NLX IME |7101| 
+JEE|Faculty|-|-|Dutta Aloke|(Chairman) P, aloke, FB 151B/WL 126, 606|7308, 7661|8533,8452
+JEE|Faculty|-|-|Venkitanarayanan P|(Vice Chairman), ASP, venkit, FB 151B/NL 211C, 376|7716, 7528|8688
+JEE|Section|-|-|Office|FB 151 B|7335| 
+JEE|Fax|-|-|Fax| |2590103| 
+JEE|Staff|-|-|Shukla, V K|Superintendent, FB 151B, City|7335|9889431483
+JEE|Staff|-|-|Rajneesh|Junior Assistant, FB 151B, 103|7335|5103
+Lecture Hall Complex |Staff|-|-|Rawat, U S|Sr.Steno, usrawat, 2031|4901, 4902|8031
+Lecture Hall Complex |Staff|-|-|Chandi Prasad J|LA, Audio Vis. Room,1077|7503|5077
+Lecture Hall Complex |Section|-|-|Conference room|SL 10|7320| 
+Legal / Confidential Cell |Staff|-|-|Jagendra Swaroop|L.Adv., Civil Lines 2303139/40|2303138|9839085577
+Legal / Confidential Cell |Staff|-|-|Singh, C P|AR, singhcp, FB 202 & 206, 3031|6414, 7261, 7728|8608, 9450137898
+Legal / Confidential Cell |Section|-|-|Office|FB 202|7261| 
+Legal / Confidential Cell |Staff|-|-|Sahoo, P K|Jr. Assistant, pksahoo, FB201, 1032|7261|5032
+Centre for Laser Technology (CELT) |Head|-|-|Das, Utpal|Head & P, utpal, SL 215, 401|7766|8628
+Centre for Laser Technology (CELT) |Section|-|-|Office|SL 215|7341| 
+Centre for Laser Technology (CELT) |Fax|-|-|Fax| |259 (392) 7766| 
+Centre for Laser Technology (CELT) |Faculty|-|-|Bansilal|CSO, bansi, SL 211, 4090|7930, 7463|8250
+Centre for Laser Technology (CELT) |Faculty|-|-|Budhani, RC|P, rcb, SL 113, 4005|7185|8385, 2591067
+Centre for Laser Technology (CELT) |Faculty|-|-|Das, Utpal|P, utpal, ACES 228, 401|7150, 7360|8628
+Centre for Laser Technology (CELT) |Faculty|-|-|Goswami, D|ASP, dgoswami, SL 216, 646|7554|8264
+Centre for Laser Technology (CELT) |Faculty|-|-|John, J|P, jjohn, ACES 324, 448|7088|8488, 2592803
+Centre for Laser Technology (CELT) |Faculty|-|-|Kamle, Sudhir|P, kamle, AE Str.Lab, 4007|7689|8619
+Centre for Laser Technology (CELT) |Faculty|-|-|Muralidhar, K|P, kmurli, NL 301, 436|7182, 7928|8421
+Centre for Laser Technology (CELT) |Faculty|-|-|Panigrahi, PK|P, panig, NL 301, 346|7686|8307
+Centre for Laser Technology (CELT) |Faculty|-|-|Pradhan, A|ASP, asima, SL 111, 4003|7691, 7971|8291
+Centre for Laser Technology (CELT) |Faculty|-|-|Singh, YN|ASP, ynsingh, ACES 301B, 373|7944|8796
+Centre for Laser Technology (CELT) |Faculty|-|-|Thareja, RK|P, thareja, SL 212, 629|7143, 7989|8306
+Centre for Laser Technology (CELT) |Faculty|-|-|Wanare, H|AP, hwanare, SL 105D, 379|7885, 6080|8752
+Centre for Laser Technology (CELT) |Staff|-|-|Mangesh, V Sukhdeve|JTS, mangesh, SL105C, 290|7415, 7052|8220
+Centre for Laser Technology (CELT) |Staff|-|-|Shakya, Maharaj Singh|TS, maharaj, SB 105C, 2003|7567|8003
+Centre for Laser Technology (CELT) |Staff|-|-|Yadav, SL|Supdt, slyadav, SB 215, Nankari|7341|2770800
+Centre for Laser Technology (CELT) |Section|-|-|CELT Machine Shop|CL 103A|7176| 
+Centre for Laser Technology (CELT) |Section|-|-|Fiber Optics Lab|ACES 323|7733| 
+Centre for Laser Technology (CELT) |Section|-|-|Optics Fabrication Lab|SL 105A|7993| 
+Centre for Laser Technology (CELT) |Section|-|-|Non Linear Optics Lab|SL 115|7712| 
+Centre for Laser Technology (CELT) |Section|-|-|Electronic Work Shop|SL 211B|7463| 
+Centre for Laser Technology (CELT) |Section|-|-|Diffused Photon Imaging|SL 105C|6079| 
+Centre for Laser Technology (CELT) |Section|-|-|Laser Material Processing|SL 105C|7415| 
+Centre for Laser Technology (CELT) |Section|-|-|Laser & Plasma Appln.|SL212|7989| 
+Centre for Laser Technology (CELT) |Section|-|-|Laser Fabrication Lab|SL 211A|7930| 
+Centre for Laser Technology (CELT) |Section|-|-|Visiting/Guest Faculty|SL 215A|7052| 
+Centre for Laser Technology (CELT) |Section|-|-|Biomedical Optics and Spectroscopy Laboratory|SL 111|7971| 
+Centre for Laser Technology (CELT) |Section|-|-|Non Linear Optics Lab|SL 116|7712| 
+Centre for Laser Technology (CELT) |Section|-|-|Optics Shop|SL 309|7793| 
+Centre for Laser Technology (CELT) |Section|-|-|Optoelectronics Lab|ACES 123|7360| 
+Centre for Laser Technology (CELT) |Section|-|-|Laser Technology Lab|SL 115|7567| 
+PK Kelkar Library|Head|-|-|Head: Bose SK|(PKK Lib) Off..Lib, sbose, Lib 301/302, 383|7324|8696, 2591303
+PK Kelkar Library|Section|-|-|Office|(PKK Lib), Lib 307|7462|
+PK Kelkar Library|Fax|-|Fax|-|(PKK Lib), Lib 302|2597698|
+PK Kelkar Library|Staff|-|-|Singh Umed|(PKK Lib) Astt. Lib., umed,  Tech Hall, 316|7334|8660, 9935367099
+PK Kelkar Library|Staff|-|-|Prasad Neelam|(PKK Lib) Astt. Lib, np, Lib 310, 3024|7671|8678
+PK Kelkar Library|Staff|-|-|Vijaianand SK |(PKK Lib) Astt. Lib., vanand, 104, 388|6055|8375, 9450540564
+PK Kelkar Library|Staff|-|-|Ghosh Maitrayee|(PKK Lib) Astt. Lib., maitraye,  Tech Hall, 3028|6085|5512
+PK Kelkar Library|Staff|-|-|Bhatnagar A|(PKK Lib) L.I.O., anjana, Tech Hall, 467|6040|8443
+PK Kelkar Library|Staff|-|-|Rana JP|(PKK Lib) L.I.O., jprana, T ech Hall  222|7323|8757, 9450137619
+PK Kelkar Library|Staff|-|-|Ram Chandra|(PKK Lib) L.I.O., rchandra, Circ., 2036|7223|8036
+PK Kelkar Library|Staff|-|-|Panday RK|( PKK Lib. )   S.L.I.A., rkpandey, Circ., Nankari|7002|
+PK Kelkar Library|Staff|-|-|Rana SK |(PKK Lib) S.L.I.A., srana,  Tech Hall, 281|7223|8609
+PK Kelkar Library|Staff|-|-|Pethkar Nisha|(PKK Lib) S.L.I.A ,  npethkar,Tech Hall, 2025|7323|8025
+PK Kelkar Library|Staff|-|-|Sachan Archana|(PKK Lib) S.L.I.A , asachan, Lib, City|7323|2554200
+PK Kelkar Library|Staff|-|-|Bharti Rekha|(PKK Lib), rekhab,S.L.I.A. Lib 311, 2014,|7323|8214
+PK Kelkar Library|Staff|-|-|Rajesh Kumar|(PKK Lib) S.L.I.A , rajesh,  Lib 201, 2040,|7298|5166
+PK Kelkar Library|Staff|-|-|Srivastava Ruchi|(PKK Lib) S.L.I.A , ruchi, Lib, 2000|7707|8005
+PK Kelkar Library|Staff|-|-|Ramesh Yernagula   |(PKK Lib) S.L.I.A ,  ryerna  Lib., 150|7002|5150
+PK Kelkar Library|Staff|-|-|Mishra V K|(PKK Lib) S.L.I.A., mishravk, lib.Auto.  124|7153|5124, 9335417961
+PK Kelkar Library|Staff|-|-|Tripathi DP|(PKK Lib) S.L.I.A., dprakash  lib.Auto. 156|7153|5156
+PK Kelkar Library|Staff|-|-|Indoria Pragati|(PKK Lib)S.L.I.A. pragati,  2008|7707|8008
+PK Kelkar Library|Staff|-|-|Singh BM|(PKK Lib) S.L.I.A., Brij, 1040|7707|5040
+PK Kelkar Library|Staff|-|-|Mishra A.K|( PKK.Lib. ) S.L.I.A., mishraak,  Tech Hall, 153|7323|5153
+PK Kelkar Library|Staff|-|-|Singh Suresh|(PKK Lib), JR. Supt. , Lib 307, City|7462|2561806
+PK Kelkar Library|Staff|-|-|Mehrotra Asha|(PKK Lib), Jr. Supt., asham, Lib., 1005|7223|5005
+PK Kelkar Library|Staff|-|-|Dubey Anil K|(PKK Lib) Asst. CT . lib., anil, 1046|7891|5046, 9450137573
+PK Kelkar Library|Staff|-|-|Rama Kant|(PKK LIB) Asst. CT, ramakant, Nankari|7223|9450154789
+PK Kelkar Library|Staff|-|-|Agnihotri Madhu|(PKK Lib) Asst.CT, madhuag, Cars, city|7298|9935339402
+PK Kelkar Library|Staff|-|-|Uma Shanker|(PKK Lib) Asst.CT., uma, Lib., 130|7323|5130, 9839763524
+PK Kelkar Library|Staff|-|-|Chandra Suresh|(PKK Lib) Asst.CT., sureshc, Lib.,1089|7223|5089
+PK Kelkar Library|Staff|-|-|Shukla Rangoli|(PKK Lib.) Jr. Asstt., Rangoli, Tech Hall,  city|7323|9935168254
+PK Kelkar Library|Staff|-|-|Sharma RK|(PKK Lib), Jr. Asstt.,  ramks, 229, IB|7707|5229
+PK Kelkar Library|Staff|-|-|Tewari Rakesh|(PKK Lib), Jr Tech., rakesht, Lib.311, Nankari|7707|2770599
+PK Kelkar Library|Staff|-|-|Prasad Beni|(PKK Lib) Jr.Techt., banip,  227 IB|7223|5227
+PK Kelkar Library|Staff|-|-|Shukla SS|(PKK Lib), Jr Tech., ssshukla, Lib.,168|7323|5168
+PK Kelkar Library|Staff|-|-|Bharat Lal|(PKK Lib).Attdt., bharatl,  B.O., city|7462|9453816488
+PK Kelkar Library|Staff|-|-|Saini A L|(PKK Lib) Attdt., alsaini, Lib 309, city|7891|2570355
+PK Kelkar Library|Staff|-|-|Nishad RP|(PKK Lib) Attdt, ,  Lib., Nankari|7891|2770813, 9415735472
+PK Kelkar Library|Staff|-|-|Srivastava Vandana|(PKK Lib) Attdt., , , 126|7223|5126
+PK Kelkar Library|Staff|-|-|Singh Darshan|(PKK.Lib. ) Hel. B.O, , , City|7462|9839610953
+PK Kelkar Library|Staff|-|-|Ram Pujan|(PKK Lib. ) Hel. B.O, , ,173-A|7462|9236571144
+PK Kelkar Library|Staff|-|-|Srivastava P K|,  pranavks,Lib.Auto.305, city|7153|
+PK Kelkar Library|Section|-|Acquisition & Tech.|(PKK Lib) Lib 203, Tech Hall|7323|
+PK Kelkar Library|Section|-|Automation|(PKK Lib), Lib 305|7153|
+PK Kelkar Library|Section|-|Basement|Library Basement|7135|
+PK Kelkar Library|Section|-|Binding Section|(PKK Lib), Lib. 309|7891|
+PK Kelkar Library|Section|-|Business Office|(PKK Lib), Lib 307|7462|
+PK Kelkar Library|Section|-|Circulation|(PKK Lib), Lib Gnd. Floor|7223|
+PK Kelkar Library|Section|-|Digitization Room|( PKK.  Lib. 306|6119|
+PK Kelkar Library|Section|-|Periodicals|(PKK Lib), Lib 311|7707|
+PK Kelkar Library|Section|-|Ref. & CARS|(PKK Lib), Lib 201|7298|
+PK Kelkar Library|Section|-|Reserve Section|(PKK Lib), Lib 106|7002|
+Motor Transport |Staff|-|-|Sachan, R K|Head, AO, FB 204, 4002|7620|8280
+Motor Transport |Staff|-|-|Singh, Yogendra|I/c, 203|7726|8727
+Motor Transport |Section|-|-|Office||7383|
+Petrol Pump|Section|-|-|Petrol Pump|Main Rd|7321|
+Materials and Metallurgical Engineering |Head|-|-|Mazumdar, Dipak|Head & P, dipak, FB 416|7505, 7328|8535 
+Materials and Metallurgical Engineering |Section|-|-|Office|FB 414|7640| 
+Materials and Metallurgical Engineering |Fax|-|-|Fax| |259 (392) 7505| 
+Materials and Metallurgical Engineering |Faculty|-|-|Balasubramaniam, R|P, bala, WL 204A, 4084|7089|8579, 2591656
+Materials and Metallurgical Engineering |Faculty|-|-|Basu, Bikramjit|ASP, bikram, Ceramic lab, 3006|7771, 7920|8591
+Materials and Metallurgical Engineering |Faculty|-|-|Biswas, Krishanu|AP, kbiswas|6184|8408
+Materials and Metallurgical Engineering |Faculty|-|-|Deo, Brahma|P, bdeo, FB 418, 426|7256|8790
+Materials and Metallurgical Engineering |Faculty|-|-|Dube, RK|P, rkd , WL 210, 479|7769|8330
+Materials and Metallurgical Engineering |Faculty|-|-|Garg, Ashish|AP, ashishg, FB-406, 382|7904|8372
+Materials and Metallurgical Engineering |Faculty|-|-|Gauthama|AP, gouthama, FB-417, 333|7450|8815
+Materials and Metallurgical Engineering |Faculty|-|-|Gupta, Deepak|P, saboo, WL 106, 210, 4093|7353, 7935|8520
+Materials and Metallurgical Engineering |Faculty|-|-|Gupta, Shant P|P, shantpg, WL 205, 4062|7648|8746
+Materials and Metallurgical Engineering |Faculty|-|-|Katiyar, Monica|P, mk, WLE 113, 3063|7941, 6066|8520
+Materials and Metallurgical Engineering |Faculty|-|-|Kallol Mondal|AP, kallol|6156|8679
+Materials and Metallurgical Engineering |Faculty|-|-|Koria, SC|P, satishch, WL 101, 613|7940|8737
+Materials and Metallurgical Engineering |Faculty|-|-|Mazumdar, Dipak|P, dipak, WL 101B, 421|7328|8535, 2592801
+Materials and Metallurgical Engineering |Faculty|-|-|Mishra, BK|P, bk, WL 104, 672|7263|8728
+Materials and Metallurgical Engineering |Acadstaff|-|-|Mahapatra, Sujata|SPSci., sujatakm, FB 411, 3015|6109|8459
+Materials and Metallurgical Engineering |Acadstaff|-|-|Mungole, MN|SRE, mungole, WL 201, 377|7933|8436
+Materials and Metallurgical Engineering |Staff|-|-|Rajput, Rakesh Kumar|Jr. Technician, rkrajput, TA 201, 141|7978|5141
+Materials and Metallurgical Engineering |Faculty|-|-|Sangal, S|P, sangals, WLE 144, 476|7167|8473, 2591493
+Materials and Metallurgical Engineering |Faculty|-|-|Sharma, RC|P, rc, WL 210, 4059|7710|8567
+Materials and Metallurgical Engineering |Staff|-|-|Chandra, Shekhar K|TA, Meta. Lab, 266|7959, 7933|8472
+Materials and Metallurgical Engineering |Faculty|-|-|Shekhar, R|P, vidtan, FB 416, 628|7016|8426
+Materials and Metallurgical Engineering |Faculty|-|-|Subramaniam, Anandh|AP, anandh, FB 408, 3030|7215|8662
+Materials and Metallurgical Engineering |Faculty|-|-|Upadhyaya, Anish|ASP, anishu, FB 408, 348|7672|8559
+Materials and Metallurgical Engineering |Staff|-|-|Singh, Indra Pal|Mech, indraps, W/SExtn, 190|7978|5190
+Materials and Metallurgical Engineering |Staff|-|-|Verma, Anil K|Mech, akumar, W/S Extn|7978|2215903
+Materials and Metallurgical Engineering |Staff|-|-|Soni, SC|STA, scsoni, WL 104A, 263|7342, 6602|8379
+Materials and Metallurgical Engineering |Staff|-|-|Tripathi, DP|STA , durapt, WL-103|7943|2573515
+Materials and Metallurgical Engineering |Staff|-|-|Agnihotri, S K|TA, 1092| |5092
+Materials and Metallurgical Engineering |Staff|-|-|Bajpai, GP|TA, WL 103E gpbajpai, 260|7862, 7978|8323
+Materials and Metallurgical Engineering |Staff|-|-|Kumar, Vijendra|TA, WL, 217|7278|8672, 2590190
+Materials and Metallurgical Engineering |Staff|-|-|Rajan, GB|TA, gbrajan, WL 201, 1030|7933|5030
+Materials and Metallurgical Engineering |Staff|-|-|Sharma, A|TA, as, WL 101, 265|7977|8494
+Materials and Metallurgical Engineering |Staff|-|-|Singh, NP|TA, FB 414|7640| 
+Materials and Metallurgical Engineering |Staff|-|-|Kuril, JL|UDC(SG), FB 414|7640|2770764
+Materials and Metallurgical Engineering |Section|-|-|Analytical Lab|WL 103|7943| 
+Materials and Metallurgical Engineering |Section|-|-|Ceramics Lab|WS II|7920| 
+Materials and Metallurgical Engineering |Section|-|-|Chem. Metallurgy Lab|WL 109|7940| 
+Materials and Metallurgical Engineering |Section|-|-|Crystal Growth Lab: MET|WL 102|6049| 
+Materials and Metallurgical Engineering |Section|-|-|Electro Chem. & Corrosion|WL 204|7974| 
+Materials and Metallurgical Engineering |Section|-|-|Electronic Materials Lab|WL 105|7935| 
+Materials and Metallurgical Engineering |Section|-|-|Engg. Metallurgy Lab|W/S Extn|7978| 
+Materials and Metallurgical Engineering |Section|-|-|Extractive Metallurgy Lab|WL 103|7943| 
+Materials and Metallurgical Engineering |Section|-|-|Heat Treatment Lab|WL 210|7720| 
+Materials and Metallurgical Engineering |Section|-|-|Hydro Metallurgy Lab I|WL 103A|7001| 
+Materials and Metallurgical Engineering |Section|-|-|Hydro Metallurgy Lab II|WL 103E|7862| 
+Materials and Metallurgical Engineering |Section|-|-|Metallography Lab|WL 207|7147| 
+Materials and Metallurgical Engineering |Section|-|-|Metal Working Lab|WL 209|6602| 
+Materials and Metallurgical Engineering |Section|-|-|Material Testing lab|W/S Extn|7959| 
+Materials and Metallurgical Engineering |Section|-|-|Material Science Lab|WL 202 A|7933| 
+Materials and Metallurgical Engineering |Section|-|-|Material Seperation Lab|WS II|7949| 
+Materials and Metallurgical Engineering |Section|-|-|Materials Characterisation|WL 203|7140| 
+Materials and Metallurgical Engineering |Section|-|-|Met. Engg. W/S|WS 11|7969| 
+Materials and Metallurgical Engineering |Section|-|-|Met. Engg. Store|WS 11|7949| 
+Materials and Metallurgical Engineering |Section|-|-|Particulate Materials Lab|WL 104|7263| 
+Materials and Metallurgical Engineering |Section|-|-|Physical Metallurgy Lab|WL 201|7933| 
+Materials and Metallurgical Engineering |Section|-|-|Phase Metallurgy Res. Lab|WL 203|7140| 
+Materials and Metallurgical Engineering |Section|-|-|Phase Stability Lab|WL 214|7934| 
+Materials and Metallurgical Engineering |Section|-|-|Powder Metallurgy Lab|WL 208|7342| 
+Materials and Metallurgical Engineering |Section|-|-|Process Research lab|WL 101|7977| 
+Materials and Metallurgical Engineering |Section|-|-|Pyrometallurgy Lab|WL 113|7918| 
+Materials and Metallurgical Engineering |Section|-|-|SEM Lab|WL 103 A|6053| 
+Materials and Metallurgical Engineering |Section|-|-|Solidifaction Lab|WL 106|7140| 
+Materials and Metallurgical Engineering |Section|-|-|Solidification Res. Lab|WL 203|7140| 
+Materials and Metallurgical Engineering |Section|-|-|Thermodynamics Lab|WL 204|7974| 
+Materials and Metallurgical Engineering |Section|-|-|Thin film charactn. Lab|WL 204, WL 105|7935| 
+Mathematics & Statistics|Head|-|-|Misra, Neeraj |Head, P, FB-566, 602 |7500, 7087|8697, 2592405
+Mathematics & Statistics|Section|-|-|Office |FB 568 |7636| 
+Mathematics & Statistics|Fax|-|-|Fax | |259 (392) 7500 | 
+Mathematics & Statistics|Faculty|-|-|Bahuguna, Dhirendra  |P, dhiren, FB 523, 440 |7053|8604
+Mathematics & Statistics|Faculty|-|-|Banerjee, Mohua |ASP, mohua, FB 505, 4063 |7634|8795
+Mathematics & Statistics|Faculty|-|-|Chandra, Peeyush |P, peeyush, FB 525, 602 |7285|8485
+Mathematics & Statistics|Faculty|-|-|Dar, Aparna |AP, adar, FB 504, 321 |7926|8478
+Mathematics & Statistics|Faculty|-|-|Dhariyal, I D |P, idd, FB 552, 406 |7692|8792, 2590170 
+Mathematics & Statistics|Faculty|-|-|Dutt, Pravir |P, pravir, FB 554, 341 |7074|8594
+Mathematics & Statistics|Faculty|-|-|Dutta, Joydeep |ASP, jdutta, FB 575, 514 |7568|8311
+Mathematics & Statistics|Faculty|-|-|Dutta, Sudipta|AP,sudipta, FB 502, 307|7132|8251
+Mathematics & Statistics|Faculty|-|-|Ghorai, Saktipada |ASP, sghorai, FB 559, 3030 |7461|8335
+Mathematics & Statistics|Faculty|-|-|Gupta, Manjul |P, manjul, FB 517, 655 |7963|8343, 2590089 
+Mathematics & Statistics|Faculty|-|-|Kadalbajoo, M K |P, kadal, FB 519, 464 |7732|8285
+Mathematics & Statistics|Faculty|-|-|Kapoor, G P |P, gp, FB 565, 652 |7609|8253
+Mathematics & Statistics|Faculty|-|-|Kumar, Rathish B V |P, bvrk, FB 571, 3022 |7660|8750
+Mathematics & Statistics|Faculty|-|-|Kundu, Debasis |P, kundu, FB 522, 414 |7141|8271, 2591673 
+Mathematics & Statistics|Faculty|-|-|Lal, Arbind Kumar |P, arlal, FB 560, 353 |7662|8630
+Mathematics & Statistics|Faculty|-|-|Madan, S |P, madan, FB 551, 367 |7402|8502, 2591126 
+Mathematics & Statistics|Faculty|-|-|Maloo, Alok Kumar |ASP, akmaloo, FB 510, 324 |7813|8292
+Mathematics & Statistics|Faculty|-|-|Misra, Neeraj |P, neeraj , FB 573, 478 |7087|8697, 2592405 
+Mathematics & Statistics|Faculty|-|-|Mitra, Amit |ASP, amitra, FB 506, 3056 |6064|8457
+Mathematics & Statistics|Faculty|-|-|Mitra, S |VF, smitra, FB 512, 3056 |6044|8457
+Mathematics & Statistics|Faculty|-|-|Nilakantan, Nandini |AP, nandini, FB 508, 3060 |7066|8295
+Mathematics & Statistics|Faculty|-|-|Patel, S R |Lect., srpatel, FB 574, 506|7880|8576
+Mathematics & Statistics|Faculty|-|-|Mohanty, Parasar |AP, FB 503, 396 |6139|8736
+Mathematics & Statistics|Faculty|-|-|Raghavendra, V |P, vrag, FB 526, 4085 |7084|8614
+Mathematics & Statistics|Faculty|-|-|Rathore, RKS |P, rksr, FB 518, 609 |7228|8741, 2590219 
+Mathematics & Statistics|Faculty|-|-|Rawat, Rama |ASP, rrawat, FB 509, 347 |7466|8490
+Mathematics & Statistics|Faculty|-|-|Ray, SK |AP, skray FB 572, 391 |7972|8717
+Mathematics & Statistics|Faculty|-|-|Santhanam, G |ASP, santhana, FB 558, 4004 |7433|8349
+Mathematics & Statistics|Faculty|-|-|Shalabh |AP, shalab, FB 511, 358 |7905|8238
+Mathematics & Statistics|Faculty|-|-|Sharma, Prabha |AICTE fellow, prabha, FB 507, 517 |7197|8297
+Mathematics & Statistics|Faculty|-|-|Shunmugaraj, P |P, psraj, FB 553, 3041 |7297|8629
+Mathematics & Statistics|Faculty|-|-|Sinha, Prawal |P, prawal, FB 516, 411 |7213|8593, 2591317 
+Mathematics & Statistics|Faculty|-|-|Tewari, UB |P, ubtewari, FB 515, 663 |7015|8211, 2591350 
+Mathematics & Statistics|Staff|-|-|Bajpai, Saurabh|LDC, sbajpai, FB 520, 107 RAH |7399|9935547780
+Mathematics & Statistics|Staff|-|-|Bhatia, AK|Jr. Supdtt, bhatia, FB 568, 1/56 K Nagar|7636|9336728521
+Mathematics & Statistics|Staff|-|-|Mishra, Geeta|Helper, , FB 568, 72A-1|7636|Baraserohi
+Mathematics & Statistics|Staff|-|-|Singh, Jawar|Supdtt., jsyadav, FB 568, 180B|7636|9450351727
+Mathematics & Statistics|Staff|-|-|Nigam, Sarita |Jr. Supdt., sarita, FB 568, 219-II |7636|8359
+Mathematics & Statistics|Staff|-|-|Ramesh|Helper, , FB 568, 65A-I |7636|5365
+Mathematics & Statistics|Staff|-|-|Srivastava, VK|Jr. Supdt., vijai, FB 569, 41-Kailash Mandir|7456|9335594380
+Mathematics & Statistics|Section|-|-|Parallel Computing Lab |FB 555 |7753| 
+Mathematics & Statistics|Section|-|-|PC Lab |FB 520 |7399| 
+Mathematics & Statistics|Section|-|-|ADISL Computer Lab |FB 562 |7742| 
+Materials Science Programme |Head|-|-|Kumar, Jitendra|Head & P, ACMS 206|7107| 
+Materials Science Programme |Section|-|-|Head Office|Meeting Room, ACMS 204 A|7548| 
+Materials Science Programme |Section|-|-|Office|ACMS 204|7740| 
+Materials Science Programme |Fax|-|-|Fax| |259 (392) 7664| 
+Materials Science Programme |Faculty|-|-|Agrawal, DC|E Fellow, agrwald, ACMS 202A, 446|7892|8316, 2590425
+Materials Science Programme |Faculty|-|-|Gupta, Rajeev|AP, guptaraj, ACMS 203A, 3040|6095|8552
+Materials Science Programme |Faculty|-|-|Kar, Kamal K|AP, kamalkk, ACMS 203D, 3014|7687|8703
+Materials Science Programme |Faculty|-|-|Kumar, Jitendra|P, jk, ACMS 206, 4083|7107|8227, 2590682
+Materials Science Programme |Faculty|-|-|Mohapatra, YN|P, ynm, Samtel 201, 439|6621, 7033|8574
+Materials Science Programme |Faculty|-|-|Rai, KN|AICTE fellowship, knrai, 507|7737|8267
+Materials Science Programme |Faculty|-|-|Shahi, K|P, kshahi, ACMS 203C, 607|7042|8731
+Materials Science Programme |Staff|-|-|Danayak, B. Somnath|Junior Technical Superintendent, som, ACMS 210, 2027|7819|8018
+Materials Science Programme |Staff|-|-|Thapa, GS|TA, gsthapa, ACMS 108B / 207A|7082, 7809| 
+Materials Science Programme |Staff|-|-|Yadav, RP|Sr.Assistant, rpyadav, ACMS 204, N'kari|7740, 7819| 
+Materials Science Programme |Section|-|-|Ceramic Processing Lab|ACMS 207B|7809| 
+Materials Science Programme |Section|-|-|Elect. Characteriz. Lab|ACMS 110B|7802| 
+Materials Science Programme |Section|-|-|Mat. Sc. Instructional Lab|ACMS 210|7819| 
+Materials Science Programme |Section|-|-|Nane. Engg. Met.|ACMS 208|7818| 
+Materials Science Programme |Section|-|-|Solid State Ionics Lab|ACMS 207A|7809| 
+Materials Science Programme |Section|-|-|Store|ACMS 209|7815| 
+Materials Science Programme |Section|-|-|Thin Films Lab|ACMS 108 B|7082| 
+Materials Science Programme |Section|-|-|Optical Spectroscopy|ACMS 107|6090| 
+Mechanical Engineering      |Faculty|-|-|Vyas, N S|Head & P, vyas,  Nuc. Lab, 670|7775|8423 
+Mechanical Engineering      |Section|-|-|Office|Nuc.Lab |7627| 
+Mechanical Engineering      |Fax|-|-|Fax| |259 (392) 7408| 
+Mechanical Engineering      |Faculty|-|-|Agarwal, Avinash|ASP, akag, FB 302, 3067|7982|8682
+Mechanical Engineering      |Faculty|-|-|Banerjee, B N|P, bnb, FB 355, 642|7081|8301
+Mechanical Engineering      |Faculty|-|-|Basu, Sumit|ASP, sbasu, NL 211A, 3055|7506   |8511,  2590032
+Mechanical Engineering      |Faculty|-|-|Bhattacharya, Bishakh|ASP, bishakh, NL 211B, 3054|7824|8304
+Mechanical Engineering      |Faculty|-|-|Biswas, Gautam|P, gtm, NL 302, 458|7656|8564
+Mechanical Engineering      |Faculty|-|-|Chatterjee, Aurobinda|PRE, achat, NL 201, 3018|7170|8331
+Mechanical Engineering      |Faculty|-|-|Choudhury, S K|P, choudhry, NL 115, 4097|7270|8406
+Mechanical Engineering      |Faculty|-|-|Dasgupta, Bhaskar|ASP, dasgupta, NL 312, FB 389, 431 |7095, 7995|8706
+Mechanical Engineering      |Faculty|-|-|Deb, K|P, deb, FB 361, 4066|7205, 7668|8310
+Mechanical Engineering      |Faculty|-|-|Dhande, S G|P, director, sgd, Dir. Bungalow|7170, 7220|8333,  2590034
+Mechanical Engineering      |Faculty|-|-|Dutta, Ashish|ASP, adutta, FB 338, 3042|7562|8710
+Mechanical Engineering      |Faculty|-|-|Dixit, PM|P, pmd, FB 360, 4088|7094|8784
+Mechanical Engineering      |Faculty|-|-|Eswaran, V|P, eswar, NL 311, 496|7429|8562
+Mechanical Engineering      |Faculty|-|-|Ghosh, A|EP, amitabha, NLX 115, 428|7010|8510
+Mechanical Engineering      |Faculty|-|-|Ghoshdastidar, P S|P, psg, FB 358, 477|7019|8543
+Mechanical Engineering      |Faculty|-|-|Hatwal, H|P, hhatwal, NL 103, 612|7098|8384,  2591394
+Mechanical Engineering      |Faculty|-|-|Jain, V K|P, vkjain, NLX 115, 654|7916|8646
+Mechanical Engineering      |Faculty|-|-|Kalra, M S|P, msk, Nuc. Bldg., 4069|7527|8269
+Mechanical Engineering      |Faculty|-|-|Kar, Kamal K|ASP, kamalkk, ACMS 203, 3014|7687|8703
+Mechanical Engineering      |Faculty|-|-|Khandekar, Sameer|AP, samkhan, SL-109, 352|7038|8762
+Mechanical Engineering      |Faculty|-|-|Kishore, N N|P, nnk, NL 214, 4086|7049|8793
+Mechanical Engineering      |Faculty|-|-|Mahesh, S|AP, smahesh, NL 202,372|6087, 6024|8812
+Mechanical Engineering      |Faculty|-|-|Mallik, A K|P, akmallik, NL 103, 630|7098|8770
+Mechanical Engineering      |Faculty|-|-|Munshi, P|P, pmunshi, FB 402 Nuc.Bldg., 615|7243, 7512|8573
+Mechanical Engineering      |Faculty|-|-|Muralidhar, K|P, kmurli, NL 301, 436|7182|8421
+Mechanical Engineering      |Faculty|-|-|Panigrahi, P K|P, panig, NL 301, 346|7686|8307
+Mechanical Engineering      |Faculty|-|-|Kumar, Prashant |P, prkumar, NL 216, 494|7048|8268
+Mechanical Engineering      |Faculty|-|-|Pundir, B P|P, pundir, NL 311 B, 4082|7684|8451,  2591344
+Mechanical Engineering      |Faculty|-|-|Raghuram, V|PRE, vraghu, NL 115B, 662|7434|8581,  2591323
+Mechanical Engineering      |Faculty|-|-|Ramkumar, J|AP, jrkumar, NLX 115, 3034|7546|8661
+Mechanical Engineering      |Faculty|-|-|Reddy, N V|ASP, nvr, NLX 115, 356|7362|8273
+Mechanical Engineering      |Faculty|-|-|Saha, Arun K|AP, aksaha, SL 210, 3044|7869  |8553
+Mechanical Engineering      |Faculty|-|-|Sarkar, Subrata|P, subra, FB 353, 437|7942|8462
+Mechanical Engineering      |Faculty|-|-|Saxena, Anupam|AP, anupams, NL 102, 350|7988|8712
+Mechanical Engineering      |Faculty|-|-|Sengupta, A|P, osegu, FB 438, 4064|7035|8705
+Mechanical Engineering      |Acadstaff|-|-|Soundarapandian, K K|RE, kpandian, C115, M-2 SBRA|7923|5522
+Mechanical Engineering      |Faculty|-|-|Venkitanarayanan, P|ASP, venkit, NL 211C, 376|7528|8688
+Mechanical Engineering      |Faculty|-|-|Vyas, N S|P, vyas, NL 101-103, 670|7040,7232|8423, 2591397
+Mechanical Engineering      |Acadstaff|-|-|Gupta, T V K|SRE, 4-I Lab, U-6 SBRA|6035|5606
+Mechanical Engineering      |Staff|-|-|Chauhan, D K S|Sr. Mech., TA 201 , 164|7984|5164
+Mechanical Engineering      |Staff|-|-|Singh, Nafe|Sr.Mech, TA 201, 186|7984|5186
+Mechanical Engineering      |Staff|-|-|Chandra, Suresh |Sr. Mech, schandra, 246|7913|8315
+Mechanical Engineering      |Staff|-|-|Gupta, Naveen K|Mech.,  TA 201, 208 B|7984|5208
+Mechanical Engineering      |Staff|-|-|Kumar, Mahesh |Mech.,  TA 201, 167 B|7984|5267
+Mechanical Engineering      |Staff|-|-|Singh, Virendra|Mech., singhv|7923|2770065
+Mechanical Engineering      |Staff|-|-|Murkhe, Namdeo B|Mech, nbmurke, 1057|7547|5057
+Mechanical Engineering      |Staff|-|-|Bhadhauria, B S|STA, Mfc. Sc. Lab, 257|7923|8814
+Mechanical Engineering      |Staff|-|-|Gond, Phoolchand|STA, pcgond, TA Lab, 2043|7984|8043
+Mechanical Engineering      |Staff|-|-|Goswami, C S|TA, cgoswami, SL 109, 2000|7967|8000
+Mechanical Engineering      |Staff|-|-|Mohd Mohsin|TA, mohsin, 4-I Lab, 1038|7475|5038
+Mechanical Engineering      |Staff|-|-|Thapliyal, Rakesh|TA, trakesh, 218|7984|8290
+Mechanical Engineering      |Staff|-|-|Sharma, H P|TA., hpsharma, TA  201, 279|7984|8789
+Mechanical Engineering      |Staff|-|-|Sharma, Manoj|TA., sharmam, NL 301, N'kari|7928|2770603
+Mechanical Engineering      |Staff|-|-|Shukla, R N|TA, rnshukla, 208, NL-1|7540|8409
+Mechanical Engineering      |Staff|-|-|Singh, Aman|TA, amans, TA  201, 276|7984|8580
+Mechanical Engineering      |Staff|-|-|Sreenivasulu, G|TA, gaddam, TA  201, 2024|7984|8024
+Mechanical Engineering      |Staff|-|-|Verma, Sanjeev K|TA, skverma, 2039|7923|8039
+Mechanical Engineering      |Staff|-|-|Arya, Anil Kumar|LDC, akarya|7627|5232
+Mechanical Engineering      |Staff|-|-|Pandey B D|Junior Tech. Supdt., bdpandey, NL 216, 172 Type I|7966|5172
+Mechanical Engineering      |Staff|-|-|Wahad, Abdul|Sr.Mech, wahad, SL 210, 211|7987|8020
+Mechanical Engineering      |Staff|-|-|Kanaujia, Rakesh|LDC, FB 366, 54 A|6094|8224
+Mechanical Engineering      |Section|-|-|PHD Scholar|FB 369|7392| 
+Mechanical Engineering      |Section|-|-|4 i Lab|Wksp|7475, 6035| 
+Mechanical Engineering      |Section|-|-|Bio-diesel Pilot Plant|Biodiesel Lab|6083| 
+Mechanical Engineering      |Section|-|-|Bio-metrics Lab         |NL 204                   |6639  | 
+Mechanical Engineering      |Section|-|-|CAD Lab|Dwg Hall |7355| 
+Mechanical Engineering      |Section|-|-|CAM Lab| NLX 115 |7149| 
+Mechanical Engineering      |Section|-|-|Comput. Fluid Dyn. Lab|NL 302|7655| 
+Mechanical Engineering      |Section|-|-|Comput. Mechanics Lab|NL 211D|6034| 
+Mechanical Engineering      |Section|-|-|Compu.Turbomachinery Lab|FB-368|6081| 
+Mechanical Engineering      |Section|-|-|Do & Prototype Lab|Near TA-201|7547| 
+Mechanical Engineering      |Section|-|-|Dwg. Hall Complex|NLX |7980| 
+Mechanical Engineering      |Section|-|-|Dynamic Photomechanics|NL 212|7507| 
+Mechanical Engineering      |Section|-|-|Energy Conversion Lab|WLE 301|7658| 
+Mechanical Engineering      |Section|-|-|Engine Research Lab| |7458| 
+Mechanical Engineering      |Section|-|-|Expt. Stress Analysis Lab|NL 216 |7966| 
+Mechanical Engineering      |Section|-|-|Fluid Mechanics Lab|NL 313 |7928| 
+Mechanical Engineering      |Section|-|-|Heat Transfer Lab|SL 210 |7987| 
+Mechanical Engineering      |Section|-|-|Kanpur GA Lab|FB 362 |7668| 
+Mechanical Engineering      |Section|-|-|Manufacturing Science Lab|NL 115 |7923| 
+Mechanical Engineering      |Section|-|-|Material Testing Lab|NL 112 |7540| 
+Mechanical Engineering      |Section|-|-|NDE Lab|NL 214|7237| 
+Mechanical Engineering      |Section|-|-|Optical Instru. Lab| |7142| 
+Mechanical Engineering      |Section|-|-|Photo Mechanics Lab| NL 216|7679| 
+Mechanical Engineering      |Section|-|-|Rapid Prototype Lab|CAD Lab|7838| 
+Mechanical Engineering      |Section|-|-|Railway technology |NL 101|6097| 
+Mechanical Engineering      |Section|-|-|Refrig. & Air conditioning|SL 109 |7967| 
+Mechanical Engineering      |Section|-|-|Reverse Engineering|CAD Lab|7302| 
+Mechanical Engineering      |Section|-|-|RAC Lab| |6140| 
+Mechanical Engineering      |Section|-|-|Smart Materials&Stru Lab|NL 102 |7913| 
+Mechanical Engineering      |Section|-|-|Solar Energy|NL 313|7938| 
+Mechanical Engineering      |Section|-|-|Southern Lab|SL 102, 207|7147| 
+Mechanical Engineering      |Section|-|-|Store|Cent W/s|7956| 
+Mechanical Engineering      |Section|-|-|TA 201 Lab|TA 201 |7984, 7192| 
+Mechanical Engineering      |Section|-|-|Turbulence Research Lab| |7709| 
+Mechanical Engineering      |Section|-|-|Vib. & Dynamics Shop|NL 103 |7983, 7508| 
+National Cadets Core (NCC) |Staff|-|-|Commanding Officer| |7329|8500
+National Cadets Core (NCC) |Section|-|-|Office| |7219| 
+National Cadets Core (NCC) |Staff|-|-|JCO|In-Charge, 114|7329| 
+National Cadets Core (NCC) |Staff|-|-|Hussain, S Yavar|Jr.Supdt., yavar, 2013|7219|8013, 3255588
+National Cadets Core (NCC) |Staff|-|-|Tripathi, M L|Sr. Mech.(SG), 283|7219|8032
+National Cadets Core (NCC) |Staff|-|-|H. S. Singh|NCC Unit|7219|2770113, 9451222577
+Nursery |Staff|-|-|Singh SK|(NUR), TA, satishks|7702|9450339581
+Nursery |Section|-|-|Office|(NUR), Nursery|7702|
+Nursery |Staff|-|-|Ram Bahal|(NUR), Mali, Nursery, 137|7702|5137
+Nuclear Engineering and Technology Programme|Faculty|-|-|Vyas N S|Head & P, vyas,  Nuc. Lab, 670|7775|8423 
+Nuclear Engineering and Technology Programme|Section|-|-|Office| |7627| 
+Nuclear Engineering and Technology Programme|Fax|-|-|Fax| |259 (392) 7408| 
+Nuclear Engineering and Technology Programme|Faculty|-|-|Kalra, MS|P, msk, 4069|7527|8269
+Nuclear Engineering and Technology Programme|Faculty|-|-|Munshi, P|P, pmunshi, FB402, 615|7243, 7512|8573
+Nuclear Engineering and Technology Programme|Faculty|-|-|Sengupta, A|P, osegu, FB 438, 4064|7035|8705
+Nuclear Engineering and Technology Programme|Section|-|-|NET Laboratory|CNF|7964| 
+Nuclear Engineering and Technology Programme|Section|-|-|Tomography Lab| |7902| 
+National Programme on Technology Enhanced Learning |Faculty|-|-|G.Biswas Coordinator|(NPTEL), ME, P, gtm, NL 302, 548|7656|8564
+National Programme on Technology Enhanced Learning |Faculty|-|-|Satyaki Roy Co-Coordinator|(NPTEL), HSS/Design, Lect, satyaki, MLA Bldg., 310|4060|8715
+National Programme on Technology Enhanced Learning |Staff|-|-|Bharat Lal|(NPTEL), lalb, Project Tech., MLA Bldg|4030|9935461848
+National Programme on Technology Enhanced Learning |Section|-|-|Media TC (Video)|(NPTEL), MLA Bldg.|4030|
+National Programme on Technology Enhanced Learning |Section|-|-|Media TC (Web)|(NPTEL), MLA Bldg.|4036|
+Office Automation |Faculty|-|-|Kripa Shanker|Coordinator-DD, dydir/ks, FB 219, 463|7242, 2590771|8755, 2590773
+Office Automation |Faculty|-|-|Karnick, H|Advisor-P, hk, CSE 318, 637|7601|8545
+Office Automation |Faculty|-|-|Prabhakar, T V|Advisor-P, tvp, CSE 317, 665|7618|8556, 2590985
+Office Automation |Faculty|-|-|Bansal, Veena|Advisor-AP, veena,  423|7743|8675, 2591431
+Office Automation |Section|-|-|Office: 1|FB 251 , Office Automation|7747| 
+Office Automation |Section|-|-|Office: 2|CC 226 , Office Automation|7467| 
+Office Automation |Acadstaff|-|-|Ahmed, Khaleeq|Sr. CE, khaleeq, FB 251, 380|7352|8346
+Office Automation |Acadstaff|-|-|Tiwari, Anju|Sr. CE, anjut, FB 251|7352| 
+Office Automation |Acadstaff|-|-|Sengupta, Soma|Sr.CE, ssg, FB 251, 416|7747|8482
+Physics|Faculty|-|-|Yashowanta N. Mohapatra|Head & P, ynm, FB 383,  402|75,637,033|8574
+Physics|Section|-|-|Office| |7641| 
+Physics|Fax|-|-|Fax| |2590914| 
+Physics|Faculty|-|-|Agarwal, S C|P, sca, FB 378, LTE SB 201, 415|7085, 7968|8585
+Physics|Faculty|-|-|Banerjee, Satyajit|ASP, satyajit, SL-108, 509|7559|8275
+Physics|Faculty|-|-|Bhattacharjee, Sudeep|AP, sudeepb, Nuc. Lab, 356|7602, 6113|8245
+Physics|Faculty|-|-|Budhani, R C|P, rcb, SL 113, 4005|7185|8385
+Physics|Faculty|-|-|Chowdhury, Debashish|P, debch, FB 385, 407|7039|8465,  2591205
+Physics|Faculty|-|-|Damodaran S.|Lect.,| | 
+Physics|Faculty|-|-|Dutta, Amit|ASP, dutta, FB 476, 335|7471|8809
+Physics|Faculty|-|-|Ghosh, Tarun Kanti|AP,| | 
+Physics|Faculty|-|-|Gupta, Anjan K|AP, anjankg, SL 107C, 3017|7549|8340
+Physics|Faculty|-|-|Gupta, Rajeev|AP, guptaraj, ACMS 203A, 3040|6095|8552
+Physics|Faculty|-|-|Harbola, M K|P, mkh, FB 488, 482|7823|8223
+Physics|Faculty|-|-|Hossain, Zakir|AP, zakir, SL-306, 334|7464|8651
+Physics|Faculty|-|-|Jain, Pankaj|P, pkjain, FB 474, 624|7663|8518
+Physics|Faculty|-|-|Joglekar, S D|P, sdj, FB 351, 617|7014|8314
+Physics||-|-|Korde, A R|TO(SG), ark, CL 103D, 363|7932|8309, 2592737
+Physics|Faculty|-|-|Kumar, Satyendra|P, satyen, SB 202, 204, 4001|765,479,477,961|8530
+Physics|Faculty|-|-|Mohapatra, Y N|P, ynm, SB 105, Samtel 201, 439|7033|8574
+Physics|Faculty|-|-|Mukherjee, S|AP sutapam, FB 386, 3073|7119|8803
+Physics|Faculty|-|-|Pradhan, A|ASP, asima, SL 111, 4003|7691, 7971|8291
+Physics|Faculty|-|-|Prasad, R|P, rprasad, FB 373, FB 480, 402|7065, 7092|8653,  2591321
+Physics|Acadstaff|-|-|Prem Chand|CSO, prem, SL110, 468|7948|8328
+Physics|Faculty|-|-|Rajeev, K P|ASP, kpraj, SB 107A, 456|7929|8637
+Physics|Faculty|-|-|Ramakrishna, S A|ASP, sar, FB 487, 3023|7449|8805
+Physics|Faculty|-|-|Ravishankar, V|P, vravi, FB 372, 636|7083|8484
+Physics|Faculty|-|-|Raychaudhuri, S|ASP, sreerup, FB 352, 484|7276|8276
+Physics|Faculty|-|-|Sahdev, D|P, ds, SL.110/FB 374, 389|7529, 7006|8516
+Physics|Staff|-|-|Sandhya, S N|RA, sns, FB-477, 636|7524|8484
+Physics|Staff|-|-|Sarkar, Geetanjali|RA, gsarkar, FB-477, 301|7524|8807
+Physics|Staff|-|-|Sarkar, Saswati|Vist, saswati, FB-477, 358|7524|8663
+Physics|Faculty|-|-|Sarkar, Tapobrata|AP, tapo, FB-375, 301|6103|8807
+Physics|Faculty|-|-|Sengupta, G|ASP, sengupta, FB 473, 358|7139|8663
+Physics|Faculty|-|-|Shahi, K|P, kshahi, ACMS 203, 607|7042, 7809|8731
+Physics|Faculty|-|-|Singh, Avinash|P, avinas, FB 376, 4081|7047|8476
+Physics|Faculty|-|-|Sreedhar, V V|AP, sreedhar, FB 387, 3012|7306|8302
+Physics|Faculty|-|-|Subrahmanyam, V|ASP, vmani, FB 475, 375|7912|8769
+Physics|Faculty|-|-|Thareja, R K|P, thareja, SL 212, 629|7143,  7989|8306
+Physics|Faculty|-|-|Verma, H C|P, hcverma, Nu. Phy Lab, 329|7681|8743
+Physics|Faculty|-|-|Verma, M K|ASP, mkv, FB 472, 4074|7396|8515
+Physics|Faculty|-|-|Kulkarni, Vishwas N|P, vnk, Nuc.Lab, 644|7985|8687, 8513
+Physics|Faculty|-|-|Wanare, Harshwardhan|AP, hwanare, FB 489, 379|7885|8752
+Physics|Staff|-|-|Srivastava, A K|Asst., awdhesh, FB 379|6038| 2500329
+Physics|Staff|-|-|Janki Prasad|Sr.Mech., LNt. Plant, City|7266|9839424678
+Physics|Staff|-|-|Jawahar Lal|Sr.Mech.,1021|7266|5021
+Physics|Staff|-|-|Singh, Bahadur|Sr. Mech, 163|7973|5163
+Physics|Staff|-|-|Singh, Man|Sr. Mech, 1035|6038|5035
+Physics|Staff|-|-|Kumar, Manoj|Mech., manojk, SL  310, 1010|7953|5010
+Physics|Staff|-|-|Bajpai, R K|STA, rkbajpai FB 384, 307|7641|8626,  2591023
+Physics|Staff|-|-|Kannaujia, D K|STA, SL 110|7560|9839312942
+Physics|Staff|-|-|Masood, K|STA, khalid, Nucl Lab|7986|9839655707
+Physics|Staff|-|-|Rajput, R S|STA, Nuc.Lab, 259|7986|8546
+Physics|Staff|-|-|Rajendra|STA, 1034| |5034
+Physics|Staff|-|-|Bilas, R|STA, rbilas, SB 104, SB 202, LTE|796,174,076,070|8652
+Physics|Staff|-|-|Jain, R K|TA, SL 111|7971|2572072
+Physics|Staff|-|-|Nath, Manmohan|Jr.Tec, mmnath, 176 B|7973|5276
+Physics|Staff|-|-|Naqvi, H Fatima|TA, E Shop, 231|7932|8477
+Physics|Staff|-|-|Rathaur, A S|TA, arathaur, CL 102B & 105B|7953|9415536480
+Physics|Staff|-|-|Sharma O P|TA, WS II, City|7973|2281298
+Physics|Staff|-|-|Hoshing, G R|Sr.Steno, ghans, FB 384, 209|7641|8294
+Physics|Staff|-|-|Narayanan, G|UDC, narayang, FB 379, 1017|6038|5017
+Physics|Staff|-|-|Rajender|SLA, rdabra, SB 104, 1034|7961, 7407|5034
+Physics|Section|-|-|Amorphous Semicond. Lab|SL 201|7968, 7407| 
+Physics|Section|-|-|Central EPR Lab.|SL 110|7560| 
+Physics|Section|-|-|Central Nuc. Lab.|Central Nuc. Lab|7986| 
+Physics|Section|-|-|Computer Room|FB 483|7610| 
+Physics|Section|-|-|Cond. Matter-Low Dim. Syst|SL 113|7955| 
+Physics|Section|-|-|Condensed Mat. Phy.|SL 205|7965| 
+Physics|Section|-|-|Crystal Growth Lab.|SL 308|7924| 
+Physics|Section|-|-|Electronics shop|CL 103D|7932| 
+Physics|Section|-|-|Ellipsometry Lab.|SB 303|7349| 
+Physics|Section|-|-|Waves & Beams Lab.|Nuclear Lab|6113| 
+Physics|Section|-|-|Laser Lab.|SL 115/116|7712| 
+Physics|Section|-|-|Laser Lab.|SL 212|7989| 
+Physics|Section|-|-|Laser Raman Lab.|SL 111|7971| 
+Physics|Section|-|-|Liquid Helium Plant|SL 107D|7673| 
+Physics|Section|-|-|Liquid Nitrogen Plant|SL Ext.|7266| 
+Physics|Section|-|-|Low Temprature Lab.|SL 107D, 108|7965| 
+Physics|Section|-|-|Massbauer-Positron Lab.|Nucl Bldg|6610| 
+Physics|Section|-|-|Modern Physics Lab|Core Bldg, CL 102D|6071| 
+Physics|Section|-|-|Nano Phy. Lab.|SL-205|7307| 
+Physics|Section|-|-|NMR Lab|SL 108|7559| 
+Physics|Section|-|-|Nuclear Phy. Lab.|Nuc. Lab|7986| 
+Physics|Section|-|-|Optics Lab|CL 104B|7565| 
+Physics|Section|-|-|Optics Lab.|CL 104A|7067| 
+Physics|Section|-|-|Optics Workshop|SL 310|7793| 
+Physics|Section|-|-|Opto Elect.Material Lab|SL 204|7947| 
+Physics|Section|-|-|Phy 101, UG Lab|Core Building, CL 105B|7953| 
+Physics|Section|-|-|Phy Workshop|WS 11|7973| 
+Physics|Section|-|-|Phy. Materials/Comp. Acce.|SL 105C|7993| 
+Physics|Section|-|-|Physics of Elect. & Photon|CL 103C|7033| 
+||-|-||||
+||-|-||||
+||-|-|| | | 
+Physical Education Section |Staff|-|-|Yadav, Vishram|APEO, Stadium, 313|7621|8405
+Physical Education Section |Section|-|-|Office|Stadium|7621| 
+Physical Education Section |Staff|-|-|Prasad, S S|APEO, ssprasad, 3072|7957|8249
+Physical Education Section |Staff|-|-|Mishra, Kumar Pramod|PTI, pramodkm, Stadium, 2038|7957|8038
+Physical Education Section |Staff|-|-|Dhiman, R L|PTI, rldhiman, Stadium, 228|7958|8624
+Physical Education Section |Staff|-|-|Doharey, D P|Stadium, 338|4299|8320
+Physical Education Section |Staff|-|-|Vadi, V R|Coach, vrvadi, Swimming pool, 2021|7762|8602
+Physical Education Section |Staff|-|-|Doharey, Amit|Coach-Stadium, 338|4299|9415487771
+Physical Education Section |Staff|-|-|Kanaujia, R|LDC, Stadium, 157|7958|5157
+Physical Education Section |Section|-|-|Swimming Pool| |7762| 
+Physical Education Section |Section|-|-|Gymnasium Hall| |4299| 
+Post Office & Telecom Centre|Section|-|-|Post Office|Shopping Complex I|7746, 2590245|
+Post Office & Telecom Centre|Staff|-|-|Post Master:Pandey PN|Shopping Complex I|7746, 2590245|8655, 2770069
+Post Office & Telecom Centre|Staff|-|-|Telcom Ctr. I/c: Tripathi SK|Shopping Complex I|7240, 2599902|2599804, 2581892
+Post Office & Telecom Centre|Fax|-|-|Fax Service|Shopping Complex I|2590007|
+Recruitment Section |Staff|-|-|Gonade, Anil P|Supdt, anilp, FB 224, 274|7391|
+Recruitment Section |Staff|-|-|Kumar, Ashok|Jr. Asstt., kashok, FB 224, 1086 Type-I|7391|5086
+Recruitment Section |Staff|-|-|Binu, S|LDC, binus, FB 224, 199 B|7391|5299
+Registrar's Office |Registrar|-|-|Kashalkar, Sanjeev S|Registrar, FB 209, 520|7808|85,779,415,042,485
+Registrar's Office |Staff|-|-|Singh, CP|Asst. Reg., singhcp, FB 206, 3031|7728|86,089,450,137,898
+Registrar's Office |Section|-|-|Office|FB 207|7290| 
+Registrar's Office |Fax|-|-|Fax| |2590465| 
+Registrar's Office |Staff|-|-|Singh, SS|Junior Supdt., FB 207, 366 Nankari|7290|2770113, 9450939010
+Registrar's Office |Staff|-|-|Srivastava, H K L|Sr. Steno, hkls, City|7290|2575417
+Registrar's Office |Staff|-|-|Kaur, Jitendra|UDC, FB 207, jk, City|7290|2232356
+Registrar's Office |Staff|-|-|Mishra Vinod Kr.|Junior Assistant, FB 207, City|7290|9415730203
+Registrar's Office |Staff|-|-|Sandeep Kumar|Junior Assistant, FB 207, 222IB|7290|9457019041
+Sanitation |Staff|-|-|Kharwar Manish K|Sanitory Inspector, kharwar, Security Bldg., 142|7718|5142
+Samtel Centre for Display Technology |Head|-|-|Head|Head|6621| 
+Samtel Centre for Display Technology |Section|-|-|Office|Room No.-204|6622| 
+Samtel Centre for Display Technology |Fax|-|-|Fax| |259 (392) 6621| 
+Samtel Centre for Display Technology |Staff|-|-|Samal, G Sankar|H.No. 506|6088|8360
+Samtel Centre for Display Technology |Staff|-|-|Unni, Narayanan|Visi. Res. Eng., SCDT|6088|8501
+Samtel Centre for Display Technology |Section|-|-|PDU Engineer's Office|Room No.-106|6088| 
+Samtel Centre for Display Technology |Section|-|-|PDU Engineer's|Fax|6089| 
+Samtel Centre for Display Technology |Section|-|-|Device Characterization|Room No.-205|6623| 
+Samtel Centre for Display Technology |Section|-|-|Optical Characterization|Room No.-206|6624| 
+Samtel Centre for Display Technology |Section|-|-|Processing Room P3|Room No.-211|6625| 
+Samtel Centre for Display Technology |Section|-|-|PDU Team Leader|Room No.-101|6626| 
+Samtel Centre for Display Technology |Section|-|-|Processing Room P-2|Room No.-212|6627| 
+Samtel Centre for Display Technology |Section|-|-|Co-Ordinator FAX|Room No.-203|6620| 
+Samtel Centre for Display Technology |Section|-|-|Reception|SCDT Foyer|6654| 
+Samtel Centre for Display Technology |Section|-|-|Processing Room P-1|Room No.-208|6656| 
+Samtel Centre for Display Technology |Section|-|-|Library Room|Room No.-104-A|6657| 
+Samtel Centre for Display Technology |Section|-|-|Meeting Room|Room No.-104 B|6658| 
+Samtel Centre for Display Technology |Section|-|-|Seminar Room|Room No.-105|6659| 
+SC/ST and OBC Cell |Faculty|-|-|Gajbhiye, NS|Liason Officer, P, nsg, 618|7950|8427
+Campus School |Staff|-|-|Siddiqui MA (Principal)|(School -), Prin, CS mahboob 330 |7770|8470
+Campus School |Section|-|-|Office |(School -), CS, |7354| 
+Campus School |Staff|-|-|Shusma Hora |(School -), CS, 270 | |8486
+Kislaya |Section|-|-|Kislaya |(School -), KV Campus, 513|7612| 
+Kendriya Vidyalaya |Staff|-|-|Tewari SK (Principal)|(School -), Prin, kviit, KV, |7719, 2590145| 
+Kendriya Vidyalaya |Section|-|-|Office |(School -), KV |7745| 
+Kendriya Vidyalaya |Section|-|-|Primary Section|(School -), KV |7900| 
+Opportunity School |Staff|-|-|Srivastava RS (Principal)|(School -), Prin, RS, 158|7151|5158
+Opportunity School |Section|-|-|Office |(School -), School Complex, CS|7151| 
+Security Unit |Staff|-|-|Gupta, Rajeev|Advisor, rajeev, NWTF/AE, 3045|7159, 7419|8326
+Security Unit |Staff|-|-|Arya, OP|Sec. Officer, 374|7444, 2590414|8644
+Security Unit |Section|-|-|Office|Sec. Office|7272, 7254| 
+Security Unit |Staff|-|-|Dwivedi, DK|ASO, dineshkd, SIS Off., 2084|7254, 7272|8084
+Security Unit |Staff|-|-|Parasu Ram|ASO-I, parsu, SIS Off., 241|7254|8202
+Security Unit |Staff|-|-|Yadav, BR|ASO, bryadav, Sec Off, 204|7254|8272
+Security Unit |Staff|-|-|Singh, RB|ASO, rajballi, Sec Off., 214|7254|8207
+Security Unit |Staff|-|-|Yadav, KS|ASO, ksyadav, Sec Off., 2099|7254|8099
+Security Unit |Staff|-|-|Gond, SK|ASO, skgond, Sec Off., 2085|7254|8085
+Security Unit |Staff|-|-|Shastri, RP|UDC, rshastri, Sec Off., 1070|7272|5070
+Security Unit |Section|-|-|IIIT Gate Chk. Post|Rly. Xing, IIT Gate|7217| 
+Security Unit |Section|-|-|Academic Gate No. I|Acad. Area - Fac Bldg. Entrance|7400| 
+Security Unit |Section|-|-|Academic Gate No. III|Acad. Area - Lect. Hall Entrance|4050| 
+Security Unit |Section|-|-|Security Chk. Post|Hall 1 gate|4091| 
+Security Unit |Section|-|-|Security Chk. Post|Hall 2 gate|4092| 
+Security Unit |Section|-|-|Security Chk. Post|Hall 3 gate|4093| 
+Security Unit |Section|-|-|Security Chk. Post|Hall 4 gate|4094| 
+Security Unit |Section|-|-|Security Chk. Post|Hall 5 gate|4095| 
+Security Unit |Section|-|-|Security Chk. Post|Hall 6 gate|4096| 
+Security Unit |Section|-|-|Security Chk. Post|Hall 7 gate|4097| 
+Security Unit |Section|-|-|Security Chk. Post|Hall 8 gate|4098| 
+Security Unit |Section|-|-|Sec. Chk. Post GH|Girls Hostel Gate|4300| 
+Security Unit |Section|-|-|Security Chk. Post|Near Xing Swimming Pool|4298| 
+Security Unit |Section|-|-|Security Chk. Post|HC Barrier|7171| 
+Security Unit |Section|-|-|Security Chk. Post|Near type-6 AE turning|7921| 
+Security Unit |Section|-|-|SIS Control Room|SAC Xing|7999| 
+Security Unit |Section|-|-|SIS Barrack|Near NCC| |8999
+Security Unit |Section|-|-|Incharge SIS|SIS Security Office, L-1 SBRA|7910|5614
+Security Unit |Section|-|-|Police Chauki IITK|Type II Crossing|7309| 
+Sidbi Incubation & Innovation & Center (SIIC) |Faculty|-|-|Phani, BV|Head & AP, bvphani, F7-SIIC Building, 3062|7057, 6606, 7979|8657
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|Office|G-1|7979| 
+Sidbi Incubation & Innovation & Center (SIIC) |Fax|-|-|Fax| |259 (392) 7057| 
+Sidbi Incubation & Innovation & Center (SIIC) |Staff|-|-|Misra, Ram|R Sc., misraram, G-1, 2007|7057|8007
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|Reception|SIDBI|6629| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|WESPL Office|F-4-1|6651| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|ASPL|F-1|6630| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|IESPL|F-2|6652| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|Electronic Cell|F-7|6646| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|Knowledge Online|F-6|6645| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|WESPL Lab|S-1|6634| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|MSSPL|F-4-2|6635| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|SIIC Lounge|S-7|6637| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|WECPL|G-3|6631| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|WECPL Lab|G-6|6628| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|Small Room|F-3|6636| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|Animation Cell|G-2|6648| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|SIIC Library|S-6|6649| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|Conference Room| |6653| 
+Sidbi Incubation & Innovation & Center (SIIC) |Section|-|-|WRMSPL|G-5|6650| 
+Staff Training Unit |Staff|-|-|Behari, Avadh|AR, abehari, WL 306, 4092|7701|5526
+Staff Training Unit |Section|-|-|Office|WL 306|7358| 
+State Bank of India |Section|-|-|Office-SBI |(SBI-), Shop C, |7361, 2590592| 
+State Bank of India |Fax|-|-|FAX |(SBI-), Shop C, |2590980| 
+State Bank of India |Section|-|-|Chief Manager SBI |(SBI-), 668 | |8761
+Central Store and Purchasing|Incharge|AR|-|Dakhale KN |AR, kdakhale, Central Store, 3019|7384|8471
+Central Store and Purchasing|Section|-|-|Office|ÿ|7214|ÿ
+Central Store and Purchasing|Fax|-|-|Fax|ÿ|259 (392) 7659 |ÿ 
+Central Store and Purchasing|Staff|-|-|Kumar, Prem|Sr. Assistant, premk, Central Store, City|7216|9889895723
+Central Store and Purchasing|Staff|-|-|Ghosh, Subir|Jr. Assistant, subir, Central Store,City|7216|9336201007
+Central Store and Purchasing|Staff|-|-|Ambedkar Subhash|Sr. Steno, , Central Store, City|7216|ÿ
+Central Store and Purchasing|Staff|-|-|Amarya Neeru|Jr. Assistant, namarya, Central Store, City|7216|9936761793
+Central Store and Purchasing|Staff|-|-|Mall, JP|Jr. Supdt., ,Central Store, City|7275|3450130213
+Central Store and Purchasing|Staff|-|-|Nandan, AK|Jr. Supdt., ,Central Store, Nankari|7214|2770001
+Central Store and Purchasing|Staff|-|-|Yadav, RA|Jr. Supdt., rayadav, Central Store, Nankari|7214|9450351698
+Central Store and Purchasing|Staff|-|-|Gupta Susma|Jr. Supdt., , Central Store, City|7214|ÿ
+Central Store and Purchasing|Staff|-|-|Devi Asha|Jr. Supdt., aashs, Central Store, 2057|7214|8057
+Central Store and Purchasing|Staff|-|-|Pandey KK|Jr. Assistant, kkpandey, Central Store, Nankari|7275|9935745491
+Central Store and Purchasing|Staff|-|-|Katyal SK|Jr. Supdt., , Central Store, City|7316|2611848
+Central Store and Purchasing|Staff|-|-|Mishra, GP|Jr. Supdt., gpmishra, Central Store, 288|7316|8286
+Students' Placement and Career Centre |Chairman|-|-|Lohani Bharat|Chairman-SPC, blohani|7413, 4425|8719
+Students' Placement and Career Centre |Section|-|-|Office|spo, 109 Outreach Building|4433, 4434| 
+Students' Placement and Career Centre |Fax|-|-|Fax| |259 (392) 4434| 
+Students' Placement and Career Centre |Staff|-|-|Negi, SS|Jr Tech.Suptdt, ssnegi, 109 Outreach Building, 237|4433|8233
+Students' Placement and Career Centre |Staff|-|-|Jaiswal, Sanjay|Jr. Asst., sanjayj, 109 Outreach Building, 173 Type I|4433|5173
+Students' Placement and Career Centre |Section|-|-|UG Co-ordinator|B-203 HALL I| |4064
+Students' Placement and Career Centre |Section|-|-|DD Co-ordinator|B-106 HALL VIII| |4063
+Students' Placement and Career Centre |Section|-|-|PG Co-ordinator|B-207/VIII| |4065
+Telephone Unit |Chairman|-|-|YN Singh|(Chair TAC) ASP, ynsingh, EE-310B,4073|7944|8796
+Telephone Unit |Faculty|-|-|Krishna Pal|In-charge, kpal, 2094|7211|8210, 2590028
+Telephone Unit |Section|-|-|Office| |7212| 
+Telephone Unit |Fax|-|-|Fax| |2590261| 
+Telephone Unit |Staff|-|-|Srivastava, JP|TA, jpsriv, 212|7703|8778
+Telephone Unit |Staff|-|-|Rao, RKL|Opr SG, 2044|7212|8205
+Telephone Unit |Staff|-|-|HCL Engineers|HCL, sanchar, 514|7544|8400
+Telephone Unit |Section|-|-|Enquiry & Complaints|near CC|7210, 7200, 3000, 2590151
+Union Bank of India| |-|-|Office-Extn. Counter |(UBI-), IIT Shoping Centre|7676,  2591044| 
+Visitors' Hostel|Staff|-|-|Satya Murty KV|AR, kvsatya, Directorate, FB-217, 3049|7357|8303
+Visitors' Hostel|Staff|-|-|Sharma, Veena|C Mgr., veenas, 507|8101|8391
+Visitors' Hostel|Staff|-|-|Katiyar, Alok|Asst. Care Taker, alok, 1002|7491|5140
+Visitors' Hostel|Staff|-|-|Shah, Sanjeev K|Asst. Care Taker, skshah, 138|8129|5138
+Visitors' Hostel|Staff|-|-|Tarachand|Helper, 213| |5213
+Visitors' Hostel|Staff|-|-|Om Prakash|Cook, 191| |5191
+Visitors' Hostel|Section|-|-|Reception|Front office|7209, 7202| 
+Visitors' Hostel|Section|-|-|Dining Hall| |7246| 
+Visitors' Hostel|Section|-|-|New Dining Hall| |8172| 
+Visitors' Hostel|Section|-|-|House Keeping| |8171| 
+Visitors' Hostel|Section|-|-|VH Lounge| |7245| 
+Visitors' Hostel|Section|-|-|PBCEC – Main Counter| |7490| 
+Visitors' Hostel|Section|-|-|PBCEC – Lobby| |7491| 
+Visitors' Hostel|Section|-|-|PBCEC Conference Room| |7493| 
+Visitors' Hostel|Section|-|-|Single Rooms|101 to 170|8101 to 8170| 
+Visitors' Hostel|Section|-|-|Double Rooms|D 01 to D 15|8181 to 8195| 
+Visiting Faculty Apartment|Section|-|-|VFA Office ||8100|
+Visiting Faculty Apartment|Section|-|-|Apartment B-1||8173|
+Visiting Faculty Apartment|Section|-|-|Apartment B-2||8174|
+Visiting Faculty Apartment|Section|-|-|Apartment B-3||8175|
+Visiting Faculty Apartment|Section|-|-|Apartment B-4||8176|
+Visiting Faculty Apartment|Section|-|-|Apartment A-1||8177|
+Visiting Faculty Apartment|Section|-|-|Apartment A-2||8178|
+Visiting Faculty Apartment|Section|-|-|Apartment A-3||8179|
+Visiting Faculty Apartment|Section|-|-|Apartment A-4||8180|
+Visiting Faculty Apartment|Section|-|-|Apartment A-5||8196|
+Visiting Faculty Apartment|Section|-|-|Apartment A-6||8197|
+Visiting Faculty Apartment|Section|-|-|Apartment A-7||8198|
+Visiting Faculty Apartment|Section|-|-|Apartment A-8||8199|
+Vigilance Office |Faculty|-|-|Sathyamurthy, N|CVO, P, nsath, SL 301, 418|7367|8435, 2590313
+Vigilance Office |Section|-|-|Office|FB 203|7271| 
+IIT System's Portal||-|-|Agarwal Rachna|Sr. Project Engineer, rachna, CC 202, 622|7465|8363

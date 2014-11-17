@@ -1,0 +1,97 @@
+\documentclass{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{parskip}
+\usepackage{epsfig}
+\usepackage[latin1]{inputenc}
+\usepackage{pst-node,pst-dbicons}
+
+%\addtolength{\topmargin}{-2.5cm}
+\special{landscape}
+%\textheight17cm
+%\textwidth28cm
+\evensidemargin-1.5cm
+\oddsidemargin-1.5cm
+
+\seticonparams{entity}{shadow=true,fillcolor=black!30,fillstyle=solid}
+\seticonparams{attribute}{fillcolor=black!10,fillstyle=solid}
+\seticonparams{relationship}{shadow=true,fillcolor=black!20,fillstyle=solid}
+
+\pagestyle{plain}
+
+\title{\huge{CS315:PROJECT\\Hall Management System}}
+\author{Pranjal Singh - 10511\\   \\ \{spranjal\}@iitk.ac.in}
+\date{\today}
+\begin{document}
+\maketitle
+\section{Introduction}
+The Hall Management System is a portal with a database of all the residents and employees of a hostel in IIT Kanpur. It contains
+all the details of a student related to his bills and his personal information. Similarly all the information related to employees of a hostel are stored in the database. This portal is necessary in current hostel system so that all the necessary informations whether they are bills, complaints, office related matter can be viewed online. A student can also find specific details about a hall employee.
+
+\section{Entities}
+\subsection{Students}
+They are the residents of a hall who have a relationship with \emph{Issues} entity and another entity called \emph{Details} which contains more details about them. Their attributes are Name, Dept, AccNo, rollno, roomno, Hall, Email.
+
+\subsection{StudDetails}
+It contains more details about a student including their bills and personal information like CanteenBill, MessBill, ShopBill, GuardianName, HomeAddr, BloodGrp, Laptop, PhoneNo, IP, Email, Courier (if there is some pending courier to be received from hall offfice).
+
+\subsection{StudentIssues}
+It is a placeholder for all the complaints and problems of a student. A student can have multiple complaints against his Email. Its attributes are Email, Complaint, cid(Complaint ID).
+
+\subsection{Employees}
+It contains all the information of a employee working in a hall and their personal information like EmpID, Name, Designation, Address, PhoneNo, Email, AccNo.
+
+\subsection{EmpIssues}
+It is a placeholder for all the complaints and problems of a employee. An employee can have multiple complaints against his Email. Its attributes are Email, Complaint, cid(Complaint ID).
+
+
+\newpage
+\section{ER-Diagram}
+\vspace{2cm}
+\begin{tabular}{c}
+
+\hspace{4cm}
+\entity{Students} \hspace*{9cm} \entity{StudentIssues}  \\[5cm]
+\entity{StudDetails} \\[5cm]
+\entity{Employees} \hspace*{9cm} \entity{EmpIssues}
+\end{tabular}
+
+\attributeof{Students}[4em]{30}[key]{Email}
+\attributeof{Students}[4em]{250}{Name}
+\attributeof{Students}[4em]{90}{AccNo}
+\attributeof{Students}{120}{Dept}
+\attributeof{Students}[5em]{150}{Hall}
+\attributeof{Students}[4em]{180}{rollno}
+\attributeof{Students}[4em]{210}{roomno}
+
+\attributeof{StudentIssues}[4em]{90}[key]{cid}
+\attributeof{StudentIssues}[4em]{270}{Complaint}
+\attributeof{StudentIssues}[4em]{30}{Email}
+
+\attributeof{StudDetails}[4em]{0}[key]{Email}
+\attributeof{StudDetails}[4em]{30}{IP}
+\attributeof{StudDetails}[6em]{55}{PhoneNo}
+\attributeof{StudDetails}[5em]{90}{Laptop}
+\attributeof{StudDetails}[4em]{150}{BloodGrp}
+\attributeof{StudDetails}[4em]{180}{HomeAddr}
+\attributeof{StudDetails}[4em]{210}{GuardianName}
+\attributeof{StudDetails}[6em]{230}{MessBill}
+\attributeof{StudDetails}[4em]{270}{CanteenBill}
+\attributeof{StudDetails}[4em]{330}{ShopBill}
+\attributeof{StudDetails}[6em]{310}{Courier}
+
+\attributeof{Employees}[4em]{30}[key]{EmpID}
+\attributeof{Employees}[4em]{270}{Name}
+\attributeof{Employees}[4em]{90}{Designation}
+\attributeof{Employees}[4em]{330}{Address}
+\attributeof{Employees}[5em]{150}{PhoneNo}
+\attributeof{Employees}[4em]{180}{Email}
+\attributeof{Employees}[4em]{210}{AccNo}
+
+\attributeof{EmpIssues}[4em]{90}{EmpID}
+\attributeof{EmpIssues}[4em]{270}{Complaint}
+\attributeof{EmpIssues}[4em]{30}[key]{cid}
+
+\relationshipbetween{Students}[0:1]{StudentIssues}[1:N]{havethese}
+\relationshipbetween{Students}[1:1]{StudDetails}[1:1]{with}
+\relationshipbetween{Employees}[0:1]{EmpIssues}[1:N]{have}
+\end{document}

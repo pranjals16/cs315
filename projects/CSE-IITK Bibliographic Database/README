@@ -1,0 +1,12 @@
+CSE-IITK Research Paper Database: Group 32
+
+1) We are using connections to the IITK for login authentication and mailing. So the link would not work after 12 from outside the academic area.
+//Please see loginsubmit.php and change as necessary
+
+2) Currently we are mailing the research query to akar@ and adityah@. Please check query_process.php for the same. We have removed the password for safety. Please see comments on lines 40 and 41.
+
+3) We do not have DOIs for all the papers. So the link to some of the papers might not work. 
+
+4) We have attached the .sql dump for the database. Please name the database as DBLP as we have used it throughout the code. We have tested on the lampp stack on our own laptops. Please see the file dbconnect and enter your phpmyadmin username and password in line 4.
+
+ 

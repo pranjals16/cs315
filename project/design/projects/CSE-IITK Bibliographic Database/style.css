@@ -1,0 +1,181 @@
+body {
+margin: 0 auto;
+padding: 0;
+font: 100% calibri;
+line-height: 1.7em;
+text-align:left;
+color: #000033;
+background:   #4E68A4 url(images/bgd3.jpg) center repeat-y;
+}
+
+#top_table
+{
+	margin-top:212px;
+}
+
+
+#content_full {
+width: 750px;
+margin-left: 0px;
+padding: 0 10px;
+color: #000033;
+
+}	
+/* This is the css style that will make your text blink.*/
+.blinkytext {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 0.9em;
+     text-decoration: blink;
+     font-style: normal;
+ }
+#container {
+	width: 1000px;
+	margin: 0 auto;
+}
+a {
+color: #0099FF;
+text-decoration: none;
+}
+a:hover {
+background: #eee;
+text-decoration:underline;
+color:  #000033;
+}
+
+#navcontainer
+{
+	background-image:url(images/menu3.png);
+}
+
+#banner {
+width: 1000px;
+margin: 0 0 30px 0;
+padding: 0;
+height: 267px;
+background: #000 url(images/banner_blue.jpg) no-repeat;
+}
+
+#top_nav {
+align: "center";
+margin: 0;
+padding: 20px 0 20px 10px;
+border-bottom: 0px ridge #aaa;
+}
+#top_nav li {
+margin: 0;
+padding: 0;
+display: inline;
+list-style-type: none;
+}
+#top_nav a:link, #top_nav a:visited {
+float: left;
+font-size: 1.2em;
+letter-spacing: 3px;
+line-height: 1em;
+font-weight: normal;
+padding: 0 12px 6px 12px;
+text-decoration: none;
+color: #FFFFFF;
+font-weight:bold;
+}
+#top_nav a:hover{
+color: #000033;
+background: url(images/pyramid.png) no-repeat bottom center;
+}
+a.active{
+color: #000033;
+background: url(images/pyramid.png) no-repeat bottom center;
+}								
+#side {
+width: 150px;
+float: left;
+margin: 0 auto;
+padding: 0 20px;
+
+
+}
+#side p { 
+margin: 1em 0 1em 0; 
+}
+			/* SIDE NAV */		
+#side ul {
+list-style : none;
+margin : 20px 0;
+padding : 0;
+}
+#side ul li {
+display : inline;
+padding : 0;
+margin : 0;
+}
+#side ul li a {
+display : block;
+font-weight: bold;
+color: #000033;
+text-decoration : none;
+margin : 0;
+padding : 3px 0;
+border-bottom : 1px solid #aaa;
+}
+#side ul li a:hover, a:active {
+text-decoration : none;
+color : #000;
+background: url(images/pyramid_blue.gif) no-repeat left;
+background-color:#FFFBF0;
+} 
+				
+#content {
+width: 1000px;
+margin-left: 200px;margin-right: 200px;
+padding: 0 10px;
+color: #000033;
+
+}
+								
+#footer {	
+margin-top: 90px;
+padding: .5em;
+clear: both;
+font-size: 11px;
+color: #FFFFFF;
+background: #364C85;
+border-top: 1px solid #aaa;
+}
+
+#footer a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+#footer a:hover
+{
+	text-decoration: underline;
+}
+blockquote {
+font-weight : bold;
+font-style : italic;
+color: #000033;
+}
+
+.h1
+{
+color:#2A0000;
+font-weight:bold;
+font-size:20px;
+
+}
+
+.h2 {
+color: #3D61A3;
+text-decoration: none;
+font-size: 12pt;
+font-weight: bold;
+text-align:center;
+}
+
+div.h3 {
+		text-align:center;
+      font-size: 15pt;
+	  font-weight:bold;
+}

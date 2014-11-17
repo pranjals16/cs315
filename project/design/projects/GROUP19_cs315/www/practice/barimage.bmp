@@ -1,0 +1,15 @@
+<?php
+
+	  $admin_pass = admin;
+
+
+	  $db_host = localhost;
+	  $db_name = my_db;
+	  $db_user = deepak;
+	  $db_password ="iw2fmyw1" ;
+
+	  $tempz[form] = "templates/quiz_form_template.html";
+
+	 $email_not_required = 1; 
+	
+?>

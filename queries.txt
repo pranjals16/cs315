@@ -1,0 +1,17 @@
+1) \project_{pizza}(
+((\project_{name} Person)
+\intersect
+(\project_{name}
+           \select_{gender='female' and age>20}
+           Person)
+         \join Eats))
+
+
+3) \project_{pizzeria,name,pizza}(
+((\project_{pizzeria,pizza} 
+             \select_{price<10}
+             Serves)
+\intersect 
+(\project_{pizza}
+              \select_{name='Amy' or name='Fay'}
+              Eats))

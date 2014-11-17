@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{parskip}
+\usepackage{epsfig}
+\usepackage[latin1]{inputenc}
+\usepackage[normalem]{ulem}
+
+%\special{landscape}
+\evensidemargin-1.5cm
+\oddsidemargin-1.5cm
+
+\pagestyle{plain}
+
+\title{\huge{CS315:PROJECT\\Hall Management System\\Phase 3(Relation Design)}}
+\author{Pranjal Singh - 10511\\   \\ \{spranjal\}@iitk.ac.in}
+\date{\today}
+\begin{document}
+\maketitle
+\section{Tables}
+
+
+\subsection{Entity Sets}
+
+\begin{itemize}
+\item Students (\uline{Email},Name,AccNo,Dept,HallNo,Rollno,Roomno,IP,PhoneNo,Laptop,BloodGrp,HomeAddr,GuardianName,\\MessBill,CanteenBill,Courier,ShopBill)
+\item StudentIssues (\uline{cid},CompEmail,StudComplaint)
+\item Employees (\uline{EmpID},Designation,PhoneNo,EmpEmail,AccNo,Name,Address)
+\item EmpIssues (\uline{ccid},CompEmpID,EmpComplaint)
+\end{itemize}
+
+\subsection{Relationships}
+
+\begin{itemize}
+\item havethese (\uline{Studcid},StudEmail)
+\item have (\uline{Empcid},EEmpID)
+\end{itemize}
+
+
+\section{Normalization}
+The above set of tables are already in normalized form.\\
+All the underlined items in each table functionally determine all other items and each underlined item is a \emph{superkey}. Hence relation is in BCNF.\\
+Initially in ER Diagram, there were 2 tables namely Students and StudDetails which have been merged into one due to 1-1 relationship.
+
+\section{Integrity Constraints}
+
+\subsection{Students}
+Email:Primary Key
+
+\subsection{StudentIssues}
+cid:Primary Key\\
+CompEmail: Foreign Key(Email from Students Table)
+
+\subsection{Employees}
+EmpID:Primary Key
+
+\subsection{EmpIssues}
+ccid:Primary Key\\
+CompEmpID: Foreign Key(EmpID from Employees Table)
+
+\subsection{havethese}
+Studcid:Primary Key, Foreign Key(cid from StudentIssues Table)\\
+StudEmail: Foreign Key(Email from Students Table)
+
+\subsection{have}
+Empcid:Primary Key, Foreign Key(ccid from EmpIssues Table)\\
+EEmpID: Foreign Key(EmpID from Employees Table)
+
+\end{document}

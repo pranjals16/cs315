@@ -1,0 +1,27 @@
+\([A-Z][a-z]+\) +\([A-Z][a-z]+\)+\([A-Z][a-z]+\)+\([A-Z][a-z]+\)
+
+
+\([A-Za-z ]+\)\([A-Z][a-z]+ \)\([A-Z][a-z]+ \)
+Bhabani Shankar phd chm
+Prashant Dubey phd chm
+
+
+\([A-Z][a-z]+\) \([A-Za-z ]*\)
+
+
+\([a-z]+\)\t\([A-Za-z ]*\)
+values("\1" , "\2") ,
+
+
+values ( 'Y123', 'DOSA'),
+values ( 'Y124', 'DOAA'),
+values ( 'Y125', 'DRPG'),
+values ( 'Y126', 'CSE_HOD');
+
+
+
+
+
+\([a-z]+\)\t\([A-Za-z \t.]*\)
+\([a-z]+\)\t\([A-Za-z \t.]*\)
+values("\1" , "\2") ,
